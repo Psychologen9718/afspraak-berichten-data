@@ -1,7 +1,336 @@
 {
-     "schema_versie": 1,
-     "laatst_bijgewerkt": "2026-08-18",
-     "behandelaars": [],
-     "locaties": [],
-     "templates": {}
-   }
+  "schema_versie": 1,
+  "laatst_bijgewerkt": "2026-08-18",
+  "behandelaars": {
+    "Hester van der Wal": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Leonie Nijboer": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Marieke Van der Meer-Benedictus": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Michiel Eebes": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Renate Reker": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Roanne van der Aa": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Tommy Rossen": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Leanne Bruin": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Barbara Loomans": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Hanneke Anker Smit": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Joep van den Brink": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Kyria Kruize": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Monique Spakman": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Sanne Vink": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Ytsje Van Stiphout-Oosterhaven": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "kleur": "#50C878",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Peter Huls": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "kleur": "#50C878",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Alan Rodic": {
+      "locatie": "Krimpertplein 32",
+      "kleur": "#E8A838",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Tijmen Posthouwer": {
+      "locatie": "Florijn 5A",
+      "kleur": "#FF69B4",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Maret van der vlies": {
+      "locatie": "Jan Tooropstraat 44",
+      "kleur": "#E05555",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Romee van der vlies": {
+      "locatie": "Jan Tooropstraat 44",
+      "kleur": "#E05555",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Sanae Fatouh": {
+      "locatie": "Jan Tooropstraat 44",
+      "kleur": "#E05555",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Valerie Seiffers": {
+      "locatie": "Jan Tooropstraat 44",
+      "kleur": "#E05555",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Corien Gosker": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": "Waterviolier 1 in Meerstad", "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Kawa Al Ali": {
+      "locatie": "Krimpertplein 32",
+      "kleur": "#888888",
+      "locaties_per_dag": {"ma": "Waterviolier 1 in Meerstad", "di": "HW Mesdagstraat 64a", "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Nisrine Ben Haddou": {
+      "locatie": "Krimpertplein 32",
+      "kleur": "#E8A838",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Anna Creemers": {
+      "locatie": "Jan Tooropstraat 44",
+      "kleur": "#E05555",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Wesley Kruise": {
+      "locatie": "Radesingel 6",
+      "kleur": "#7B68EE",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Hanriette visser": {
+      "locatie": "Jan Tooropstraat 44",
+      "kleur": "#E05555",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Esmee Palamba": {
+      "locatie": "Krimpertplein 32",
+      "kleur": "#E8A838",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Maxime van Eck": {
+      "locatie": "Krimpertplein 32",
+      "kleur": "#E8A838",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Johan Mostertman": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "kleur": "#50C878",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": "HW Mesdagstraat 64a", "zo": null}
+    },
+    "Ruben Stam": {
+      "locatie": "Florijn 5A",
+      "kleur": "#FF69B4",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Fleur van Harmelen": {
+      "locatie": "HW Mesdagstraat 64a",
+      "kleur": "#4A90D9",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    },
+    "Sammy Peter": {
+      "locatie": "Geen vaste locatie",
+      "kleur": "#888888",
+      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+    }
+  },
+  "locaties": [
+    "HW Mesdagstraat 64a",
+    "Radesingel 6",
+    "Waterviolier 1 in Meerstad",
+    "Krimpertplein 32",
+    "Jan Tooropstraat 44",
+    "Geen vaste locatie",
+    "Florijn 5A"
+  ],
+  "wachttijden": [
+    "12 en 16 weken",
+    "8 en 12 weken",
+    "14 tot 18 weken"
+  ],
+  "templates": [
+    {
+      "naam": "Gat voorstellen — één behandelaar",
+      "type": "enkel",
+      "inhoud_nl": "{aanhef},\n\nWij hebben de verwijzing van uw huisarts in goede orde ontvangen bij Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nOm uw intake in te plannen, sturen wij u een voorstel met mogelijke data en tijdstippen, zodat u kunt aangeven welk moment u schikt.\n\nMomenteel hebben wij een plek vrij bij onze behandelaar {behandelaar} op onze locatie aan de {locatie}. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt. Indien moment niet schikt wilt u in een reactie op dit bericht aangeven:\n•⁠  ⁠Welke dagen en tijdstippen voor u het beste uitkomen;\n•⁠  ⁠Of er vaste dagen zijn waarop u standaard niet beschikbaar bent.\n\nOnze werkwijze \nOm u zo snel mogelijk te helpen, plannen wij afspraken maximaal één week vooruit. Toch vragen wij uw beschikbaarheid voor drie weken, voor het geval er op korte termijn geen plek is. Zodra wij uw reactie hebben ontvangen én er een plek vrij is, sturen wij u een bericht met een voorstel. Alleen in enkele gevallen, bijvoorbeeld als er op zeer korte termijn een plek vrijkomt, bellen wij u (anoniem) op.\n\nBenodigde gegevens voor intake \nVoor de administratieve afhandeling en verificatie ontvangen wij graag alvast de volgende gegevens:\n•⁠  ⁠Het type identiteitsbewijs dat u gaat gebruiken (bijv. paspoort, ID-kaart of rijbewijs);\n•⁠  ⁠Het bijbehorende documentnummer.\n\nVergeet niet dit document ook fysiek mee te nemen naar de eerste afspraak.\n\nLet op: U ontvangt pas weer bericht van ons zodra er een plek beschikbaar is. Tussentijds ontvangt u geen update, maar bij dringende vragen mag u ons uiteraard berichten.\n\nAlvast bedankt voor uw reactie. Wij zien u graag binnenkort voor de intake.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe have successfully received the referral from your GP at Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nTo schedule your intake, we are sending you a proposal with potential dates and times so you can indicate which moment suits you best.\n\nWe currently have availability with our practitioner {behandelaar} at our location at {locatie}. This concerns the following time:\n{momenten}\n\nPlease let us know if this time suits you. If this moment is not convenient, please reply to this message and indicate:\n\n- Which days and times work best for you;\n- If there are any specific days on which you are consistently unavailable.\n\nOur procedure:\nTo help you as quickly as possible, we schedule appointments a maximum of one week in advance. However, we ask for your availability for the next three weeks, in case there is no immediate opening. Once we have received your response and a slot becomes available, we will send you a message with a proposal. We will only call you (from a withheld number) in exceptional cases, for example, if a spot opens up at very short notice.\n\nRequired information for intake:\nFor administrative processing and verification, please provide the following details in advance:\n- The type of identification you will be using (e.g., passport, ID card, or driver’s license);\n- The corresponding document number.\n\nPlease remember to bring this document with you to your first appointment.\n\nPlease note: You will only hear from us again once a spot is available. You will not receive updates in the meantime, but you are welcome to contact us if you have any urgent questions.\n\nThank you in advance for your cooperation. We look forward to seeing you soon for the intake.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — meerdere behandelaars",
+      "type": "meerdere",
+      "inhoud_nl": "{aanhef},\n\nWij hebben de verwijzing van uw huisarts in goede orde ontvangen bij Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nOm uw intake in te plannen, sturen wij u een voorstel met mogelijke data en tijdstippen, zodat u kunt aangeven welk moment u schikt.\n\nMomenteel hebben wij plekken vrij. Het gaat om de volgende momenten:\n{momenten}\n\nGraag horen wij van u welk van deze momenten u schikt. Indien deze momenten u niet schikken, wilt u in een reactie op dit bericht aangeven:\n- Welke dagen en tijdstippen voor u het beste uitkomen;\n- Of er vaste dagen zijn waarop u standaard niet beschikbaar bent.\n\nOnze werkwijze:\nOm u zo snel mogelijk te helpen, plannen wij afspraken maximaal één week vooruit. Toch vragen wij uw beschikbaarheid voor drie weken, voor het geval er op korte termijn geen plek is. Zodra wij uw reactie hebben ontvangen én er een plek vrij is, sturen wij u een bericht met een voorstel. Alleen in enkele gevallen, bijvoorbeeld als er op zeer korte termijn een plek vrijkomt, bellen wij u (anoniem) op.\n\nBenodigde gegevens voor intake:\nVoor de administratieve afhandeling en verificatie ontvangen wij graag alvast de volgende gegevens:\n- Het type identiteitsbewijs dat u gaat gebruiken (bijv. paspoort, ID-kaart of rijbewijs);\n- Het bijbehorende documentnummer.\n\nVergeet niet dit document ook fysiek mee te nemen naar de eerste afspraak.\n\nLet op: U ontvangt pas weer bericht van ons zodra er een plek beschikbaar is. Tussentijds ontvangt u geen update, maar bij dringende vragen mag u ons uiteraard berichten.\n\nAlvast bedankt voor uw reactie. Wij zien u graag binnenkort voor de intake.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe have received your GP’s referral letter in good order at Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nTo schedule your intake, we are sending you a proposal with possible dates and times, so you can let us know which option suits you best.\n\nWe currently have availability. This concerns the following time slots:\n{momenten}\n\nPlease let us know which of these options works for you. If none of these times are suitable, please reply to this message indicating:\n\nWhich days and times suit you best;\n\nIf there are fixed days on which you are standardly unavailable.\n\nOur method of working:\n\nTo help you as quickly as possible, we schedule appointments a maximum of one week in advance. However, we ask for your availability for the next three weeks in case there is no immediate opening. As soon as we receive your response and a slot becomes available, we will send you a proposal. Only in rare cases—for example, if a slot opens up on very short notice—will we call you (from a withheld number).\n\nInformation required for the intake:\n\nFor administrative processing and verification, we kindly request that you provide us with the following details in advance:\n\nThe type of ID you will be using (e.g., passport, identity card, or driver’s license);\n\nThe corresponding document number.\n\nPlease do not forget to bring this physical document with you to your first appointment.\n\nPlease note: You will only hear from us again once a slot becomes available. You will not receive updates in the meantime, but you are of course welcome to message us if you have any urgent questions.\n\nThank you in advance for your cooperation. We look forward to seeing you soon for your intake.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — één behandelaar, meerdere momenten",
+      "type": "enkel_meerdere",
+      "inhoud_nl": "{aanhef},\n\nWij hebben de verwijzing van uw huisarts in goede orde ontvangen bij Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nOm uw intake in te plannen, sturen wij u een voorstel met mogelijke data en tijdstippen, zodat u kunt aangeven welk moment u schikt.\n\nMomenteel hebben wij plekken vrij bij onze behandelaar {behandelaar} op onze locatie aan de {locatie}. Het gaat om de volgende momenten:\n{momenten}\n\nGraag horen wij van u welk van deze momenten u schikt. Indien deze momenten u niet schikken, wilt u in een reactie op dit bericht aangeven:\n- Welke dagen en tijdstippen voor u het beste uitkomen;\n- Of er vaste dagen zijn waarop u standaard niet beschikbaar bent.\n\nOnze werkwijze:\nOm u zo snel mogelijk te helpen, plannen wij afspraken maximaal één week vooruit. Toch vragen wij uw beschikbaarheid voor drie weken, voor het geval er op korte termijn geen plek is. Zodra wij uw reactie hebben ontvangen én er een plek vrij is, sturen wij u een bericht met een voorstel. Alleen in enkele gevallen, bijvoorbeeld als er op zeer korte termijn een plek vrijkomt, bellen wij u (anoniem) op.\n\nBenodigde gegevens voor intake:\nVoor de administratieve afhandeling en verificatie ontvangen wij graag alvast de volgende gegevens:\n- Het type identiteitsbewijs dat u gaat gebruiken (bijv. paspoort, ID-kaart of rijbewijs);\n- Het bijbehorende documentnummer.\n\nVergeet niet dit document ook fysiek mee te nemen naar de eerste afspraak.\n\nLet op: U ontvangt pas weer bericht van ons zodra er een plek beschikbaar is. Tussentijds ontvangt u geen update, maar bij dringende vragen mag u ons uiteraard berichten.\n\nAlvast bedankt voor uw reactie. Wij zien u graag binnenkort voor de intake.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe have successfully received the referral from your GP at Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nTo schedule your intake, we are sending you a proposal with several potential dates and times so you can indicate which option suits you best.\n\nWe currently have availability with our practitioner {behandelaar} at our location at {locatie}. This concerns the following time slots:\n{momenten}\n\nPlease let us know which of these options works for you. If these times are not convenient, please reply to this message and indicate:\n- Which days and times work best for you\n- If there are any specific days on which you are consistently unavailable.\n\nOur procedure\nTo help you as quickly as possible, we schedule appointments a maximum of one week in advance. However, we ask for your availability for the next three weeks, in case there is no immediate opening. Once we have received your response and a slot becomes available, we will send you a message with a proposal. We will only call you (from a withheld number) in exceptional cases, for example, if a spot opens up at very short notice.\n\nRequired information for intake\nFor administrative processing and verification, please provide the following details in advance:\n- The type of identification you will be using (e.g., passport, ID card, or driver’s license);\n- The corresponding document number.\n\nPlease remember to bring this document with you to your first appointment.\n\nPlease note: You will only hear from us again once a spot is available. You will not receive updates in the meantime, but you are welcome to contact us if you have any urgent questions.\n\nThank you in advance for your cooperation. We look forward to seeing you soon for the intake.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — meerdere behandelaars, zelfde locatie",
+      "type": "locatie",
+      "inhoud_nl": "{aanhef},\n\nWij hebben de verwijzing van uw huisarts in goede orde ontvangen bij Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nOm uw intake in te plannen, sturen wij u een voorstel met mogelijke data en tijdstippen, zodat u kunt aangeven welk moment u schikt.\n\nMomenteel hebben wij de volgende plekken vrij:\n{momenten}\n\nGraag horen wij van u of een van deze momenten u schikt. Indien deze momenten niet schikt wilt u in een reactie op dit bericht aangeven:\n•⁠  ⁠Welke dagen en tijdstippen voor u het beste uitkomen;\n•⁠  ⁠Of er vaste dagen zijn waarop u standaard niet beschikbaar bent.\n\nOnze werkwijze \nOm u zo snel mogelijk te helpen, plannen wij afspraken maximaal één week vooruit. Toch vragen wij uw beschikbaarheid voor drie weken, voor het geval er op korte termijn geen plek is. Zodra wij uw reactie hebben ontvangen én er een plek vrij is, sturen wij u een bericht met een voorstel. Alleen in enkele gevallen, bijvoorbeeld als er op zeer korte termijn een plek vrijkomt, bellen wij u (anoniem) op.\n\nBenodigde gegevens voor intake \nVoor de administratieve afhandeling en verificatie ontvangen wij graag alvast de volgende gegevens:\n•⁠  ⁠Het type identiteitsbewijs dat u gaat gebruiken (bijv. paspoort, ID-kaart of rijbewijs);\n•⁠  ⁠Het bijbehorende documentnummer.\n\nVergeet niet dit document ook fysiek mee te nemen naar de eerste afspraak.\n\nLet op: U ontvangt pas weer bericht van ons zodra er een plek beschikbaar is. Tussentijds ontvangt u geen update, maar bij dringende vragen mag u ons uiteraard berichten.\n\nAlvast bedankt voor uw reactie. Wij zien u graag binnenkort voor de intake.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe have received your GP’s referral letter in good order at Psychologen.nl (Psychologen Team Groningen / Bimre-GGZ).\n\nTo schedule your intake, we are sending you a proposal with possible dates and times, so you can let us know which option suits you best.\n\nWe currently have availability for the following time slots:\n{momenten}\n\nPlease let us know if one of these options works for you. If none of these times are suitable, please reply to this message indicating:\n\nWhich days and times suit you best\n\nIf there are fixed days on which you are standardly unavailable\n\nOur method of working\n\nTo help you as quickly as possible, we schedule appointments a maximum of one week in advance. However, we ask for your availability for the next three weeks in case there is no immediate opening. As soon as we receive your response and a slot becomes available, we will send you a proposal. Only in rare cases—for example, if a slot opens up on very short notice—will we call you (from a withheld number).\n\nInformation required for the intake\n\nFor administrative processing and verification, we kindly request that you provide us with the following details in advance:\n\nThe type of ID you will be using (e.g., passport, identity card, or driver’s license)\n\nThe corresponding document number\n\nPlease do not forget to bring this physical document with you to your first appointment.\n\nPlease note: You will only hear from us again once a slot becomes available. You will not receive updates in the meantime, but you are of course welcome to message us if you have any urgent questions.\n\nThank you in advance for your cooperation. We look forward to seeing you soon for your intake.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — één behandelaar (vervolg)",
+      "type": "enkel_vervolg",
+      "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij een plek vrij bij onze behandelaar {behandelaar} op onze locatie aan de {locatie}. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt.\n\nLet op: de beschikbaarheid van deze optie is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe currently have an opening available with our therapist {behandelaar} at our location at {locatie}. The following moment is available:\n{momenten}\n\nPlease let us know whether this moment suits you.\n\nPlease note: availability of this option is subject to change. If you do not respond in time, the spot may have been reserved by someone else.\n\nKind regards,\nSecretariaat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — meerdere behandelaars (vervolg)",
+      "type": "meerdere_vervolg",
+      "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij de volgende plekken vrij:\n{momenten}\n\nGraag horen wij van u of één van deze momenten u schikt.\n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe currently have the following openings available:\n{momenten}\n\nPlease let us know whether one of these moments suits you.\n\nPlease note: availability of these options is subject to change. If you do not respond in time, the spots may have been reserved by someone else.\n\nKind regards,\nSecretariaat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — één behandelaar, meerdere momenten (vervolg)",
+      "type": "enkel_meerdere_vervolg",
+      "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij meerdere plekken vrij bij onze behandelaar {behandelaar} op onze locatie aan de {locatie}. Het gaat om de volgende momenten:\n{momenten}\n\nGraag horen wij van u of één van deze momenten u schikt.\n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe currently have multiple openings available with our therapist {behandelaar} at our location at {locatie}. The following moments are available:\n{momenten}\n\nPlease let us know whether one of these moments suits you.\n\nPlease note: availability of these options is subject to change. If you do not respond in time, the spots may have been reserved by someone else.\n\nKind regards,\nSecretariaat Psychologen.nl"
+    },
+    {
+      "naam": "Gat voorstellen — meerdere behandelaars, zelfde locatie (vervolg)",
+      "type": "locatie_vervolg",
+      "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij meerdere plekken vrij op onze locatie aan de {locatie}. Het gaat om de volgende momenten:\n{momenten}\n\nGraag horen wij van u of één van deze momenten u schikt.\n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe currently have multiple openings available at our location at {locatie}. The following moments are available:\n{momenten}\n\nPlease let us know whether one of these moments suits you.\n\nPlease note: availability of these options is subject to change. If you do not respond in time, the spots may have been reserved by someone else.\n\nKind regards,\nSecretariaat Psychologen.nl"
+    },
+    {
+      "naam": "Afspraak bevestiging — intake",
+      "type": "bevestiging",
+      "inhoud_nl": "Bedankt voor uw reactie.\n\nWij hebben uw afspraak ingepland op {datum_lang} om {tijd} bij {behandelaar}.\n\nU ontvangt zo meteen eerst een activatiemail om een account aan te maken voor het patiëntenportaal. Zodra dit gelukt is, ontvangt u via het patiëntenportaal een extra bevestiging van uw afspraak. Hierin vindt u ook het adres van de locatie waar u wordt verwacht: {locatie}, evenals ons no-showbeleid.\n\nDaarnaast is er een vragenlijst toegevoegd aan het portaal. We vragen u vriendelijk deze vóór de eerste afspraak in te vullen.\n\nLet op: bij telefonische afspraken belt de behandelaar vaak anoniem.\n\nAlvast bedankt en tot dan!",
+      "inhoud_en": "Thank you for your response.\n\nWe have scheduled your appointment on {datum_lang} at {tijd} with {behandelaar}.\n\nYou will shortly receive an activation email to create an account for the patient portal. Once this is completed, you will receive an additional confirmation of your appointment via the portal. This will also include the address of the location where you are expected: {locatie}, as well as our no-show policy.\n\nIn addition, a questionnaire has been added to the portal. We kindly ask you to complete this before your first appointment.\n\nPlease note: for phone appointments, the therapist may call with a hidden number.\n\nThank you and see you soon!"
+    },
+    {
+      "naam": "Afspraak bevestiging — vervolg",
+      "type": "bevestiging_vervolg",
+      "inhoud_nl": "Wij hebben uw afspraak succesvol ingepland op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}, u wordt verwacht op {locatie}.\n\nAls u verder nog vragen heeft beantwoorden wij deze graag.\n\nVerder wensen wij u een fijne dag toe en alvast veel succes op uw afspraak!\n\nVriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "We have successfully scheduled your appointment on {datum_lang} at {tijd} with our therapist {behandelaar}. You are expected at {locatie}.\n\nIf you have any further questions, we are happy to answer them.\n\nWe wish you a pleasant day and much success with your appointment!\n\nKind regards,\nSecretariaat Psychologen.nl"
+    },
+    {
+      "naam": "Online afspraak bevestiging",
+      "type": "online",
+      "inhoud_nl": "Bedankt voor uw reactie.\n\nWij hebben uw online afspraak ingepland op {datum_lang} om {tijd} bij {behandelaar}.\n\nU ontvangt zo meteen een activatiemail om een account aan te maken voor het patiëntenportaal. Via het portaal ontvangt u ook een bevestiging met een link voor de online sessie en ons no-showbeleid.\n\nDaarnaast is er een vragenlijst toegevoegd aan het portaal. We vragen u vriendelijk deze vóór de eerste afspraak in te vullen.\n\nLet op: de behandelaar neemt contact op via de link in het portaal.\n\nAlvast bedankt en tot dan!",
+      "inhoud_en": "Thank you for your response.\n\nWe have scheduled your online appointment on {datum_lang} at {tijd} with {behandelaar}.\n\nYou will shortly receive an activation email to create an account for the patient portal. Via the portal you will also receive a confirmation with a link for the online session and our no-show policy.\n\nIn addition, a questionnaire has been added to the portal. We kindly ask you to complete this before your first appointment.\n\nPlease note: the therapist will contact you via the link in the portal.\n\nThank you and see you soon!"
+    },
+    {
+      "naam": "Wachttijd",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht.\n\nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}.\n\nZodra u aan de beurt bent, nemen wij contact met u op via telefoon of e-mail. Wij bellen anoniem, dus schrik niet van een onbekend nummer. U hoeft zelf niets te doen. Houd er nogmaals rekening mee dat deze wachttijden slechts een indicatie zijn en dus nog kunnen wijzigen. Wij danken u voor uw geduld.\nLaat het gerust weten als u het anders wilt.",
+      "inhoud_en": "{aanhef},\n\nThank you for your message.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nPlease feel free to let us know if you would like to proceed differently.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Aanmelding Status",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nHartelijk dank voor uw contact met onze instelling.\n\nWij hebben de verwijzing van uw arts in goede orde ontvangen. Zodra u aan de beurt bent, nemen wij telefonisch contact met u op (let op: wij bellen anoniem) om een week later een afspraak voor een intake in te plannen. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}, afhankelijk van uw zorgverzekeraar. De actuele wachttijden kunt u ook op onze website bekijken: https://psychologen.nl/onze-locaties.\n\nIk hoop u hiermee voldoende te hebben geïnformeerd. Mocht u nog vragen hebben, neem dan gerust contact met ons op.",
+      "inhoud_en": "{aanhef},\n\nThank you very much for contacting our clinic.\n\nWe have received your GP’s referral letter in good order. As soon as it is your turn, we will contact you by phone (please note: we call from a withheld number) to schedule an intake appointment for the following week. On average, the current waiting time is between {wachttijd}, depending on your health insurance provider. You can also view our current waiting times on our website: https://psychologen.nl/onze-locaties.\n\nI hope this information is helpful. Should you have any further questions, please do not hesitate to contact us."
+    },
+    {
+      "naam": "Accepteren Informatieverstrekking",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\r\nHartelijk dank voor het verstrekken van het informatie verzoek. Wij zullen deze delen met de desbetreffende behandelaar. Wij bedanken u voor uw geduld. Als u verder vragen heeft dan horen wij dit graag.",
+      "inhoud_en": ""
+    },
+    {
+      "naam": "Aanvraag Psychologische hulp",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},    \n\nVriendelijk bedankt voor het contact opnemen met onze instelling.  \n\nHet is mogelijk om bij ons in behandeling te komen. Indien u wenst dat deze behandelingen gedekt worden door uw zorgverzekering hebben wij een doorverwijzing nodig van uw huisarts.   \n\nKijk op onze website https://psychologen.nl/tarieven of wij gecontracteerd zijn met uw zorgverzekering. U zult eerst uw eigen risico zelf betalen, daarna zal de rest vergoed worden door uw zorgverzekeraar.  \n\nU zult de rekeningen die binnen uw eigen risico vallen, ontvangen van uw zorgverzekeraar.  \n\nHoud er rekening mee dat wij een wachttijd hanteren. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \nWij nemen contact met u op zodra wij uw verwijzing binnen hebben en een afspraak kunnen inplannen.  (Let op: wij bellen anoniem) \n\nHierbij hoop ik u voldoende te hebben geïnformeerd. Mocht u vragen hebben, twijfelt u niet om contact op te nemen.  \n\nMet vriendelijke groet, \n\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nThank you for contacting our clinic.\n\nIt is possible to receive treatment with us. If you would like these sessions to be covered by your health insurance, we require a referral letter from your GP (general practitioner).\n\nPlease check our website https://psychologen.nl/tarieven to see whether we have a contract with your health insurance provider. You will first have to pay your deductible (eigen risico) yourself, after which the remainder will be covered by your insurer.\n\nYou will receive the invoices that fall within your deductible directly from your health insurance provider.\n\nPlease keep in mind that we have a waiting list. On average, the current waiting time is between {wachttijd}. We will contact you as soon as we have received your referral and are able to schedule an appointment. (Please note: we call from a withheld number).\n\nI hope this information is helpful. Should you have any questions, please do not hesitate to contact us.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Aanvraag Stage",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nHartelijk dank voor je interesse in onze organisatie. Momenteel hebben wij helaas geen directe stageplek beschikbaar en ontvangen wij veel aanvragen van geïnteresseerde stagiairs. Desondanks willen wij graag iedereen een eerlijke kans bieden. Hierom ontvangen wij graag naast uw CV ook uw motivatiebrief zodat wij deze kunnen doornemen. Mochten wij de mogelijkheid hebben om u iets te bieden dan nemen wij contact met u op.",
+      "inhoud_en": ""
+    },
+    {
+      "naam": "Laatste bericht voor afsluiting",
+      "type": "geen",
+      "inhoud_nl": "{aanhef} \n\nWij hebben u herhaaldelijk gebeld en WhatsApp-berichten berichten gestuurd, helaas zonder succes. U bent naar ons verwezen voor een intake bij een psycholoog. Gezien u nog niet heeft gereageerd, vroegen wij ons af of u nog geïnteresseerd was. Wij ontvangen graag een reactie van u.",
+      "inhoud_en": ""
+    },
+    {
+      "naam": "Online consult Sanne Verzoek",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij een plek vrij bij onze psychiater Sanne Vink voor een online consult. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt, het consult duurt 90 minuten. \n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe currently have availability with our psychiatrist, Sanne Vink, for an online consultation. This concerns the following time slot(s):\n{momenten}\n\nPlease let us know if this time suits you. The consultation will last 90 minutes.\n\nPlease note: The availability of these options is subject to change. If we do not receive a timely response, the slot may have been reserved by someone else in the meantime.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Online Consult Sanne Bevestiging",
+      "type": "geen",
+      "inhoud_nl": "Bedankt voor uw reactie.\n\nDan is uw afspraak gepland op {datum_lang} om {tijd} bij {behandelaar}. Deze afspraak zal online plaatsvinden via een beveiligde beeldbelverbinding.\n\nU ontvangt vóór aanvang van de afspraak een e-mail met de link om deel te nemen aan de beeldbelsessie (dit kan vlak voor de afspraak zijn). \nHoud er rekening mee dat de afspraak 90 minuten duurt. Als u verder vragen heeft dan horen wij het graag. \n\nMet vriendelijke groet, \n\nSecretariaat Psychologen.nl",
+      "inhoud_en": "Thank you for your response.\n\nYour appointment is scheduled for {datum_lang} at {tijd} with {behandelaar}. This appointment will take place online via a secure video connection.\n\nPrior to the start of the appointment, you will receive an email containing the link to join the video session (this may be sent shortly before the scheduled time).\n\nPlease take into account that the appointment will last 90 minutes. Should you have any further questions, please let us know.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Fysiek Consult Sanne Vink Bevestiging",
+      "type": "geen",
+      "inhoud_nl": "Bedankt voor uw reactie.\n\nWij hebben uw afspraak succesvol ingepland op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}, u wordt verwacht op {locatie}. Houd er rekening mee dat de afspraak 90 minuten duurt. U kunt direct de trap oplopen en plaats nemen in de wachtkamer van Psychologen.nl \n\nAls u verder nog vragen heeft beantwoorden wij deze graag.\n\nVerder wensen wij u een fijne dag toe en alvast veel succes op uw afspraak!\n\nVriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "Thank you for your response.\n\nWe have successfully scheduled your appointment for {datum_lang} at {tijd} with our practitioner {behandelaar}. You are expected at {locatie}. Please take into account that the appointment will last 90 minutes. You may walk directly up the stairs and take a seat in the waiting room of Psychologen.nl.\n\nShould you have any further questions, we would be happy to answer them.\n\nFurthermore, we wish you a nice day and the best of luck with your appointment!\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Fysiek Consult Sanne Verzoek",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij een plek vrij bij onze psychiater Sanne Vink voor fysiek consult. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt, het consult duurt 90 minuten en zal plaats vinden op {locatie}.\n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nWe currently have availability with our psychiatrist, Sanne Vink, for an in-person consultation. This concerns the following time slot(s):\n{momenten}\n\nPlease let us know if this time suits you. The consultation will last 90 minutes and will take place at {locatie}.\n\nPlease note: The availability of these options is subject to change. If we do not receive a timely response, the slot may have been reserved by someone else in the meantime.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Intercollegiaal Overleg",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht. Op basis van de omschreven casus kunnen wij deze cliënt in behandeling nemen. Wij adviseren dat u nog contact zoekt met de intercollegiaal overleg lijn om inhoudelijk kort de casus te bespreken. Hier kunt u kijken of de zorgvraag ook echt passend is. U kunt bellen naar: +31 6 53 80 89 38.\n\nAls u verder nog vragen heeft horen wij het graag.",
+      "inhoud_en": "{aanhef},\n\nThank you for your message. Based on the described case, we are able to accept this client for treatment. We advise you to contact our peer consultation line (intercollegiaal overleg) to briefly discuss the case in terms of content. Here, you can verify whether the demand for care is indeed appropriate. You can reach this line at: +31 6 53 80 89 38.\n\nShould you have any further questions, please let us know."
+    },
+    {
+      "naam": "Voorstel Psychodiagnostiek",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nU bent door uw behandelaar op de wachtlijst geplaatst voor een psychodiagnostiek traject.\nMomenteel hebben wij een plek vrij bij onze behandelaar {behandelaar} op onze locatie aan de {locatie}. Wij horen graag van u of u een van de volgende momenten beschikbaar bent. \n{momenten}\n\nWij zien uw reactie graag zo spoedig mogelijk tegemoet. Als deze data u schikt plannen wij graag het volledige traject met u in.  \n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "{aanhef},\n\nYour practitioner has placed you on the waiting list for a psychological assessment process (psychodiagnostiek traject).\n\nWe currently have an opening with our practitioner {behandelaar} at our location on {locatie}. Please let us know if you are available during one of the following time slots:\n{momenten}\n\nWe look forward to receiving your reply as soon as possible. If these dates work for you, we will schedule the complete process with you.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Versturen Correspodentie uitgaand",
+      "type": "geen",
+      "inhoud_nl": "Wellicht gebruik je bij correspondentie uitgaand nog \"Via Zorgmail\". Dit werkt alleen mat Lifeline mailadressen die steeds minder worden gebruikt door zorgverleners.\n\nJe kunt klikken op \"Via ZorgMail Secure e-mail\" dan kan je hem als het goed is wel versturen. Op deze wijze wordt er een beveiligde mail gestuurd naar een niet zorgmail. Hoef je alleen nog sjabloon \"Mailing Relatie\" te selecteren en verstuurt hij de intake brief als bijlage. Laat maar weten of het lukt!",
+      "inhoud_en": ""
+    }
+  ]
+}
