@@ -442,19 +442,6 @@
         "za": null,
         "zo": null
       }
-    },
-    "AAAAAAAA": {
-      "locatie": "Florijn 5A",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#FF69B4"
     }
   },
   "locaties": [
