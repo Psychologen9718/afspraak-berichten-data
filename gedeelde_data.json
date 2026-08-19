@@ -1,6 +1,5 @@
 {
   "schema_versie": 1,
-  "laatst_bijgewerkt": "2026-08-19",
   "behandelaars": {
     "Hester van der Wal": {
       "locatie": "HW Mesdagstraat 64a",
@@ -443,6 +442,11 @@
         "za": null,
         "zo": null
       }
+    },
+    "TEST verwijder mij": {
+      "locatie": "Test",
+      "kleur": "#888888",
+      "locaties_per_dag": {}
     }
   },
   "locaties": [
@@ -604,5 +608,6 @@
     "12 en 16 weken",
     "8 en 12 weken",
     "14 tot 18 weken"
-  ]
+  ],
+  "laatst_bijgewerkt": "2026-08-19"
 }
