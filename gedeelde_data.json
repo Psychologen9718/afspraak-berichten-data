@@ -302,16 +302,16 @@
     },
     "Kawa Al Ali": {
       "locatie": "Krimpertplein 32",
-      "kleur": "#888888",
       "locaties_per_dag": {
-        "ma": "Waterviolier 1 in Meerstad",
+        "ma": "HW Mesdagstraat 64a",
         "di": "HW Mesdagstraat 64a",
         "wo": null,
         "do": null,
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#888888"
     },
     "Nisrine Ben Haddou": {
       "locatie": "Krimpertplein 32",
