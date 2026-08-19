@@ -442,19 +442,6 @@
         "za": null,
         "zo": null
       }
-    },
-    "AAA Tester": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#FF69B4"
     }
   },
   "locaties": [
