@@ -1,176 +1,448 @@
 {
   "schema_versie": 1,
-  "laatst_bijgewerkt": "2026-07-18",
+  "laatst_bijgewerkt": "2026-08-19",
   "behandelaars": {
     "Hester van der Wal": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Leonie Nijboer": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Marieke Van der Meer-Benedictus": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Michiel Eebes": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Renate Reker": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Roanne van der Aa": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Tommy Rossen": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Leanne Bruin": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Barbara Loomans": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Hanneke Anker Smit": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Joep van den Brink": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Kyria Kruize": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Monique Spakman": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Sanne Vink": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Ytsje Van Stiphout-Oosterhaven": {
       "locatie": "Waterviolier 1 in Meerstad",
       "kleur": "#50C878",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Peter Huls": {
       "locatie": "Waterviolier 1 in Meerstad",
       "kleur": "#50C878",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Alan Rodic": {
       "locatie": "Krimpertplein 32",
       "kleur": "#E8A838",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Tijmen Posthouwer": {
       "locatie": "Florijn 5A",
       "kleur": "#FF69B4",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Maret van der vlies": {
       "locatie": "Jan Tooropstraat 44",
       "kleur": "#E05555",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Romee van der vlies": {
       "locatie": "Jan Tooropstraat 44",
       "kleur": "#E05555",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Sanae Fatouh": {
       "locatie": "Jan Tooropstraat 44",
       "kleur": "#E05555",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Valerie Seiffers": {
       "locatie": "Jan Tooropstraat 44",
       "kleur": "#E05555",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Corien Gosker": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": "Waterviolier 1 in Meerstad", "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": "Waterviolier 1 in Meerstad",
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Kawa Al Ali": {
       "locatie": "Krimpertplein 32",
       "kleur": "#888888",
-      "locaties_per_dag": {"ma": "Waterviolier 1 in Meerstad", "di": "HW Mesdagstraat 64a", "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": "Waterviolier 1 in Meerstad",
+        "di": "HW Mesdagstraat 64a",
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Nisrine Ben Haddou": {
       "locatie": "Krimpertplein 32",
       "kleur": "#E8A838",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Anna Creemers": {
       "locatie": "Jan Tooropstraat 44",
       "kleur": "#E05555",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Wesley Kruise": {
       "locatie": "Radesingel 6",
       "kleur": "#7B68EE",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Hanriette visser": {
       "locatie": "Jan Tooropstraat 44",
       "kleur": "#E05555",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Esmee Palamba": {
       "locatie": "Krimpertplein 32",
       "kleur": "#E8A838",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Maxime van Eck": {
       "locatie": "Krimpertplein 32",
       "kleur": "#E8A838",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Johan Mostertman": {
       "locatie": "Waterviolier 1 in Meerstad",
       "kleur": "#50C878",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": "HW Mesdagstraat 64a", "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": "HW Mesdagstraat 64a",
+        "zo": null
+      }
     },
     "Ruben Stam": {
       "locatie": "Florijn 5A",
       "kleur": "#FF69B4",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Fleur van Harmelen": {
       "locatie": "HW Mesdagstraat 64a",
       "kleur": "#4A90D9",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
       "kleur": "#888888",
-      "locaties_per_dag": {"ma": null, "di": null, "wo": null, "do": null, "vr": null, "za": null, "zo": null}
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      }
     }
   },
   "locaties": [
@@ -181,11 +453,6 @@
     "Jan Tooropstraat 44",
     "Geen vaste locatie",
     "Florijn 5A"
-  ],
-  "wachttijden": [
-    "12 en 16 weken",
-    "8 en 12 weken",
-    "14 tot 18 weken"
   ],
   "templates": [
     {
@@ -332,5 +599,10 @@
       "inhoud_nl": "Wellicht gebruik je bij correspondentie uitgaand nog \"Via Zorgmail\". Dit werkt alleen mat Lifeline mailadressen die steeds minder worden gebruikt door zorgverleners.\n\nJe kunt klikken op \"Via ZorgMail Secure e-mail\" dan kan je hem als het goed is wel versturen. Op deze wijze wordt er een beveiligde mail gestuurd naar een niet zorgmail. Hoef je alleen nog sjabloon \"Mailing Relatie\" te selecteren en verstuurt hij de intake brief als bijlage. Laat maar weten of het lukt!",
       "inhoud_en": ""
     }
+  ],
+  "wachttijden": [
+    "12 en 16 weken",
+    "8 en 12 weken",
+    "14 tot 18 weken"
   ]
 }
