@@ -584,6 +584,12 @@
       "type": "geen",
       "inhoud_nl": "Wellicht gebruik je bij correspondentie uitgaand nog \"Via Zorgmail\". Dit werkt alleen mat Lifeline mailadressen die steeds minder worden gebruikt door zorgverleners.\n\nJe kunt klikken op \"Via ZorgMail Secure e-mail\" dan kan je hem als het goed is wel versturen. Op deze wijze wordt er een beveiligde mail gestuurd naar een niet zorgmail. Hoef je alleen nog sjabloon \"Mailing Relatie\" te selecteren en verstuurt hij de intake brief als bijlage. Laat maar weten of het lukt!",
       "inhoud_en": ""
+    },
+    {
+      "naam": "Consultatie verslag verzonden",
+      "type": "enkel",
+      "inhoud_nl": "{aanhef},\n\nBijgaand vindt u het consultatieverslag van de cliënt. Mochten er op verzoek van de cliënt wijzigingen nodig zijn, of zijn er vragen, dan horen wij dat graag.\n\nMet vriendelijke groet,\nIds\nSecretariaat Psychologen.nl",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
@@ -591,5 +597,5 @@
     "8 en 12 weken",
     "14 tot 18 weken"
   ],
-  "laatst_bijgewerkt": "2026-08-19"
+  "laatst_bijgewerkt": "2026-08-20"
 }
