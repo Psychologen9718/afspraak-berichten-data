@@ -612,6 +612,12 @@
       "type": "geen",
       "inhoud_nl": "Test\t",
       "inhoud_en": "TEsting"
+    },
+    {
+      "naam": "Arbogezondheidscentrum Intensief Traject ingepland",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nWij hebben een intake ingepland met [CLIENT NAAM] op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}. Als er verder vragen zijn dan horen wij dit graag. \n\nMet vriendelijke groet,\nIds\nSecretariaat Psychologen.nl",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
