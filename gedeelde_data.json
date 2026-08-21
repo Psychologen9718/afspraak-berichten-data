@@ -604,6 +604,12 @@
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBijgaand vindt u het consultatieverslag van de cliënt. Mochten er op verzoek van de cliënt wijzigingen nodig zijn, of zijn er vragen, dan horen wij dat graag.\n\nMet vriendelijke groet,\nIds\nSecretariaat Psychologen.nl",
       "inhoud_en": ""
+    },
+    {
+      "naam": "Test",
+      "type": "geen",
+      "inhoud_nl": "Test\t",
+      "inhoud_en": "TEsting"
     }
   ],
   "wachttijden": [
