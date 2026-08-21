@@ -429,6 +429,19 @@
         "za": null,
         "zo": null
       }
+    },
+    "Ko Schijndel": {
+      "locatie": "Pretoriusstraat 73-H",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555"
     }
   },
   "locaties": [
