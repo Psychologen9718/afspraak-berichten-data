@@ -446,13 +446,13 @@
       "kleur": "#E05555"
     },
     "AAAA Test van der Testen": {
-      "locatie": "HW Mesdagstraat 64a",
+      "locatie": "Krimpertplein 32",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
         "wo": null,
         "do": null,
-        "vr": null,
+        "vr": "Jan Tooropstraat 44",
         "za": null,
         "zo": null
       },
@@ -642,13 +642,21 @@
   ],
   "zorgverzekeraars": [],
   "laatst_bijgewerkt": "2026-08-22",
-  "volgnummer_teller": 1,
+  "volgnummer_teller": 2,
   "wijzigingen": [
     {
       "id": 1,
       "tijdstip": "2026-08-22T09:21:30",
       "regels": [
         "Nieuwe behandelaar toegevoegd: AAAA Test van der Testen"
+      ]
+    },
+    {
+      "id": 2,
+      "tijdstip": "2026-08-22T10:02:06",
+      "regels": [
+        "Standaardlocatie van AAAA Test van der Testen gewijzigd",
+        "Locatie per dag gewijzigd bij AAAA Test van der Testen"
       ]
     }
   ]
