@@ -640,7 +640,13 @@
     "8 en 12 weken",
     "14 tot 18 weken"
   ],
-  "zorgverzekeraars": [],
+  "zorgverzekeraars": [
+    {
+      "naam": "CZ",
+      "status": "niet_inplannen",
+      "notitie": ""
+    }
+  ],
   "laatst_bijgewerkt": "2026-08-22",
   "volgnummer_teller": 3,
   "wijzigingen": [
