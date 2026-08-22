@@ -444,6 +444,21 @@
         "zo": null
       },
       "kleur": "#E05555"
+    },
+    "AAAA Test van der Testen": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": ""
     }
   },
   "locaties": [
@@ -626,5 +641,15 @@
     "14 tot 18 weken"
   ],
   "zorgverzekeraars": [],
-  "laatst_bijgewerkt": "2026-08-22"
+  "laatst_bijgewerkt": "2026-08-22",
+  "volgnummer_teller": 1,
+  "wijzigingen": [
+    {
+      "id": 1,
+      "tijdstip": "2026-08-22T09:21:30",
+      "regels": [
+        "Nieuwe behandelaar toegevoegd: AAAA Test van der Testen"
+      ]
+    }
+  ]
 }
