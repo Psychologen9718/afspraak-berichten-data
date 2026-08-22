@@ -625,12 +625,6 @@
     "8 en 12 weken",
     "14 tot 18 weken"
   ],
-  "zorgverzekeraars": [
-    {
-      "naam": "Zilveren kruis",
-      "status": "normaal",
-      "notitie": "Alleen inplannen met goedkeuring Ids"
-    }
-  ],
+  "zorgverzekeraars": [],
   "laatst_bijgewerkt": "2026-08-22"
 }
