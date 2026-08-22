@@ -446,17 +446,17 @@
       "kleur": "#E05555"
     },
     "AAAA Test van der Testen": {
-      "locatie": "Krimpertplein 32",
+      "locatie": "Waterviolier 1 in Meerstad",
       "locaties_per_dag": {
-        "ma": null,
+        "ma": "Florijn 5A",
         "di": null,
         "wo": null,
         "do": null,
-        "vr": "Jan Tooropstraat 44",
+        "vr": null,
         "za": null,
         "zo": null
       },
-      "kleur": "#50C878",
+      "kleur": "#20B2AA",
       "status": "wel_inplannen",
       "notitie": ""
     }
@@ -642,7 +642,7 @@
   ],
   "zorgverzekeraars": [],
   "laatst_bijgewerkt": "2026-08-22",
-  "volgnummer_teller": 2,
+  "volgnummer_teller": 3,
   "wijzigingen": [
     {
       "id": 1,
@@ -657,6 +657,15 @@
       "regels": [
         "Standaardlocatie van AAAA Test van der Testen gewijzigd",
         "Locatie per dag gewijzigd bij AAAA Test van der Testen"
+      ]
+    },
+    {
+      "id": 3,
+      "tijdstip": "2026-08-22T10:07:03",
+      "regels": [
+        "Standaardlocatie van AAAA Test van der Testen: Krimpertplein 32 → Waterviolier 1 in Meerstad",
+        "Locatie ma bij AAAA Test van der Testen: (standaard) → Florijn 5A",
+        "Locatie vr bij AAAA Test van der Testen: Jan Tooropstraat 44 → (standaard)"
       ]
     }
   ]
