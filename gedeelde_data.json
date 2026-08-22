@@ -625,5 +625,12 @@
     "8 en 12 weken",
     "14 tot 18 weken"
   ],
-  "laatst_bijgewerkt": "2026-08-21"
+  "zorgverzekeraars": [
+    {
+      "naam": "Zilveren kruis",
+      "status": "normaal",
+      "notitie": ""
+    }
+  ],
+  "laatst_bijgewerkt": "2026-08-22"
 }
