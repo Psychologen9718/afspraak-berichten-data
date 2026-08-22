@@ -448,7 +448,7 @@
     "AAAA Test van der Testen": {
       "locatie": "Waterviolier 1 in Meerstad",
       "locaties_per_dag": {
-        "ma": "Florijn 5A",
+        "ma": "Radesingel 6",
         "di": null,
         "wo": null,
         "do": null,
@@ -456,7 +456,7 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#20B2AA",
+      "kleur": "#50C878",
       "status": "wel_inplannen",
       "notitie": ""
     }
@@ -661,10 +661,10 @@
     },
     {
       "id": 3,
-      "tijdstip": "2026-08-22T10:07:03",
+      "tijdstip": "2026-08-22T10:07:47",
       "regels": [
         "Standaardlocatie van AAAA Test van der Testen: Krimpertplein 32 → Waterviolier 1 in Meerstad",
-        "Locatie ma bij AAAA Test van der Testen: (standaard) → Florijn 5A",
+        "Locatie ma bij AAAA Test van der Testen: (standaard) → Radesingel 6",
         "Locatie vr bij AAAA Test van der Testen: Jan Tooropstraat 44 → (standaard)"
       ]
     }
