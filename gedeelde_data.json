@@ -446,7 +446,7 @@
       "kleur": "#E05555"
     },
     "AAAA Test van der Testen": {
-      "locatie": "Waterviolier 1 in Meerstad",
+      "locatie": "Radesingel 6",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -456,7 +456,7 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#50C878",
+      "kleur": "#888888",
       "status": "wel_inplannen",
       "notitie": ""
     }
@@ -640,13 +640,7 @@
     "8 en 12 weken",
     "14 tot 18 weken"
   ],
-  "zorgverzekeraars": [
-    {
-      "naam": "CZ",
-      "status": "niet_inplannen",
-      "notitie": ""
-    }
-  ],
+  "zorgverzekeraars": [],
   "laatst_bijgewerkt": "2026-08-22",
   "volgnummer_teller": 3,
   "wijzigingen": [
@@ -667,9 +661,9 @@
     },
     {
       "id": 3,
-      "tijdstip": "2026-08-22T10:08:53",
+      "tijdstip": "2026-08-22T10:10:23",
       "regels": [
-        "Standaardlocatie van AAAA Test van der Testen: Krimpertplein 32 → Waterviolier 1 in Meerstad",
+        "Standaardlocatie van AAAA Test van der Testen: Krimpertplein 32 → Radesingel 6",
         "Locatie vr bij AAAA Test van der Testen: Jan Tooropstraat 44 → (standaard)"
       ]
     }
