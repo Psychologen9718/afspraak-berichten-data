@@ -446,7 +446,7 @@
       "kleur": "#E05555"
     },
     "AAAA Test van der Testen": {
-      "locatie": "Radesingel 6",
+      "locatie": "Geen vaste locatie",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -456,7 +456,7 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#888888",
+      "kleur": "#4A90D9",
       "status": "wel_inplannen",
       "notitie": ""
     }
@@ -640,9 +640,15 @@
     "8 en 12 weken",
     "14 tot 18 weken"
   ],
-  "zorgverzekeraars": [],
+  "zorgverzekeraars": [
+    {
+      "naam": "CZ",
+      "status": "niet_inplannen",
+      "notitie": ""
+    }
+  ],
   "laatst_bijgewerkt": "2026-08-22",
-  "volgnummer_teller": 3,
+  "volgnummer_teller": 4,
   "wijzigingen": [
     {
       "id": 1,
@@ -665,6 +671,14 @@
       "regels": [
         "Standaardlocatie van AAAA Test van der Testen: Krimpertplein 32 → Radesingel 6",
         "Locatie vr bij AAAA Test van der Testen: Jan Tooropstraat 44 → (standaard)"
+      ]
+    },
+    {
+      "id": 4,
+      "tijdstip": "2026-08-22T10:12:18",
+      "regels": [
+        "Standaardlocatie van AAAA Test van der Testen: Radesingel 6 → Geen vaste locatie",
+        "Zorgverzekeraar toegevoegd: CZ"
       ]
     }
   ]
