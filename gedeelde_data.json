@@ -647,8 +647,17 @@
       "notitie": ""
     }
   ],
-  "laatst_bijgewerkt": "2026-08-22",
-  "volgnummer_teller": 4,
+  "nieuws": [
+    {
+      "id": 5,
+      "datum": "2026-08-23",
+      "titel": "Hallo Welkom bij Tool",
+      "tekst": "Dit is de Tool welkom",
+      "belangrijk": true
+    }
+  ],
+  "volgnummer_teller": 5,
+  "laatst_bijgewerkt": "2026-08-23",
   "wijzigingen": [
     {
       "id": 1,
