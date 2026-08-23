@@ -647,8 +647,16 @@
       "notitie": ""
     }
   ],
-  "nieuws": [],
-  "volgnummer_teller": 5,
+  "nieuws": [
+    {
+      "id": 6,
+      "datum": "2026-08-23",
+      "titel": "Hallo",
+      "tekst": "Hallo!",
+      "belangrijk": true
+    }
+  ],
+  "volgnummer_teller": 6,
   "laatst_bijgewerkt": "2026-08-23",
   "wijzigingen": [
     {
