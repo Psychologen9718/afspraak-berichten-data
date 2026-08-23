@@ -652,8 +652,16 @@
       "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan"
     }
   ],
-  "nieuws": [],
-  "volgnummer_teller": 7,
+  "nieuws": [
+    {
+      "id": 8,
+      "datum": "2026-08-23",
+      "titel": "Hij werkt!",
+      "tekst": "Na lang proberen kan ik concluderen dat het werkt!",
+      "belangrijk": true
+    }
+  ],
+  "volgnummer_teller": 8,
   "laatst_bijgewerkt": "2026-08-23",
   "wijzigingen": [
     {
