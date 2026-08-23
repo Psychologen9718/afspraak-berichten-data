@@ -444,21 +444,6 @@
         "zo": null
       },
       "kleur": "#E05555"
-    },
-    "AAAA Test van der Testen": {
-      "locatie": "Geen vaste locatie",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "wel_inplannen",
-      "notitie": ""
     }
   },
   "locaties": [
