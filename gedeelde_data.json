@@ -645,10 +645,15 @@
       "naam": "CZ",
       "status": "niet_inplannen",
       "notitie": ""
+    },
+    {
+      "naam": "Menzis",
+      "status": "beperkt_inplannen",
+      "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan"
     }
   ],
   "nieuws": [],
-  "volgnummer_teller": 6,
+  "volgnummer_teller": 7,
   "laatst_bijgewerkt": "2026-08-23",
   "wijzigingen": [
     {
@@ -680,6 +685,13 @@
       "regels": [
         "Standaardlocatie van AAAA Test van der Testen: Radesingel 6 → Geen vaste locatie",
         "Zorgverzekeraar toegevoegd: CZ"
+      ]
+    },
+    {
+      "id": 7,
+      "tijdstip": "2026-08-23T15:14:39",
+      "regels": [
+        "Zorgverzekeraar toegevoegd: Menzis"
       ]
     }
   ]
