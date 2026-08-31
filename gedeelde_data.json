@@ -639,15 +639,15 @@
   ],
   "nieuws": [
     {
-      "id": 8,
-      "datum": "2026-08-23",
-      "titel": "Hij werkt!",
-      "tekst": "Na lang proberen kan ik concluderen dat het werkt!",
+      "id": 9,
+      "datum": "2026-08-31",
+      "titel": "MARIEKE GAAT WEG",
+      "tekst": "Helaas gaat marieke ons verslaten",
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 8,
-  "laatst_bijgewerkt": "2026-08-23",
+  "volgnummer_teller": 9,
+  "laatst_bijgewerkt": "2026-08-31",
   "wijzigingen": [
     {
       "id": 1,
