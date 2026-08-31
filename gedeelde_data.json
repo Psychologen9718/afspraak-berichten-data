@@ -637,15 +637,7 @@
       "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan"
     }
   ],
-  "nieuws": [
-    {
-      "id": 9,
-      "datum": "2026-08-31",
-      "titel": "MARIEKE GAAT WEG",
-      "tekst": "Helaas gaat marieke ons verslaten",
-      "belangrijk": true
-    }
-  ],
+  "nieuws": [],
   "volgnummer_teller": 9,
   "laatst_bijgewerkt": "2026-08-31",
   "wijzigingen": [
