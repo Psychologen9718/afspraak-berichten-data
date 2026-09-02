@@ -408,7 +408,6 @@
     },
     "Fleur van Harmelen": {
       "locatie": "HW Mesdagstraat 64a",
-      "kleur": "#4A90D9",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -417,7 +416,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#4A90D9",
+      "status": "bijzonder_inplannen",
+      "notitie": "Week 37- 1 Intake per dag\nWeek 38 -Vraag Ids"
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
@@ -638,8 +640,8 @@
     }
   ],
   "nieuws": [],
-  "volgnummer_teller": 9,
-  "laatst_bijgewerkt": "2026-08-31",
+  "volgnummer_teller": 10,
+  "laatst_bijgewerkt": "2026-09-02",
   "wijzigingen": [
     {
       "id": 1,
@@ -677,6 +679,14 @@
       "tijdstip": "2026-08-23T15:14:39",
       "regels": [
         "Zorgverzekeraar toegevoegd: Menzis"
+      ]
+    },
+    {
+      "id": 10,
+      "tijdstip": "2026-09-02T11:08:03",
+      "regels": [
+        "Status van Fleur van Harmelen: Wel inplannen → Bijzonder inplannen",
+        "Notitie bij Fleur van Harmelen: (leeg) → \"Week 37- 1 Intake per dag\nWeek 38 -Vraag Ids\""
       ]
     }
   ]
