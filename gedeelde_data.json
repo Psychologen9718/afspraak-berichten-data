@@ -3,7 +3,6 @@
   "behandelaars": {
     "Hester van der Wal": {
       "locatie": "HW Mesdagstraat 64a",
-      "kleur": "#4A90D9",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -12,24 +11,13 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
-    },
-    "Leonie Nijboer": {
-      "locatie": "HW Mesdagstraat 64a",
+      },
       "kleur": "#4A90D9",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Marieke Van der Meer-Benedictus": {
       "locatie": "HW Mesdagstraat 64a",
-      "kleur": "#4A90D9",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -38,33 +26,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
-    },
-    "Michiel Eebes": {
-      "locatie": "HW Mesdagstraat 64a",
+      },
       "kleur": "#4A90D9",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
-    },
-    "Renate Reker": {
-      "locatie": "HW Mesdagstraat 64a",
-      "kleur": "#4A90D9",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Tommy Rossen": {
       "locatie": "HW Mesdagstraat 64a",
@@ -94,7 +59,6 @@
     },
     "Barbara Loomans": {
       "locatie": "Radesingel 6",
-      "kleur": "#7B68EE",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -103,7 +67,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#7B68EE",
+      "status": "bijzonder_inplannen",
+      "notitie": "Heeft voornamelijk eigen agenda in beheer. Kijken of zij overduidelijke gaten heeft in agenda\n\nMaster Psycholoog.\nRB = Kawa"
     },
     "Hanneke Anker Smit": {
       "locatie": "Radesingel 6",
@@ -159,7 +126,6 @@
     },
     "Sanne Vink": {
       "locatie": "Radesingel 6",
-      "kleur": "#7B68EE",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -168,7 +134,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#7B68EE",
+      "status": "bijzonder_inplannen",
+      "notitie": ""
     },
     "Ytsje Van Stiphout-Oosterhaven": {
       "locatie": "Waterviolier 1 in Meerstad",
@@ -198,7 +167,6 @@
     },
     "Alan Rodic": {
       "locatie": "Krimpertplein 32",
-      "kleur": "#E8A838",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -207,7 +175,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#E8A838",
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Tijmen Posthouwer": {
       "locatie": "Florijn 5A",
@@ -224,69 +195,62 @@
     },
     "Maret van der vlies": {
       "locatie": "Jan Tooropstraat 44",
-      "kleur": "#E05555",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
-    },
-    "Romee van der vlies": {
-      "locatie": "Jan Tooropstraat 44",
-      "kleur": "#E05555",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
-    },
-    "Sanae Fatouh": {
-      "locatie": "Jan Tooropstraat 44",
-      "kleur": "#E05555",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
-    },
-    "Valerie Seiffers": {
-      "locatie": "Jan Tooropstraat 44",
-      "kleur": "#E05555",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      }
-    },
-    "Corien Gosker": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": "Waterviolier 1 in Meerstad",
         "wo": null,
         "do": null,
         "vr": null,
         "za": null,
         "zo": null
       },
-      "kleur": "#4A90D9",
-      "status": "wel_inplannen",
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Romee van der vlies": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Sanae Fatouh": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Valerie Seiffers": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
       "notitie": ""
     },
     "Kawa Al Ali": {
@@ -300,7 +264,9 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#888888"
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Nisrine Ben Haddou": {
       "locatie": "Krimpertplein 32",
@@ -317,7 +283,6 @@
     },
     "Anna Creemers": {
       "locatie": "Jan Tooropstraat 44",
-      "kleur": "#E05555",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -326,7 +291,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Wesley Kruise": {
       "locatie": "Radesingel 6",
@@ -343,7 +311,6 @@
     },
     "Hanriette visser": {
       "locatie": "Jan Tooropstraat 44",
-      "kleur": "#E05555",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -352,7 +319,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Esmee Palamba": {
       "locatie": "Krimpertplein 32",
@@ -423,7 +393,6 @@
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
-      "kleur": "#888888",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -432,7 +401,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Ko Schijndel": {
       "locatie": "Pretoriusstraat 73-H",
@@ -445,7 +417,9 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#E05555"
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
     },
     "Kirsten Eikmans": {
       "locatie": "HW Mesdagstraat 64a",
