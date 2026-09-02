@@ -446,6 +446,21 @@
         "zo": null
       },
       "kleur": "#E05555"
+    },
+    "Kirsten Eikmans": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag"
     }
   },
   "locaties": [
