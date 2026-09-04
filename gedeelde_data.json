@@ -613,7 +613,7 @@
     {
       "naam": "Kawa Regiebehandelaar Consult",
       "type": "enkel",
-      "inhoud_nl": "Goedemiddag,\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali.Wij hebben dit ingepland op {momenten}. Op deze dag neemt hij contact met u op om naar uw traject bij uw behandelaar te vragen. Dit contact kan telefonisch of per mail zijn. Mocht u niet gebeld zijn of geen mail hebben ontvangen, dan horen wij dit graag. Heeft u nog vragen, dan horen wij dit graag.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_nl": "{aanhef},\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali.Wij hebben dit ingepland op {momenten}. Op deze dag neemt hij contact met u op om naar uw traject bij uw behandelaar te vragen. Dit contact kan telefonisch of per mail zijn. Mocht u niet gebeld zijn of geen mail hebben ontvangen, dan horen wij dit graag. Heeft u nog vragen, dan horen wij dit graag.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
       "inhoud_en": ""
     }
   ],
