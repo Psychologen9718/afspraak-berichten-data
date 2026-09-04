@@ -628,9 +628,17 @@
       "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan"
     }
   ],
-  "nieuws": [],
-  "volgnummer_teller": 10,
-  "laatst_bijgewerkt": "2026-09-02",
+  "nieuws": [
+    {
+      "id": 11,
+      "datum": "2026-09-04",
+      "titel": "ADHD Masterpsychologen",
+      "tekst": "ADHD cliënten kunnen worden ingepland bij Master Psychologen. Als dit gebeurt moet Twan op de hoogte worden gesteld.\n\nVerder is het belangrijk dat er goed gekeken word of het een ADHD diagnostiek traject is of een medicatievraagstuk waarbij de diagnose al vastgesteld is. Lees hiervoor goed de verwijzing.",
+      "belangrijk": false
+    }
+  ],
+  "volgnummer_teller": 11,
+  "laatst_bijgewerkt": "2026-09-04",
   "wijzigingen": [
     {
       "id": 1,
