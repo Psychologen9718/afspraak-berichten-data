@@ -634,12 +634,12 @@
     },
     {
       "naam": "Zilveren Kruis",
-      "status": "beperkt_inplannen",
+      "status": "normaal",
       "notitie": "Kan ingepland worden maar liever niet te veel\nHieronder vallen:\n- FBTO\n- De Friesland\n- Interpolis\n- Zilveren Kruis"
     },
     {
       "naam": "DSW",
-      "status": "top_prioriteit",
+      "status": "prioriteit",
       "notitie": "Hieronder Vallen\n- Stad Holland\n- DSW"
     },
     {
@@ -661,6 +661,11 @@
       "naam": "Salland",
       "status": "prioriteit",
       "notitie": ""
+    },
+    {
+      "naam": "RMA",
+      "status": "top_prioriteit",
+      "notitie": "Allerhoogste prioriteit."
     }
   ],
   "nieuws": [
