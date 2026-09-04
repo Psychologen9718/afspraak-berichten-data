@@ -625,7 +625,42 @@
     {
       "naam": "Menzis",
       "status": "beperkt_inplannen",
-      "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan"
+      "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan\nHieronder Vallen\n- Anderzorg\n- VinkVink"
+    },
+    {
+      "naam": "VGZ",
+      "status": "prioriteit",
+      "notitie": "Hieronder vallen\n- IZA\n- UMC\n- Unive\n- ZEKUR"
+    },
+    {
+      "naam": "Zilveren Kruis",
+      "status": "beperkt_inplannen",
+      "notitie": "Kan ingepland worden maar liever niet te veel\nHieronder vallen:\n- FBTO\n- De Friesland\n- Interpolis\n- Zilveren Kruis"
+    },
+    {
+      "naam": "DSW",
+      "status": "top_prioriteit",
+      "notitie": "Hieronder Vallen\n- Stad Holland\n- DSW"
+    },
+    {
+      "naam": "ASR",
+      "status": "prioriteit",
+      "notitie": "Hieronder Vallen:\n- A.S.R\n- Ditzo (oude benaming ASR)"
+    },
+    {
+      "naam": "EUCARE",
+      "status": "prioriteit",
+      "notitie": "Hieronder Vallen:\n- Aevitae\n- Eucare"
+    },
+    {
+      "naam": "ONVZ",
+      "status": "prioriteit",
+      "notitie": ""
+    },
+    {
+      "naam": "Salland",
+      "status": "prioriteit",
+      "notitie": ""
     }
   ],
   "nieuws": [
