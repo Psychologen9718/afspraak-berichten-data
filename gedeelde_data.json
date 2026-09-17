@@ -643,6 +643,12 @@
       "type": "enkel",
       "inhoud_nl": "{aanhef},\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali.Wij hebben dit ingepland op {momenten}. Op deze dag neemt hij contact met u op om naar uw traject bij uw behandelaar te vragen. Dit contact kan telefonisch of per mail zijn. Mocht u niet gebeld zijn of geen mail hebben ontvangen, dan horen wij dit graag. Heeft u nog vragen, dan horen wij dit graag.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
       "inhoud_en": ""
+    },
+    {
+      "naam": "Regiebehandelaar Consult Kawa",
+      "type": "enkel",
+      "inhoud_nl": "{aanhef}\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali. Wij hebben dit moment ingepland op [MOMENT]. Op deze dag zal uw behandelaar contact met u zoeken om te vragen naar uw traject bij uw behandelaar. U kunt een afspraak herrinering van een specifieke tijd ontvangen, deze kunt u negeren. U zult gedurende de dag gecontacteerd worden. Dit contact kan telefonisch zijn of per e-mail. Mocht u niet gebeld zijn of een e-mail hebben ontvangen, dan horen wij dit graag. Als u nog vragen heeft, horen wij het graag van u!\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
@@ -716,10 +722,17 @@
       "titel": "!!! BEOLIVE NIET AFHANDELEN OF REAGEREN !!",
       "tekst": "Absoluut niet reageren op mails van Beoliv. IN een aparte map genaamd Beoliv. Voor vragen bij Ids zijn.",
       "belangrijk": true
+    },
+    {
+      "id": 13,
+      "datum": "2026-09-14",
+      "titel": "Peter 2 Maanden niet beschickbaar",
+      "tekst": "Peter die wordt geoppereerd aan zijn Knie en zal niet beschikbaar zijn in oktober. Hieorm is het belangrijk dat cliënten weten dat als ze een intake hebben dat ze 2 maanden moeten wachten. Informeer de cliënten hier duidelijk over",
+      "belangrijk": false
     }
   ],
-  "volgnummer_teller": 12,
-  "laatst_bijgewerkt": "2026-09-11",
+  "volgnummer_teller": 13,
+  "laatst_bijgewerkt": "2026-09-17",
   "wijzigingen": [
     {
       "id": 1,
