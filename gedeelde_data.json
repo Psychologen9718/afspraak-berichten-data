@@ -723,9 +723,16 @@
       "titel": "Peter 2 Maanden niet beschickbaar",
       "tekst": "Peter die wordt geoppereerd aan zijn Knie en zal niet beschikbaar zijn in oktober. Hieorm is het belangrijk dat cliënten weten dat als ze een intake hebben dat ze 2 maanden moeten wachten. Informeer de cliënten hier duidelijk over",
       "belangrijk": false
+    },
+    {
+      "id": 15,
+      "datum": "2026-09-18",
+      "titel": "Ytsje gaat meer werken",
+      "tekst": "Werkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 14,
+  "volgnummer_teller": 15,
   "laatst_bijgewerkt": "2026-09-18",
   "wijzigingen": [
     {
