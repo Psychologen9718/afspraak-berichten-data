@@ -730,9 +730,16 @@
       "titel": "Ytsje gaat meer werken",
       "tekst": "Werkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij",
       "belangrijk": true
+    },
+    {
+      "id": 17,
+      "datum": "2026-09-21",
+      "titel": "A.S.R Aanmeldstop",
+      "tekst": "A.S.R Heeft nu een stop. Niet inplannen tot weer update is dat wel weer ingepland moet worden.",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 16,
+  "volgnummer_teller": 17,
   "laatst_bijgewerkt": "2026-09-21",
   "wijzigingen": [
     {
