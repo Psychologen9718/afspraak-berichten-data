@@ -730,9 +730,16 @@
       "titel": "Ytsje gaat meer werken",
       "tekst": "Werkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij",
       "belangrijk": true
+    },
+    {
+      "id": 16,
+      "datum": "2026-09-21",
+      "titel": "Test!",
+      "tekst": "Test of update werkt",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 15,
+  "volgnummer_teller": 16,
   "laatst_bijgewerkt": "2026-09-21",
   "wijzigingen": [
     {
