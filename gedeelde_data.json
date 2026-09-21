@@ -678,8 +678,8 @@
     },
     {
       "naam": "ASR",
-      "status": "prioriteit",
-      "notitie": "Hieronder Vallen:\n- A.S.R\n- Ditzo (oude benaming ASR)"
+      "status": "niet_inplannen",
+      "notitie": "Tijdelijk niet inplannen, Cliënten Stop\n\nHieronder Vallen:\n- A.S.R\n- Ditzo (oude benaming ASR)"
     },
     {
       "naam": "EUCARE",
@@ -733,7 +733,7 @@
     }
   ],
   "volgnummer_teller": 15,
-  "laatst_bijgewerkt": "2026-09-18",
+  "laatst_bijgewerkt": "2026-09-21",
   "wijzigingen": [
     {
       "id": 1,
