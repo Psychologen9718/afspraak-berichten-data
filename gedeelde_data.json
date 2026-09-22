@@ -573,12 +573,6 @@
       "inhoud_en": ""
     },
     {
-      "naam": "Laatste bericht voor afsluiting",
-      "type": "geen",
-      "inhoud_nl": "{aanhef} \n\nWij hebben u herhaaldelijk gebeld en WhatsApp-berichten berichten gestuurd, helaas zonder succes. U bent naar ons verwezen voor een intake bij een psycholoog. Gezien u nog niet heeft gereageerd, vroegen wij ons af of u nog geïnteresseerd was. Wij ontvangen graag een reactie van u.",
-      "inhoud_en": ""
-    },
-    {
       "naam": "Online consult Sanne Verzoek",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij een plek vrij bij onze psychiater Sanne Vink voor een online consult. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt, het consult duurt 90 minuten. \n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
@@ -625,12 +619,6 @@
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBijgaand vindt u het consultatieverslag van de cliënt. Mochten er op verzoek van de cliënt wijzigingen nodig zijn, of zijn er vragen, dan horen wij dat graag.\n\nMet vriendelijke groet,\nIds\nSecretariaat Psychologen.nl",
       "inhoud_en": ""
-    },
-    {
-      "naam": "Test",
-      "type": "geen",
-      "inhoud_nl": "Test\t",
-      "inhoud_en": "TEsting"
     },
     {
       "naam": "Arbogezondheidscentrum Intensief Traject ingepland",
