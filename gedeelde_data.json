@@ -131,8 +131,8 @@
         "zo": null
       },
       "kleur": "#7B68EE",
-      "status": "niet_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog"
     },
     "Sanne Vink": {
       "locatie": "Radesingel 6",
@@ -732,15 +732,15 @@
       "belangrijk": true
     },
     {
-      "id": 17,
+      "id": 16,
       "datum": "2026-09-21",
-      "titel": "A.S.R Aanmeldstop",
-      "tekst": "A.S.R Heeft nu een stop. Niet inplannen tot weer update is dat wel weer ingepland moet worden.",
+      "titel": "Test!",
+      "tekst": "Test of update werkt",
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 17,
-  "laatst_bijgewerkt": "2026-09-21",
+  "volgnummer_teller": 18,
+  "laatst_bijgewerkt": "2026-09-22",
   "wijzigingen": [
     {
       "id": 1,
@@ -793,6 +793,14 @@
       "tijdstip": "2026-09-17T12:02:42",
       "regels": [
         "Template verwijderd: \"Kawa Regiebehandelaar Consult\""
+      ]
+    },
+    {
+      "id": 18,
+      "tijdstip": "2026-09-22T09:13:17",
+      "regels": [
+        "Status van Monique Spakman: Niet inplannen → Wel inplannen",
+        "Notitie bij Monique Spakman: \"GZ-psycholoog in opleiding tot Psychotherpeut - ZZ…\" → \"GZ-psycholoog\""
       ]
     }
   ]
