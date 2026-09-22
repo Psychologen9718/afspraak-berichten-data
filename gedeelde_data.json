@@ -631,6 +631,12 @@
       "type": "enkel",
       "inhoud_nl": "{aanhef}\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali. Wij hebben dit moment ingepland op [MOMENT]. Op deze dag zal uw behandelaar contact met u zoeken om te vragen naar uw traject bij uw behandelaar. U kunt een afspraak herrinering van een specifieke tijd ontvangen, deze kunt u negeren. U zult gedurende de dag gecontacteerd worden. Dit contact kan telefonisch zijn of per e-mail. Mocht u niet gebeld zijn of een e-mail hebben ontvangen, dan horen wij dit graag. Als u nog vragen heeft, horen wij het graag van u!\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
       "inhoud_en": ""
+    },
+    {
+      "naam": "Wachttijd Zorgplafond",
+      "type": "enkel",
+      "inhoud_nl": "",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
@@ -727,7 +733,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 18,
+  "volgnummer_teller": 19,
   "laatst_bijgewerkt": "2026-09-22",
   "wijzigingen": [
     {
@@ -789,6 +795,13 @@
       "regels": [
         "Status van Monique Spakman: Niet inplannen → Wel inplannen",
         "Notitie bij Monique Spakman: \"GZ-psycholoog in opleiding tot Psychotherpeut - ZZ…\" → \"GZ-psycholoog\""
+      ]
+    },
+    {
+      "id": 19,
+      "tijdstip": "2026-09-22T13:36:34",
+      "regels": [
+        "Template toegevoegd: \"Wachttijd Zorgplafond\""
       ]
     }
   ]
