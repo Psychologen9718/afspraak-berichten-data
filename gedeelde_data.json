@@ -416,8 +416,8 @@
         "zo": null
       },
       "kleur": "#4A90D9",
-      "status": "bijzonder_inplannen",
-      "notitie": "Master Psycholoog\nRB = Hester\n\nMag maximaal 1 intake per dag zien \nLET OP: Of het dus 1 intake is of iets anders"
+      "status": "niet_inplannen",
+      "notitie": "Master Psycholoog\nRB = Hester\n\nOP HET MOMENT NIET IN PLANNEN 23-9-2026"
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
@@ -733,7 +733,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 20,
+  "volgnummer_teller": 21,
   "laatst_bijgewerkt": "2026-09-23",
   "wijzigingen": [
     {
@@ -809,6 +809,14 @@
       "tijdstip": "2026-09-23T08:51:15",
       "regels": [
         "Template \"Wachttijd Zorgplafond\" gewijzigd"
+      ]
+    },
+    {
+      "id": 21,
+      "tijdstip": "2026-09-23T09:18:27",
+      "regels": [
+        "Status van Fleur van Harmelen: Bijzonder inplannen → Niet inplannen",
+        "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nMag maximaal 1 inta…\" → \"Master Psycholoog\nRB = Hester\n\nOP HET MOMENT NIET …\""
       ]
     }
   ]
