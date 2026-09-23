@@ -465,6 +465,21 @@
       "kleur": "#4A90D9",
       "status": "niet_inplannen",
       "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
+    },
+    "Melany Lof": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": "HW Mesdagstraat 64a",
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "bijzonder_inplannen",
+      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje\n\nVragen of ze ingepland mag worden"
     }
   },
   "locaties": [
@@ -735,7 +750,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 22,
+  "volgnummer_teller": 23,
   "laatst_bijgewerkt": "2026-09-23",
   "wijzigingen": [
     {
@@ -827,6 +842,13 @@
       "regels": [
         "Status van Tommy Rossen: Wel inplannen → Bijzonder inplannen",
         "Notitie bij Tommy Rossen: (leeg) → \"RB = Sammy Peter\n\nOp het moment geen normale intak…\""
+      ]
+    },
+    {
+      "id": 23,
+      "tijdstip": "2026-09-23T13:46:14",
+      "regels": [
+        "Nieuwe behandelaar toegevoegd: Melany Lof"
       ]
     }
   ]
