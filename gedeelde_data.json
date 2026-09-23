@@ -33,7 +33,6 @@
     },
     "Tommy Rossen": {
       "locatie": "HW Mesdagstraat 64a",
-      "kleur": "#4A90D9",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -42,7 +41,10 @@
         "vr": null,
         "za": null,
         "zo": null
-      }
+      },
+      "kleur": "#4A90D9",
+      "status": "bijzonder_inplannen",
+      "notitie": "RB = Sammy Peter\n\nOp het moment geen normale intakes inplannen, Tommy Moet voor de GZ opleiding 50% normale trajecten en 50% Psychodiagnostiek uitvoeren. Hierom worden de komende tijd alleen psychodiagnostiek trajecten bij hem ingepland."
     },
     "Leanne Bruin": {
       "locatie": "HW Mesdagstraat 64a",
@@ -733,7 +735,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 21,
+  "volgnummer_teller": 22,
   "laatst_bijgewerkt": "2026-09-23",
   "wijzigingen": [
     {
@@ -817,6 +819,14 @@
       "regels": [
         "Status van Fleur van Harmelen: Bijzonder inplannen → Niet inplannen",
         "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nMag maximaal 1 inta…\" → \"Master Psycholoog\nRB = Hester\n\nOP HET MOMENT NIET …\""
+      ]
+    },
+    {
+      "id": 22,
+      "tijdstip": "2026-09-23T09:27:55",
+      "regels": [
+        "Status van Tommy Rossen: Wel inplannen → Bijzonder inplannen",
+        "Notitie bij Tommy Rossen: (leeg) → \"RB = Sammy Peter\n\nOp het moment geen normale intak…\""
       ]
     }
   ]
