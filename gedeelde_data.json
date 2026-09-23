@@ -463,8 +463,8 @@
         "zo": null
       },
       "kleur": "#4A90D9",
-      "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag"
+      "status": "niet_inplannen",
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
     }
   },
   "locaties": [
