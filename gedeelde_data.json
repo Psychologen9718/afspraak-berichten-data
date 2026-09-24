@@ -654,6 +654,12 @@
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht.\n\nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \n\nWij zijn gecontracteerd met uw zorgverzekeraar. Echter is het belangrijk om te weten dat wij voor uw zorgverzekeraar dicht bij het zorgplafond zitten. Dit is een financiële beperking voor ons vanuit de zorgverzekeraar. Hierdoor kan de wachttijd afwijken. Wij zullen u verder informeren wanneer wij meer informatie hebben over de wachttijd.\n\nZodra u aan de beurt bent, nemen wij contact met u op via telefoon of e-mail. Wij bellen anoniem, dus schrik niet van een onbekend nummer. U hoeft zelf niets te doen. Houd er nogmaals rekening mee dat deze wachttijden slechts een indicatie zijn en dus nog kunnen wijzigen. Wij danken u voor uw geduld.",
       "inhoud_en": ""
+    },
+    {
+      "naam": "Wachttijd Zorgplafond Aanmelding",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht. Wij hebben uw verwijzing in goede orde ontvangen en u staat bij ons op de wachtlijst. \nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \n\nWij zijn gecontracteerd met uw zorgverzekeraar. Echter, is het belangrijk om te weten dat wij voor uw zorgverzekeraar dicht bij het zorgplafond zitten. Dit is een financiële beperking voor ons vanuit de zorgverzekeraar. Hierdoor kan de wachttijd afwijken. Wij zullen u verder informeren wanneer wij meer informatie hebben over de wachttijd.\n\nZodra u aan de beurt bent, nemen wij contact met u op via telefoon of e-mail. Wij bellen anoniem, dus schrik niet van een onbekend nummer. U hoeft zelf niets te doen. Houd er nogmaals rekening mee dat deze wachttijden slechts een indicatie zijn en dus nog kunnen wijzigen. Wij danken u voor uw geduld.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
