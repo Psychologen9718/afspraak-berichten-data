@@ -660,6 +660,12 @@
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht. Wij hebben uw verwijzing in goede orde ontvangen en u staat bij ons op de wachtlijst. \nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \n\nWij zijn gecontracteerd met uw zorgverzekeraar. Echter, is het belangrijk om te weten dat wij voor uw zorgverzekeraar dicht bij het zorgplafond zitten. Dit is een financiële beperking voor ons vanuit de zorgverzekeraar. Hierdoor kan de wachttijd afwijken. Wij zullen u verder informeren wanneer wij meer informatie hebben over de wachttijd.\n\nZodra u aan de beurt bent, nemen wij contact met u op via telefoon of e-mail. Wij bellen anoniem, dus schrik niet van een onbekend nummer. U hoeft zelf niets te doen. Houd er nogmaals rekening mee dat deze wachttijden slechts een indicatie zijn en dus nog kunnen wijzigen. Wij danken u voor uw geduld.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
       "inhoud_en": "{aanhef},\n\nThank you for your message. We have received your referral letter in good order and you have been placed on our waiting list.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nWe are contracted with your health insurer. However, it is important to know that we are close to reaching the care ceiling (zorgplafond) set by your health insurance provider. This is a financial limitation imposed on us by the insurer, which may cause the waiting time to differ. We will inform you further as soon as we have more information regarding the waiting time.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Online Vervolg",
+      "type": "online_vervolg",
+      "inhoud_nl": "Test",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
@@ -761,8 +767,8 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 25,
-  "laatst_bijgewerkt": "2026-09-24",
+  "volgnummer_teller": 26,
+  "laatst_bijgewerkt": "2026-09-29",
   "wijzigingen": [
     {
       "id": 1,
@@ -875,6 +881,13 @@
       "tijdstip": "2026-09-24T15:44:11",
       "regels": [
         "Zorgverzekeraar toegevoegd: Zorg en Zekerheid"
+      ]
+    },
+    {
+      "id": 26,
+      "tijdstip": "2026-09-29T09:58:31",
+      "regels": [
+        "Template toegevoegd: \"Online Vervolg\""
       ]
     }
   ]
