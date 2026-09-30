@@ -666,6 +666,12 @@
       "type": "online_vervolg",
       "inhoud_nl": "Test",
       "inhoud_en": ""
+    },
+    {
+      "naam": "Geen Klik Gesprek Aanvraag",
+      "type": "enkel",
+      "inhoud_nl": "Goedendag,  \n\nBedankt voor het aangeven dat u geen klik voelt met uw behandelaar. Het is belangrijk dat u een passende behandelaar heeft en wij gaan ervoor zorgen dat wij die voor u vinden.  \n\nOm dit goed te regelen, is het nodig dat u nog een kort telefonisch gesprek (ongeveer 15 minuten) heeft met uw huidige behandelaar. Tijdens dit gesprek kan er samen gekeken worden welke behandelaar beter bij u past en daarna zal de behandelaar zorgen voor een goede overdracht. Onze behandelaren bellen altijd anoniem.  \n\nKunt u aangeven op welke momenten u de komende tijd beschikbaar bent voor dit telefonische consult? Dan plannen wij dit graag met u in.  \n\nWij willen u graag verder helpen en hopen samen tot een passende oplossing te komen. Mocht u nog vragen hebben, kunt u altijd contact met ons opnemen. \n\nMet vriendelijke groet,  \n\nSecretariaat Psychologen.nl ",
+      "inhoud_en": "Good day,  \n\nThank you for letting us know that you don’t feel a connection with your current therapist. It is important that you have a therapist who is a good fit for you, and we will make sure to find the right one.  \n\nTo arrange this properly, you will need to have a short phone call (about 15 minutes) with your current therapist. During this conversation, you can decide together which therapist would be a better match, after which your current therapist will ensure a smooth handover. Please note that our therapists always call from an anonymous number.  \n\nCould you let us know your availability in the coming days for this phone call? We will be happy to schedule it with you.  \n\nWe are here to support you and hope to find a suitable solution together. If you have any questions, please don’t hesitate to contact us.  \n\nBest regards,  \nPsychologen.nl Secretariat "
     }
   ],
   "wachttijden": [
@@ -767,7 +773,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 27,
+  "volgnummer_teller": 28,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -899,6 +905,13 @@
       "tijdstip": "2026-09-30T08:47:40",
       "regels": [
         "Nieuwe app-versie beschikbaar: v1.1.0"
+      ]
+    },
+    {
+      "id": 28,
+      "tijdstip": "2026-09-30T16:01:15",
+      "regels": [
+        "Template toegevoegd: \"Geen Klik Gesprek Aanvraag\""
       ]
     }
   ]
