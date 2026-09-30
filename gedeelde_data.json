@@ -767,8 +767,12 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 26,
-  "laatst_bijgewerkt": "2026-09-29",
+  "volgnummer_teller": 27,
+  "app_update": {
+    "versie": "1.1.0",
+    "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
+  },
+  "laatst_bijgewerkt": "2026-09-30",
   "wijzigingen": [
     {
       "id": 1,
@@ -888,6 +892,13 @@
       "tijdstip": "2026-09-29T09:58:31",
       "regels": [
         "Template toegevoegd: \"Online Vervolg\""
+      ]
+    },
+    {
+      "id": 27,
+      "tijdstip": "2026-09-30T08:47:40",
+      "regels": [
+        "Nieuwe app-versie beschikbaar: v1.1.0"
       ]
     }
   ]
