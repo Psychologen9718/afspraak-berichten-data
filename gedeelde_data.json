@@ -646,7 +646,7 @@
     {
       "naam": "Regiebehandelaar Consult Kawa",
       "type": "geen",
-      "inhoud_nl": "{aanhef}\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali. Wij hebben dit moment ingepland op [MOMENT]. Op deze dag zal uw behandelaar contact met u zoeken om te vragen naar uw traject bij uw behandelaar. U kunt een afspraak herrinering van een specifieke tijd ontvangen, deze kunt u negeren. U zult gedurende de dag gecontacteerd worden. Dit contact kan telefonisch zijn of per e-mail. Mocht u niet gebeld zijn of een e-mail hebben ontvangen, dan horen wij dit graag. Als u nog vragen heeft, horen wij het graag van u!\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
+      "inhoud_nl": "{aanhef}\n\nVoor het vervolg van uw behandeling is het van belang dat u een contactmoment heeft met uw regiebehandelaar Kawa Al Ali. Wij hebben dit moment ingepland op [MOMENT]. Op deze dag zal uw regiebehandelaar contact met u zoeken om te vragen naar uw traject bij uw behandelaar. U kunt een afspraak herrinering van een specifieke tijd ontvangen, deze kunt u negeren. U zult gedurende de dag gecontacteerd worden, u hoeft hier geen rekening mee te houden. Dit contact kan telefonisch zijn of per e-mail. Mocht u niet gebeld zijn of een e-mail hebben ontvangen, dan horen wij dit graag. Als u nog vragen heeft, horen wij het graag van u!\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
       "inhoud_en": ""
     },
     {
@@ -766,19 +766,26 @@
       "belangrijk": true
     },
     {
-      "id": 30,
-      "datum": "2026-10-01",
-      "titel": "Graag 10809 Inplannen",
-      "tekst": "Altijd deze CL prioriteit geven boven iedereen. Opbellen om een afspraak te maken zodra er een geschikte plek is. Deze heeft succesvolle zorgbemiddeling en moet ingepland worden. Zie zijn mail correspondentie voor verder info!",
+      "id": 31,
+      "datum": "2026-10-05",
+      "titel": "10809 INPLANNEN",
+      "tekst": "Beschikbaarheid 10809\nMaandagmiddag vanaf 13u\nDinsdag 8-14u\nWoensdag 8-14u\nDonderdag vanaf 13:00u\nVrijdag niet\n\nHij wil graag minimaal 2 dagen van tevoren weten wanneer hij een afspraak heeft / afspraak in plannen ivm dat hij zich er dan mentaal op kan voorbereiden\n\nHij wil niet in Meerstad\n\nHet liefst wordt hij gebeld voor het maken van een afspraak",
+      "belangrijk": true
+    },
+    {
+      "id": 32,
+      "datum": "2026-10-08",
+      "titel": "Tommy Werkt in Meerstad op vrijdag!",
+      "tekst": "Tommy werkt vanaf 30-10 op vrijdag in meerstad! \n\nDit word dan aangepast in de Tool.Controleer of dit ook gedaan is als het bijna 30-10 is voor het geval als ids het vergeet!",
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 30,
+  "volgnummer_teller": 33,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-01",
+  "laatst_bijgewerkt": "2026-10-09",
   "wijzigingen": [
     {
       "id": 1,
@@ -919,6 +926,13 @@
       "tijdstip": "2026-09-30T16:01:48",
       "regels": [
         "Template \"Geen Klik Gesprek Aanvraag\" gewijzigd"
+      ]
+    },
+    {
+      "id": 33,
+      "tijdstip": "2026-10-09T08:19:49",
+      "regels": [
+        "Template \"Regiebehandelaar Consult Kawa\" gewijzigd"
       ]
     }
   ]
