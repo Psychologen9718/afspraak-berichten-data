@@ -406,21 +406,6 @@
       "status": "wel_inplannen",
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
     },
-    "Fleur van Harmelen": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "niet_inplannen",
-      "notitie": "Master Psycholoog\nRB = Hester\n\nOP HET MOMENT NIET IN PLANNEN 23-9-2026\n\nAls je een intake inplant is het belangrijk dat je ook meteen een RB consult bij Hester inplant. Als je hierover vragen hebt kun je ids vragen"
-    },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
       "locaties_per_dag": {
@@ -480,6 +465,21 @@
       "kleur": "#50C878",
       "status": "bijzonder_inplannen",
       "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje\n\nVragen of ze ingepland mag worden"
+    },
+    "Fleur van Harmelen": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n15-10 5 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 6 CL's"
     }
   },
   "locaties": [
@@ -780,12 +780,12 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 33,
+  "volgnummer_teller": 34,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-09",
+  "laatst_bijgewerkt": "2026-10-13",
   "wijzigingen": [
     {
       "id": 1,
@@ -933,6 +933,13 @@
       "tijdstip": "2026-10-09T08:19:49",
       "regels": [
         "Template \"Regiebehandelaar Consult Kawa\" gewijzigd"
+      ]
+    },
+    {
+      "id": 34,
+      "tijdstip": "2026-10-13T14:27:07",
+      "regels": [
+        "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nOP HET MOMENT NIET …\" → \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\""
       ]
     }
   ]
