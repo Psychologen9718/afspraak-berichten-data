@@ -480,6 +480,21 @@
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
       "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
+    },
+    "Annemarie Speel": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg"
     }
   },
   "locaties": [
@@ -787,7 +802,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 39,
+  "volgnummer_teller": 40,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -975,6 +990,13 @@
       "tijdstip": "2026-10-15T12:06:20",
       "regels": [
         "Notitie bij Salland (LET OP, ZIE OMSCHRIJVING): \"Altijd ids op de hoogte stellen als je dit inplant\" → \"Altijd ids op de hoogte stellen als je dit inplant…\""
+      ]
+    },
+    {
+      "id": 40,
+      "tijdstip": "2026-10-15T12:14:27",
+      "regels": [
+        "Nieuwe behandelaar toegevoegd: Annemarie Speel"
       ]
     }
   ]
