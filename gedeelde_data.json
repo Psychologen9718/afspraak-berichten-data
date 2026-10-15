@@ -723,7 +723,7 @@
     {
       "naam": "Salland (LET OP, ZIE OMSCHRIJVING)",
       "status": "prioriteit",
-      "notitie": "Altijd ids op de hoogte stellen als je dit inplant"
+      "notitie": "Altijd ids op de hoogte stellen als je dit inplant.\nNIET INPLANNEN BIJ PSYCHOLOGEN DIE BIJ ONS GESTART ZIJN NA 1-7-2026"
     },
     {
       "naam": "RMA",
@@ -780,12 +780,12 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 37,
+  "volgnummer_teller": 38,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-13",
+  "laatst_bijgewerkt": "2026-10-15",
   "wijzigingen": [
     {
       "id": 1,
@@ -961,6 +961,13 @@
       "tijdstip": "2026-10-13T14:41:53",
       "regels": [
         "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\" → \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\""
+      ]
+    },
+    {
+      "id": 38,
+      "tijdstip": "2026-10-15T12:06:20",
+      "regels": [
+        "Notitie bij Salland (LET OP, ZIE OMSCHRIJVING): \"Altijd ids op de hoogte stellen als je dit inplant\" → \"Altijd ids op de hoogte stellen als je dit inplant…\""
       ]
     }
   ]
