@@ -778,9 +778,16 @@
       "titel": "Tommy Werkt in Meerstad op vrijdag!",
       "tekst": "Tommy werkt vanaf 30-10 op vrijdag in meerstad! \n\nDit word dan aangepast in de Tool.Controleer of dit ook gedaan is als het bijna 30-10 is voor het geval als ids het vergeet!",
       "belangrijk": true
+    },
+    {
+      "id": 39,
+      "datum": "2026-10-15",
+      "titel": "SALLAND NIET INPLANNEN BIJ NIEUWE BEHANDELAREN",
+      "tekst": "Salland niet inplannen bij behandelaren die na 1-7-2026 zijn begonnen bij ons. Dit is in verband met de declaraties.",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 38,
+  "volgnummer_teller": 39,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
