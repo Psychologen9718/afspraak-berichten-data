@@ -451,21 +451,6 @@
       "status": "niet_inplannen",
       "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
     },
-    "Melany Lof": {
-      "locatie": "Waterviolier 1 in Meerstad",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": "HW Mesdagstraat 64a",
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#50C878",
-      "status": "bijzonder_inplannen",
-      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje\n\nVragen of ze ingepland mag worden"
-    },
     "Fleur van Harmelen": {
       "locatie": "HW Mesdagstraat 64a",
       "locaties_per_dag": {
@@ -525,6 +510,21 @@
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
       "notitie": "GZ-Psycholoog."
+    },
+    "Melany Lof": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": "HW Mesdagstraat 64a",
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje"
     }
   },
   "locaties": [
@@ -832,12 +832,12 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 42,
+  "volgnummer_teller": 43,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-15",
+  "laatst_bijgewerkt": "2026-10-16",
   "wijzigingen": [
     {
       "id": 1,
@@ -1041,6 +1041,14 @@
       "tijdstip": "2026-10-15T12:20:43",
       "regels": [
         "Nieuwe behandelaar toegevoegd: Marlous Westra"
+      ]
+    },
+    {
+      "id": 43,
+      "tijdstip": "2026-10-16T11:40:10",
+      "regels": [
+        "Status van Melany Lof: Bijzonder inplannen → Wel inplannen",
+        "Notitie bij Melany Lof: \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\" → \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\""
       ]
     }
   ]
