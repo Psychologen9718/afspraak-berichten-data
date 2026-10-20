@@ -732,8 +732,8 @@
     },
     {
       "naam": "Menzis",
-      "status": "beperkt_inplannen",
-      "notitie": "Maximaal 1 of 2 inplannen, daarna vragen aan Ids of Twan\nHieronder Vallen\n- Anderzorg\n- VinkVink"
+      "status": "prioriteit",
+      "notitie": "Nu even veel inplannen\nHieronder Vallen\n- Anderzorg\n- VinkVink"
     },
     {
       "naam": "VGZ",
@@ -742,8 +742,8 @@
     },
     {
       "naam": "Zilveren Kruis",
-      "status": "normaal",
-      "notitie": "Kan ingepland worden maar liever niet te veel\nHieronder vallen:\n- FBTO\n- De Friesland\n- Interpolis\n- Zilveren Kruis"
+      "status": "beperkt_inplannen",
+      "notitie": "Alleen inplannen als het moet\nHieronder vallen:\n- FBTO\n- De Friesland\n- Interpolis\n- Zilveren Kruis"
     },
     {
       "naam": "DSW",
@@ -832,12 +832,12 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 43,
+  "volgnummer_teller": 44,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-16",
+  "laatst_bijgewerkt": "2026-10-20",
   "wijzigingen": [
     {
       "id": 1,
@@ -1049,6 +1049,16 @@
       "regels": [
         "Status van Melany Lof: Bijzonder inplannen → Wel inplannen",
         "Notitie bij Melany Lof: \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\" → \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\""
+      ]
+    },
+    {
+      "id": 44,
+      "tijdstip": "2026-10-20T08:54:55",
+      "regels": [
+        "Menzis: Beperkt inplannen → Prioriteit",
+        "Notitie bij Menzis: \"Maximaal 1 of 2 inplannen, daarna vragen aan Ids o…\" → \"Nu even veel inplannen\nHieronder Vallen\n- Anderzor…\"",
+        "Zilveren Kruis: Normaal → Beperkt inplannen",
+        "Notitie bij Zilveren Kruis: \"Kan ingepland worden maar liever niet te veel\nHier…\" → \"Alleen inplannen als het moet\nHieronder vallen:\n- …\""
       ]
     }
   ]
