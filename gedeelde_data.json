@@ -830,14 +830,21 @@
       "titel": "SALLAND NIET INPLANNEN BIJ NIEUWE BEHANDELAREN",
       "tekst": "Salland niet inplannen bij behandelaren die na 1-7-2026 zijn begonnen bij ons. Dit is in verband met de declaraties.",
       "belangrijk": true
+    },
+    {
+      "id": 45,
+      "datum": "2026-10-21",
+      "titel": "Fleur gaat naar Meerstad",
+      "tekst": "Fleur gaat per 1 November naar meerstad. Hierom is het belangrijk dat alle cliënten op de hoogte zijn dat als ze een afspraak hebben op de HW mesdagstraat hebben dat dit een keer is en daarna in Meerstad zal zijn. Hier gaat ze tevens 5 CL per dag zien niet 6",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 44,
+  "volgnummer_teller": 45,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-20",
+  "laatst_bijgewerkt": "2026-10-21",
   "wijzigingen": [
     {
       "id": 1,
