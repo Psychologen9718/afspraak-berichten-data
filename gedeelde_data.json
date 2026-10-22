@@ -1,187 +1,10 @@
 {
   "schema_versie": 1,
-  "behandelaars": {
-    "Hester van der Wal": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Marieke Van der Meer-Benedictus": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Tommy Rossen": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "bijzonder_inplannen",
-      "notitie": "RB = Sammy Peter\n\nOp het moment geen normale intakes inplannen, Tommy Moet voor de GZ opleiding 50% normale trajecten en 50% Psychodiagnostiek uitvoeren. Hierom worden de komende tijd alleen psychodiagnostiek trajecten bij hem ingepland.\n\nTraject inplannen is:\n1ste week: 1 uur (intake/kennismaking)\n2de week: 2 uur (Testen)\n3de week: 2 uur (Testen) \n4de week: Niks (uitwerktijd)\n5de week: 1 uur (Terugkoppeling)"
-    },
-    "Leanne Bruin": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "bijzonder_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Marieke van der Meer\n\nMomenteel niet inplannen, geen druk opzetten. Plant zelf grotendeels door."
-    },
-    "Barbara Loomans": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "bijzonder_inplannen",
-      "notitie": "Heeft voornamelijk eigen agenda in beheer. Kijken of zij overduidelijke gaten heeft in agenda. Zal vaak vragen of wij iets voor haar kunnen doen. Dit kan/moet zij vaak zelf doen dus let hier op.\n\nMaster Psycholoog.\nRB = Kawa"
-    },
-    "Hanneke Anker Smit": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog\nMaandag 3 CL\nDinsdag en donderdag 5 CL"
-    },
-    "Joep van den Brink": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Sammy Peter\n\n6 Cliënten op een dag\nLET OP: Als er Werkbegeleiding, Intervisie/Supervie en Werkoverleg in dezelfde week zijn hoeft hij 1 CL minder te zien."
-    },
-    "Kyria Kruize": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "wel_inplannen",
-      "notitie": "GZ-psycholoog\n\nGoed agenda lezen bij inplannen, doet veel extra activiteiten waardoor gaten niet altijd gevuld hoeven te worden. \n\nNOOIT: Afspraken inplannen tussen 13:00 en 14:00"
-    },
-    "Monique Spakman": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "wel_inplannen",
-      "notitie": "GZ-psycholoog"
-    },
-    "Sanne Vink": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "bijzonder_inplannen",
-      "notitie": "Psychiater en Psychotherapeut\n\nSpeciale wijze van inplannen, raadpleeg het secretariaat Handboek"
-    },
-    "Ytsje Van Stiphout-Oosterhaven": {
-      "locatie": "Waterviolier 1 in Meerstad",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#50C878",
-      "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
-    },
-    "Peter Huls": {
-      "locatie": "Waterviolier 1 in Meerstad",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#50C878",
-      "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Johan Mostertman\n\nIndien problemen over de mail, Ids telefonisch contact laten zoeken met Peter"
-    },
-    "Alan Rodic": {
+  "medewerkers": {
+    "m001": {
+      "naam": "Alan Rodic",
+      "functie": "behandelaar",
+      "actief": true,
       "locatie": "Krimpertplein 32",
       "locaties_per_dag": {
         "ma": null,
@@ -196,22 +19,10 @@
       "status": "niet_inplannen",
       "notitie": ""
     },
-    "Tijmen Posthouwer": {
-      "locatie": "Florijn 5A",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#FF69B4",
-      "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
-    },
-    "Maret van der vlies": {
+    "m002": {
+      "naam": "Anna Creemers",
+      "functie": "behandelaar",
+      "actief": true,
       "locatie": "Jan Tooropstraat 44",
       "locaties_per_dag": {
         "ma": null,
@@ -226,247 +37,10 @@
       "status": "niet_inplannen",
       "notitie": ""
     },
-    "Romee van der vlies": {
-      "locatie": "Jan Tooropstraat 44",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E05555",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Sanae Fatouh": {
-      "locatie": "Jan Tooropstraat 44",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E05555",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Valerie Seiffers": {
-      "locatie": "Jan Tooropstraat 44",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E05555",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Kawa Al Ali": {
-      "locatie": "Krimpertplein 32",
-      "locaties_per_dag": {
-        "ma": "HW Mesdagstraat 64a",
-        "di": "HW Mesdagstraat 64a",
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#888888",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Nisrine Ben Haddou": {
-      "locatie": "Krimpertplein 32",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E8A838",
-      "status": "niet_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
-    },
-    "Anna Creemers": {
-      "locatie": "Jan Tooropstraat 44",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E05555",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Wesley Kruise": {
-      "locatie": "Radesingel 6",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#7B68EE",
-      "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kyria Kruize"
-    },
-    "Hanriette visser": {
-      "locatie": "Jan Tooropstraat 44",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E05555",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Esmee Palamba": {
-      "locatie": "Krimpertplein 32",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E8A838",
-      "status": "wel_inplannen",
-      "notitie": "Master Psycholoog.\nRB = Sammy Peter\n\n6 Cliënten per dag."
-    },
-    "Maxime van Eck": {
-      "locatie": "Krimpertplein 32",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E8A838",
-      "status": "niet_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
-    },
-    "Johan Mostertman": {
-      "locatie": "Waterviolier 1 in Meerstad",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": "HW Mesdagstraat 64a",
-        "zo": null
-      },
-      "kleur": "#50C878",
-      "status": "bijzonder_inplannen",
-      "notitie": "GZ-psychloog - ZZPer\n\nVoornamelijke makkelijkere Trajecten inplannen\nBoven aan zijn agenda is per week te zien op welke momenten dat hij cliënten wil zien en hoeveel hij werkt."
-    },
-    "Ruben Stam": {
-      "locatie": "Florijn 5A",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#FF69B4",
-      "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
-    },
-    "Sammy Peter": {
-      "locatie": "Geen vaste locatie",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#888888",
-      "status": "niet_inplannen",
-      "notitie": ""
-    },
-    "Ko Schijndel": {
-      "locatie": "Pretoriusstraat 73-H",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#E05555",
-      "status": "niet_inplannen",
-      "notitie": "Psychotherapeut - ZZPer"
-    },
-    "Kirsten Eikmans": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "niet_inplannen",
-      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
-    },
-    "Fleur van Harmelen": {
-      "locatie": "HW Mesdagstraat 64a",
-      "locaties_per_dag": {
-        "ma": null,
-        "di": null,
-        "wo": null,
-        "do": null,
-        "vr": null,
-        "za": null,
-        "zo": null
-      },
-      "kleur": "#4A90D9",
-      "status": "wel_inplannen",
-      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
-    },
-    "Annemarie Speel": {
+    "m003": {
+      "naam": "Annemarie Speel",
+      "functie": "behandelaar",
+      "actief": true,
       "locatie": "Krimpertplein 32",
       "locaties_per_dag": {
         "ma": null,
@@ -481,7 +55,46 @@
       "status": "wel_inplannen",
       "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg"
     },
-    "Eva Bollema": {
+    "m004": {
+      "naam": "Barbara Loomans",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "bijzonder_inplannen",
+      "notitie": "Heeft voornamelijk eigen agenda in beheer. Kijken of zij overduidelijke gaten heeft in agenda. Zal vaak vragen of wij iets voor haar kunnen doen. Dit kan/moet zij vaak zelf doen dus let hier op.\n\nMaster Psycholoog.\nRB = Kawa"
+    },
+    "m005": {
+      "naam": "Esmee Palamba",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "wel_inplannen",
+      "notitie": "Master Psycholoog.\nRB = Sammy Peter\n\n6 Cliënten per dag."
+    },
+    "m006": {
+      "naam": "Eva Bollema",
+      "functie": "behandelaar",
+      "actief": true,
       "locatie": "HW Mesdagstraat 64a",
       "locaties_per_dag": {
         "ma": null,
@@ -496,7 +109,244 @@
       "status": "wel_inplannen",
       "notitie": "Master Psycholoog. \nRB = nog niet vastegesteld"
     },
-    "Marlous Westra": {
+    "m007": {
+      "naam": "Fleur van Harmelen",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
+    },
+    "m008": {
+      "naam": "Hanneke Anker Smit",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "GZ-Psycholoog\nMaandag 3 CL\nDinsdag en donderdag 5 CL"
+    },
+    "m009": {
+      "naam": "Hanriette visser",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m010": {
+      "naam": "Hester van der Wal",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m011": {
+      "naam": "Joep van den Brink",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Sammy Peter\n\n6 Cliënten op een dag\nLET OP: Als er Werkbegeleiding, Intervisie/Supervie en Werkoverleg in dezelfde week zijn hoeft hij 1 CL minder te zien."
+    },
+    "m012": {
+      "naam": "Johan Mostertman",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": "HW Mesdagstraat 64a",
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "bijzonder_inplannen",
+      "notitie": "GZ-psychloog - ZZPer\n\nVoornamelijke makkelijkere Trajecten inplannen\nBoven aan zijn agenda is per week te zien op welke momenten dat hij cliënten wil zien en hoeveel hij werkt."
+    },
+    "m013": {
+      "naam": "Kawa Al Ali",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": "HW Mesdagstraat 64a",
+        "di": "HW Mesdagstraat 64a",
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m014": {
+      "naam": "Kirsten Eikmans",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
+    },
+    "m015": {
+      "naam": "Ko Schijndel",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Pretoriusstraat 73-H",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": "Psychotherapeut - ZZPer"
+    },
+    "m016": {
+      "naam": "Kyria Kruize",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog\n\nGoed agenda lezen bij inplannen, doet veel extra activiteiten waardoor gaten niet altijd gevuld hoeven te worden. \n\nNOOIT: Afspraken inplannen tussen 13:00 en 14:00"
+    },
+    "m017": {
+      "naam": "Leanne Bruin",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "bijzonder_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Marieke van der Meer\n\nMomenteel niet inplannen, geen druk opzetten. Plant zelf grotendeels door."
+    },
+    "m018": {
+      "naam": "Maret van der vlies",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m019": {
+      "naam": "Marieke Van der Meer-Benedictus",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m020": {
+      "naam": "Marlous Westra",
+      "functie": "behandelaar",
+      "actief": true,
       "locatie": "HW Mesdagstraat 64a",
       "locaties_per_dag": {
         "ma": null,
@@ -511,7 +361,28 @@
       "status": "wel_inplannen",
       "notitie": "GZ-Psycholoog."
     },
-    "Melany Lof": {
+    "m021": {
+      "naam": "Maxime van Eck",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "niet_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
+    },
+    "m022": {
+      "naam": "Melany Lof",
+      "functie": "behandelaar",
+      "actief": true,
       "locatie": "Waterviolier 1 in Meerstad",
       "locaties_per_dag": {
         "ma": null,
@@ -525,6 +396,496 @@
       "kleur": "#50C878",
       "status": "wel_inplannen",
       "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje"
+    },
+    "m023": {
+      "naam": "Monique Spakman",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog"
+    },
+    "m024": {
+      "naam": "Nisrine Ben Haddou",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "niet_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
+    },
+    "m025": {
+      "naam": "Peter Huls",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Johan Mostertman\n\nIndien problemen over de mail, Ids telefonisch contact laten zoeken met Peter"
+    },
+    "m026": {
+      "naam": "Romee van der vlies",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m027": {
+      "naam": "Ruben Stam",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Florijn 5A",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#FF69B4",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
+    },
+    "m028": {
+      "naam": "Sammy Peter",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Geen vaste locatie",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m029": {
+      "naam": "Sanae Fatouh",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m030": {
+      "naam": "Sanne Vink",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "bijzonder_inplannen",
+      "notitie": "Psychiater en Psychotherapeut\n\nSpeciale wijze van inplannen, raadpleeg het secretariaat Handboek"
+    },
+    "m031": {
+      "naam": "Tijmen Posthouwer",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Florijn 5A",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#FF69B4",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
+    },
+    "m032": {
+      "naam": "Tommy Rossen",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "bijzonder_inplannen",
+      "notitie": "RB = Sammy Peter\n\nOp het moment geen normale intakes inplannen, Tommy Moet voor de GZ opleiding 50% normale trajecten en 50% Psychodiagnostiek uitvoeren. Hierom worden de komende tijd alleen psychodiagnostiek trajecten bij hem ingepland.\n\nTraject inplannen is:\n1ste week: 1 uur (intake/kennismaking)\n2de week: 2 uur (Testen)\n3de week: 2 uur (Testen) \n4de week: Niks (uitwerktijd)\n5de week: 1 uur (Terugkoppeling)"
+    },
+    "m033": {
+      "naam": "Valerie Seiffers",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "m034": {
+      "naam": "Wesley Kruise",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kyria Kruize"
+    },
+    "m035": {
+      "naam": "Ytsje Van Stiphout-Oosterhaven",
+      "functie": "behandelaar",
+      "actief": true,
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
+    },
+    "m036": {
+      "naam": "Corien Gosker",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m037": {
+      "naam": "Evelyn Guichelaar",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m038": {
+      "naam": "Gillat Burkhardt-Bartov",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m039": {
+      "naam": "Leeuwe Oostra",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m040": {
+      "naam": "Leonie Nijboer",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m041": {
+      "naam": "Lianne Grisnich- van Dijke",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m042": {
+      "naam": "Linda Smit",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m043": {
+      "naam": "Michiel Eebes",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m044": {
+      "naam": "Moenja Bouaoud",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m045": {
+      "naam": "Renate Reker",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m046": {
+      "naam": "Ria Bosgraaf",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m047": {
+      "naam": "Yancy Backer Leegstra",
+      "functie": "behandelaar",
+      "actief": false,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
+    },
+    "m048": {
+      "naam": "Joshua Teeninga",
+      "functie": "overig",
+      "actief": false
+    },
+    "m049": {
+      "naam": "Rian Boersma",
+      "functie": "overig",
+      "actief": false
+    },
+    "m050": {
+      "naam": "Joyce Deurman",
+      "functie": "overig",
+      "actief": true
+    },
+    "m051": {
+      "naam": "Roanne van der Aa",
+      "functie": "overig",
+      "actief": true
+    },
+    "m052": {
+      "naam": "Twan van Duyn",
+      "functie": "overig",
+      "actief": true
+    },
+    "m053": {
+      "naam": "Melike Gücün",
+      "functie": "overig",
+      "actief": true
+    },
+    "m054": {
+      "naam": "Ids Bootsma",
+      "functie": "overig",
+      "actief": true
+    },
+    "m055": {
+      "naam": "Lienka Plat",
+      "functie": "overig",
+      "actief": true
     }
   },
   "locaties": [
@@ -823,7 +1184,534 @@
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
-  "laatst_bijgewerkt": "2026-10-21",
+  "behandelaars": {
+    "Alan Rodic": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Anna Creemers": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Annemarie Speel": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg"
+    },
+    "Barbara Loomans": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "bijzonder_inplannen",
+      "notitie": "Heeft voornamelijk eigen agenda in beheer. Kijken of zij overduidelijke gaten heeft in agenda. Zal vaak vragen of wij iets voor haar kunnen doen. Dit kan/moet zij vaak zelf doen dus let hier op.\n\nMaster Psycholoog.\nRB = Kawa"
+    },
+    "Esmee Palamba": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "wel_inplannen",
+      "notitie": "Master Psycholoog.\nRB = Sammy Peter\n\n6 Cliënten per dag."
+    },
+    "Eva Bollema": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": "Master Psycholoog. \nRB = nog niet vastegesteld"
+    },
+    "Fleur van Harmelen": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
+    },
+    "Hanneke Anker Smit": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "GZ-Psycholoog\nMaandag 3 CL\nDinsdag en donderdag 5 CL"
+    },
+    "Hanriette visser": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Hester van der Wal": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Joep van den Brink": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Sammy Peter\n\n6 Cliënten op een dag\nLET OP: Als er Werkbegeleiding, Intervisie/Supervie en Werkoverleg in dezelfde week zijn hoeft hij 1 CL minder te zien."
+    },
+    "Johan Mostertman": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": "HW Mesdagstraat 64a",
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "bijzonder_inplannen",
+      "notitie": "GZ-psychloog - ZZPer\n\nVoornamelijke makkelijkere Trajecten inplannen\nBoven aan zijn agenda is per week te zien op welke momenten dat hij cliënten wil zien en hoeveel hij werkt."
+    },
+    "Kawa Al Ali": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": "HW Mesdagstraat 64a",
+        "di": "HW Mesdagstraat 64a",
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Kirsten Eikmans": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
+    },
+    "Ko Schijndel": {
+      "locatie": "Pretoriusstraat 73-H",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": "Psychotherapeut - ZZPer"
+    },
+    "Kyria Kruize": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog\n\nGoed agenda lezen bij inplannen, doet veel extra activiteiten waardoor gaten niet altijd gevuld hoeven te worden. \n\nNOOIT: Afspraken inplannen tussen 13:00 en 14:00"
+    },
+    "Leanne Bruin": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "bijzonder_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Marieke van der Meer\n\nMomenteel niet inplannen, geen druk opzetten. Plant zelf grotendeels door."
+    },
+    "Maret van der vlies": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Marieke Van der Meer-Benedictus": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Marlous Westra": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": "GZ-Psycholoog."
+    },
+    "Maxime van Eck": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "niet_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
+    },
+    "Melany Lof": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": "HW Mesdagstraat 64a",
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje"
+    },
+    "Monique Spakman": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "GZ-psycholoog"
+    },
+    "Nisrine Ben Haddou": {
+      "locatie": "Krimpertplein 32",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E8A838",
+      "status": "niet_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherpeut - ZZPer"
+    },
+    "Peter Huls": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Johan Mostertman\n\nIndien problemen over de mail, Ids telefonisch contact laten zoeken met Peter"
+    },
+    "Romee van der vlies": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Ruben Stam": {
+      "locatie": "Florijn 5A",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#FF69B4",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
+    },
+    "Sammy Peter": {
+      "locatie": "Geen vaste locatie",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Sanae Fatouh": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Sanne Vink": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "bijzonder_inplannen",
+      "notitie": "Psychiater en Psychotherapeut\n\nSpeciale wijze van inplannen, raadpleeg het secretariaat Handboek"
+    },
+    "Tijmen Posthouwer": {
+      "locatie": "Florijn 5A",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#FF69B4",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
+    },
+    "Tommy Rossen": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "bijzonder_inplannen",
+      "notitie": "RB = Sammy Peter\n\nOp het moment geen normale intakes inplannen, Tommy Moet voor de GZ opleiding 50% normale trajecten en 50% Psychodiagnostiek uitvoeren. Hierom worden de komende tijd alleen psychodiagnostiek trajecten bij hem ingepland.\n\nTraject inplannen is:\n1ste week: 1 uur (intake/kennismaking)\n2de week: 2 uur (Testen)\n3de week: 2 uur (Testen) \n4de week: Niks (uitwerktijd)\n5de week: 1 uur (Terugkoppeling)"
+    },
+    "Valerie Seiffers": {
+      "locatie": "Jan Tooropstraat 44",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#E05555",
+      "status": "niet_inplannen",
+      "notitie": ""
+    },
+    "Wesley Kruise": {
+      "locatie": "Radesingel 6",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#7B68EE",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kyria Kruize"
+    },
+    "Ytsje Van Stiphout-Oosterhaven": {
+      "locatie": "Waterviolier 1 in Meerstad",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#50C878",
+      "status": "wel_inplannen",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
+    }
+  },
+  "laatst_bijgewerkt": "2026-10-22",
   "wijzigingen": [
     {
       "id": 1,
