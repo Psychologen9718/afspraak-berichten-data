@@ -1184,9 +1184,16 @@
       "titel": "INPLANNING: Volg het Intakeplanschema",
       "tekst": "Dit schema moet aangehouden worden. Je moet het invoeren aan de hand van de week dat is ingepland. Dus niet welke week het nu is. Als je een intake planned voor 27-10 dan moet je het dus invoeren voor die week.\n\nhttps://bimreggz.sharepoint.com/:x:/r/sites/Secretariaat2/_layouts/15/Doc.aspx?sourcedoc=%7B24D10A5F-DADD-4744-BF7A-9EF3BD7109A4%7D&file=Intakeplanning%20Q4%202026.xlsx&action=default&mobileredirect=true",
       "belangrijk": true
+    },
+    {
+      "id": 48,
+      "datum": "2026-10-23",
+      "titel": "Tommy kan geen Heraanmeldingen aannemen",
+      "tekst": "Als Tommy een her aanmelding heeft kan je deze cliënt het mailadres van tommy geven en alvast aangeven dat hij op het moment helaas geen ruimte heeft voor heraanmeldingen en nieuwe behandelingen. Als de cliënt contact zoekt met Tommy zal tommy een passende oplossing vinden",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 47,
+  "volgnummer_teller": 48,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1719,7 +1726,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-23",
-  "opgeslagen_op": "2026-10-23T10:12:18",
+  "opgeslagen_op": "2026-10-23T10:33:03",
   "wijzigingen": [
     {
       "id": 1,
