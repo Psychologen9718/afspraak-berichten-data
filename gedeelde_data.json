@@ -1088,27 +1088,27 @@
   "zorgverzekeraars": [
     {
       "naam": "CZ",
-      "status": "niet_inplannen",
-      "notitie": ""
+      "status": "prioriteit",
+      "notitie": "INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE HAND VAN SCHEMA. \nDEZE EERST SAMEN MET ZILVEREN KRUIS EN DAARNA PAS VGZ, MENZIS EN OVERIGE\n\nValt ook onder: OHRA en Nationale Nederlanden"
     },
     {
       "naam": "Menzis",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": "Nu even veel inplannen\nHieronder Vallen\n- Anderzorg\n- VinkVink"
     },
     {
       "naam": "VGZ",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": "Hieronder vallen\n- IZA\n- UMC\n- Unive\n- ZEKUR"
     },
     {
       "naam": "Zilveren Kruis",
-      "status": "beperkt_inplannen",
-      "notitie": "Alleen inplannen als het moet\nHieronder vallen:\n- FBTO\n- De Friesland\n- Interpolis\n- Zilveren Kruis"
+      "status": "prioriteit",
+      "notitie": "INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE HAND VAN SCHEMA. \nDEZE EERST SAMEN MET CZ EN DAARNA PAS VGZ, MENZIS EN OVERIGE\n\nAlleen inplannen als het moet\nHieronder vallen:\n- FBTO\n- De Friesland\n- Interpolis\n- Zilveren Kruis"
     },
     {
       "naam": "DSW",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": "Hieronder Vallen\n- Stad Holland\n- DSW"
     },
     {
@@ -1118,17 +1118,17 @@
     },
     {
       "naam": "EUCARE",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": "Hieronder Vallen:\n- Aevitae\n- Eucare"
     },
     {
       "naam": "ONVZ",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": ""
     },
     {
       "naam": "Salland (LET OP, ZIE OMSCHRIJVING)",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": "Altijd ids op de hoogte stellen als je dit inplant.\nNIET INPLANNEN BIJ PSYCHOLOGEN DIE BIJ ONS GESTART ZIJN NA 1-7-2026"
     },
     {
@@ -1138,7 +1138,7 @@
     },
     {
       "naam": "Zorg en Zekerheid",
-      "status": "prioriteit",
+      "status": "normaal",
       "notitie": ""
     }
   ],
@@ -1177,9 +1177,16 @@
       "titel": "Fleur gaat naar Meerstad",
       "tekst": "Fleur gaat per 1 November naar meerstad. Hierom is het belangrijk dat alle cliënten op de hoogte zijn dat als ze een afspraak hebben op de HW mesdagstraat hebben dat dit een keer is en daarna in Meerstad zal zijn. Hier gaat ze tevens 5 CL per dag zien niet 6",
       "belangrijk": true
+    },
+    {
+      "id": 46,
+      "datum": "2026-10-23",
+      "titel": "INPLANNING: Volg het Intakeplanschema",
+      "tekst": "Dit schema moet aangehouden worden. Je moet het invoeren aan de hand van de week dat is ingepland. Dus niet welke week het nu is. Als je een intake planned voor 27-10 dan moet je het dus invoeren voor die week.\n\nhttps://bimreggz.sharepoint.com/:x:/r/sites/Secretariaat2/_layouts/15/Doc.aspx?sourcedoc=%7B24D10A5F-DADD-4744-BF7A-9EF3BD7109A4%7D&file=Intakeplanning%20Q4%202026.xlsx&action=default&mobileredirect=true",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 45,
+  "volgnummer_teller": 47,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1711,8 +1718,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-10-22",
-  "opgeslagen_op": "2026-10-22T11:38:27",
+  "laatst_bijgewerkt": "2026-10-23",
+  "opgeslagen_op": "2026-10-23T09:31:16",
   "wijzigingen": [
     {
       "id": 1,
@@ -1934,6 +1941,23 @@
         "Notitie bij Menzis: \"Maximaal 1 of 2 inplannen, daarna vragen aan Ids o…\" → \"Nu even veel inplannen\nHieronder Vallen\n- Anderzor…\"",
         "Zilveren Kruis: Normaal → Beperkt inplannen",
         "Notitie bij Zilveren Kruis: \"Kan ingepland worden maar liever niet te veel\nHier…\" → \"Alleen inplannen als het moet\nHieronder vallen:\n- …\""
+      ]
+    },
+    {
+      "id": 47,
+      "tijdstip": "2026-10-23T09:31:16",
+      "regels": [
+        "CZ: Niet inplannen → Prioriteit",
+        "Notitie bij CZ: (leeg) → \"INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE H…\"",
+        "DSW: Prioriteit → Normaal",
+        "EUCARE: Prioriteit → Normaal",
+        "Menzis: Prioriteit → Normaal",
+        "ONVZ: Prioriteit → Normaal",
+        "Salland (LET OP, ZIE OMSCHRIJVING): Prioriteit → Normaal",
+        "VGZ: Prioriteit → Normaal",
+        "Zilveren Kruis: Beperkt inplannen → Prioriteit",
+        "Notitie bij Zilveren Kruis: \"Alleen inplannen als het moet\nHieronder vallen:\n- …\" → \"INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE H…\"",
+        "Zorg en Zekerheid: Prioriteit → Normaal"
       ]
     }
   ]
