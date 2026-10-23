@@ -107,7 +107,7 @@
       },
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
-      "notitie": "Master Psycholoog. \nRB = nog niet vastegesteld"
+      "notitie": "Master Psycholoog. \nRB = Marlous\n\nIntakes vooral in de middag inplannen\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
     },
     "m007": {
       "naam": "Fleur van Harmelen",
@@ -359,7 +359,7 @@
       },
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog."
+      "notitie": "GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
     },
     "m021": {
       "naam": "Maxime van Eck",
@@ -1193,7 +1193,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 48,
+  "volgnummer_teller": 49,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1287,7 +1287,7 @@
       },
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
-      "notitie": "Master Psycholoog. \nRB = nog niet vastegesteld"
+      "notitie": "Master Psycholoog. \nRB = Marlous\n\nIntakes vooral in de middag inplannen\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
     },
     "Fleur van Harmelen": {
       "locatie": "HW Mesdagstraat 64a",
@@ -1497,7 +1497,7 @@
       },
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog."
+      "notitie": "GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
     },
     "Maxime van Eck": {
       "locatie": "Krimpertplein 32",
@@ -1726,7 +1726,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-23",
-  "opgeslagen_op": "2026-10-23T10:33:03",
+  "opgeslagen_op": "2026-10-23T14:40:03",
   "wijzigingen": [
     {
       "id": 1,
@@ -1965,6 +1965,14 @@
         "Zilveren Kruis: Beperkt inplannen → Prioriteit",
         "Notitie bij Zilveren Kruis: \"Alleen inplannen als het moet\nHieronder vallen:\n- …\" → \"INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE H…\"",
         "Zorg en Zekerheid: Prioriteit → Normaal"
+      ]
+    },
+    {
+      "id": 49,
+      "tijdstip": "2026-10-23T14:40:03",
+      "regels": [
+        "Notitie bij Eva Bollema: \"Master Psycholoog. \nRB = nog niet vastegesteld\" → \"Master Psycholoog. \nRB = Marlous\n\nIntakes vooral i…\"",
+        "Notitie bij Marlous Westra: \"GZ-Psycholoog.\" → \"GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 …\""
       ]
     }
   ]
