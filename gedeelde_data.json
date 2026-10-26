@@ -394,8 +394,8 @@
         "zo": null
       },
       "kleur": "#50C878",
-      "status": "wel_inplannen",
-      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje"
+      "status": "niet_inplannen",
+      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nNIet inplannen tot nader bericht (Twan 26-10-2026)\nRegie behandelaar van Ytsje"
     },
     "m023": {
       "naam": "Monique Spakman",
@@ -1200,7 +1200,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 52,
+  "volgnummer_teller": 53,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1533,8 +1533,8 @@
         "zo": null
       },
       "kleur": "#50C878",
-      "status": "wel_inplannen",
-      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nRegie behandelaar van Ytsje"
+      "status": "niet_inplannen",
+      "notitie": "NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meerstad en Vrijdag op HW mesdagstraat\n\nNIet inplannen tot nader bericht (Twan 26-10-2026)\nRegie behandelaar van Ytsje"
     },
     "Monique Spakman": {
       "locatie": "Radesingel 6",
@@ -1733,7 +1733,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-26",
-  "opgeslagen_op": "2026-10-26T09:24:33",
+  "opgeslagen_op": "2026-10-26T15:22:29",
   "wijzigingen": [
     {
       "id": 1,
@@ -1994,6 +1994,14 @@
       "tijdstip": "2026-10-26T09:24:33",
       "regels": [
         "Template \"Online Vervolg\" gewijzigd"
+      ]
+    },
+    {
+      "id": 53,
+      "tijdstip": "2026-10-26T15:22:29",
+      "regels": [
+        "Status van Melany Lof: Wel inplannen → Niet inplannen",
+        "Notitie bij Melany Lof: \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\" → \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\""
       ]
     }
   ]
