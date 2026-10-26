@@ -1068,16 +1068,16 @@
       "inhoud_en": "{aanhef},\n\nThank you for your message. We have received your referral letter in good order and you have been placed on our waiting list.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nWe are contracted with your health insurer. However, it is important to know that we are close to reaching the care ceiling (zorgplafond) set by your health insurance provider. This is a financial limitation imposed on us by the insurer, which may cause the waiting time to differ. We will inform you further as soon as we have more information regarding the waiting time.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nKind regards,\n\nSecretariat Psychologen.nl"
     },
     {
-      "naam": "Online Vervolg",
-      "type": "online_vervolg",
-      "inhoud_nl": "Test",
-      "inhoud_en": ""
-    },
-    {
       "naam": "Geen Klik Gesprek Aanvraag",
       "type": "geen",
       "inhoud_nl": "Goedendag,  \n\nBedankt voor het aangeven dat u geen klik voelt met uw behandelaar. Het is belangrijk dat u een passende behandelaar heeft en wij gaan ervoor zorgen dat wij die voor u vinden.  \n\nOm dit goed te regelen, is het nodig dat u nog een kort telefonisch gesprek (ongeveer 15 minuten) heeft met uw huidige behandelaar. Tijdens dit gesprek kan er samen gekeken worden welke behandelaar beter bij u past en daarna zal de behandelaar zorgen voor een goede overdracht. Onze behandelaren bellen altijd anoniem.  \n\nKunt u aangeven op welke momenten u de komende tijd beschikbaar bent voor dit telefonische consult? Dan plannen wij dit graag met u in.  \n\nWij willen u graag verder helpen en hopen samen tot een passende oplossing te komen. Mocht u nog vragen hebben, kunt u altijd contact met ons opnemen. \n\nMet vriendelijke groet,  \n\nSecretariaat Psychologen.nl ",
       "inhoud_en": "Good day,  \n\nThank you for letting us know that you don’t feel a connection with your current therapist. It is important that you have a therapist who is a good fit for you, and we will make sure to find the right one.  \n\nTo arrange this properly, you will need to have a short phone call (about 15 minutes) with your current therapist. During this conversation, you can decide together which therapist would be a better match, after which your current therapist will ensure a smooth handover. Please note that our therapists always call from an anonymous number.  \n\nCould you let us know your availability in the coming days for this phone call? We will be happy to schedule it with you.  \n\nWe are here to support you and hope to find a suitable solution together. If you have any questions, please don’t hesitate to contact us.  \n\nBest regards,  \nPsychologen.nl Secretariat "
+    },
+    {
+      "naam": "Online Vervolg",
+      "type": "online_vervolg",
+      "inhoud_nl": "Wij hebben uw afspraak succesvol ingepland op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}, u krijgt een link toegestuurd naar een beveiligde beelbel omgeving voor de afspraak (Let op! Deze link kan op het laatste moment op de afspraak zelf nog binnenkomen, schrik hier niet van)\n\nAls u verder nog vragen heeft beantwoorden wij deze graag.\n\nVerder wensen wij u een fijne dag toe en alvast veel succes op uw afspraak!\n\nVriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": "We have successfully scheduled your appointment on {datum_lang} at {tijd} with our practitioner {behandelaar}, you will be sent a link to a secure video calling environment for the appointment (Please note! This link may only arrive at the last moment, at the time of the appointment itself, so please do not be alarmed by this)\n\nIf you have any further questions, we will be happy to answer them.\n\nWe also wish you a pleasant day and the best of luck with your appointment!\n\nKind regards,\nSecretariat Psychologen.nl"
     }
   ],
   "wachttijden": [
@@ -1200,7 +1200,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 51,
+  "volgnummer_teller": 52,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1732,8 +1732,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-10-23",
-  "opgeslagen_op": "2026-10-23T14:42:53",
+  "laatst_bijgewerkt": "2026-10-26",
+  "opgeslagen_op": "2026-10-26T09:24:33",
   "wijzigingen": [
     {
       "id": 1,
@@ -1987,6 +1987,13 @@
       "tijdstip": "2026-10-23T14:41:52",
       "regels": [
         "Notitie bij Annemarie Speel: \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\" → \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\""
+      ]
+    },
+    {
+      "id": 52,
+      "tijdstip": "2026-10-26T09:24:33",
+      "regels": [
+        "Template \"Online Vervolg\" gewijzigd"
       ]
     }
   ]
