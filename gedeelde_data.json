@@ -53,7 +53,7 @@
       },
       "kleur": "#E8A838",
       "status": "wel_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg\n\nLET OP: INTAKES vooral in de ochtend\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL'sIntakes vooral in de middag inplannen\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg\n\n\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's\n\n\"k heb nog even nagedacht over de indeling van de eerste week. Je vroeg gisteren hoe de drie intakes in de middag voor mij zouden zijn. Ik denk dat ik het toch prettiger zou vinden om de intakes wat meer te spreiden.\n\nVoor maandag zou ik daarom graag aan het einde van de ochtend één intake doen en vervolgens twee in de middag. Voor de overige werkdagen zou mijn voorkeur uitgaan naar twee intakes in de ochtend en één in de middag. Ik merk dat ik in de ochtend het scherpst ben en vind het daarnaast prettig om wat ruimte tussen de gesprekken te hebben.\n\nAls het mogelijk is, zou ik het uur van 16.00 tot 17.00 uur graag vrijhouden om uit te werken en de dag af te ronden.\""
     },
     "m004": {
       "naam": "Barbara Loomans",
@@ -1200,7 +1200,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 53,
+  "volgnummer_teller": 54,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1249,7 +1249,7 @@
       },
       "kleur": "#E8A838",
       "status": "wel_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg\n\nLET OP: INTAKES vooral in de ochtend\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL'sIntakes vooral in de middag inplannen\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg\n\n\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's\n\n\"k heb nog even nagedacht over de indeling van de eerste week. Je vroeg gisteren hoe de drie intakes in de middag voor mij zouden zijn. Ik denk dat ik het toch prettiger zou vinden om de intakes wat meer te spreiden.\n\nVoor maandag zou ik daarom graag aan het einde van de ochtend één intake doen en vervolgens twee in de middag. Voor de overige werkdagen zou mijn voorkeur uitgaan naar twee intakes in de ochtend en één in de middag. Ik merk dat ik in de ochtend het scherpst ben en vind het daarnaast prettig om wat ruimte tussen de gesprekken te hebben.\n\nAls het mogelijk is, zou ik het uur van 16.00 tot 17.00 uur graag vrijhouden om uit te werken en de dag af te ronden.\""
     },
     "Barbara Loomans": {
       "locatie": "Radesingel 6",
@@ -1733,7 +1733,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-26",
-  "opgeslagen_op": "2026-10-26T15:22:29",
+  "opgeslagen_op": "2026-10-26T15:24:53",
   "wijzigingen": [
     {
       "id": 1,
@@ -2002,6 +2002,13 @@
       "regels": [
         "Status van Melany Lof: Wel inplannen → Niet inplannen",
         "Notitie bij Melany Lof: \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\" → \"NIeuwe GZ-Psycholoog (ZZP)\n\nWerkt maandag op Meers…\""
+      ]
+    },
+    {
+      "id": 54,
+      "tijdstip": "2026-10-26T15:24:53",
+      "regels": [
+        "Notitie bij Annemarie Speel: \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\" → \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\""
       ]
     }
   ]
