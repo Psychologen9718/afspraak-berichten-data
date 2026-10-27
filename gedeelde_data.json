@@ -478,7 +478,7 @@
         "ma": null,
         "di": null,
         "wo": null,
-        "do": null,
+        "do": "Krimpertplein 32",
         "vr": null,
         "za": null,
         "zo": null
@@ -1200,7 +1200,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 54,
+  "volgnummer_teller": 55,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1602,7 +1602,7 @@
         "ma": null,
         "di": null,
         "wo": null,
-        "do": null,
+        "do": "Krimpertplein 32",
         "vr": null,
         "za": null,
         "zo": null
@@ -1732,8 +1732,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-10-26",
-  "opgeslagen_op": "2026-10-26T15:24:53",
+  "laatst_bijgewerkt": "2026-10-27",
+  "opgeslagen_op": "2026-10-27T08:24:57",
   "wijzigingen": [
     {
       "id": 1,
@@ -2009,6 +2009,13 @@
       "tijdstip": "2026-10-26T15:24:53",
       "regels": [
         "Notitie bij Annemarie Speel: \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\" → \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\""
+      ]
+    },
+    {
+      "id": 55,
+      "tijdstip": "2026-10-27T08:24:57",
+      "regels": [
+        "Locatie do bij Ruben Stam: (standaard) → Krimpertplein 32"
       ]
     }
   ]
