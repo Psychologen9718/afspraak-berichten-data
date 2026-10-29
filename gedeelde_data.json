@@ -113,7 +113,7 @@
       "naam": "Fleur van Harmelen",
       "functie": "behandelaar",
       "actief": true,
-      "locatie": "HW Mesdagstraat 64a",
+      "locatie": "Waterviolier 1 in Meerstad",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -123,9 +123,9 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#4A90D9",
+      "kleur": "#50C878",
       "status": "wel_inplannen",
-      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
+      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, Ziet 5 per dag, werkzaam in Meerstad\n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
     },
     "m008": {
       "naam": "Hanneke Anker Smit",
@@ -1200,7 +1200,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 55,
+  "volgnummer_teller": 56,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1297,7 +1297,7 @@
       "notitie": "Master Psycholoog. \nRB = Marlous\n\nIntakes vooral in de middag inplannen\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
     },
     "Fleur van Harmelen": {
-      "locatie": "HW Mesdagstraat 64a",
+      "locatie": "Waterviolier 1 in Meerstad",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -1307,9 +1307,9 @@
         "za": null,
         "zo": null
       },
-      "kleur": "#4A90D9",
+      "kleur": "#50C878",
       "status": "wel_inplannen",
-      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, \n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
+      "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, Ziet 5 per dag, werkzaam in Meerstad\n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
     },
     "Hanneke Anker Smit": {
       "locatie": "Radesingel 6",
@@ -1732,8 +1732,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-10-27",
-  "opgeslagen_op": "2026-10-27T08:24:57",
+  "laatst_bijgewerkt": "2026-10-29",
+  "opgeslagen_op": "2026-10-29T10:51:44",
   "wijzigingen": [
     {
       "id": 1,
@@ -2016,6 +2016,14 @@
       "tijdstip": "2026-10-27T08:24:57",
       "regels": [
         "Locatie do bij Ruben Stam: (standaard) → Krimpertplein 32"
+      ]
+    },
+    {
+      "id": 56,
+      "tijdstip": "2026-10-29T10:51:44",
+      "regels": [
+        "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\" → \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\"",
+        "Standaardlocatie van Fleur van Harmelen: HW Mesdagstraat 64a → Waterviolier 1 in Meerstad"
       ]
     }
   ]
