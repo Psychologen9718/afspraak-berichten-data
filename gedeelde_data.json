@@ -670,7 +670,7 @@
     "m038": {
       "naam": "Gillat Burkhardt-Bartov",
       "functie": "behandelaar",
-      "actief": false,
+      "actief": true,
       "locatie": "HW Mesdagstraat 64a",
       "locaties_per_dag": {
         "ma": null,
@@ -870,7 +870,7 @@
     "m052": {
       "naam": "Twan van Duyn",
       "functie": "overig",
-      "actief": true
+      "actief": false
     },
     "m053": {
       "naam": "Melike Gücün",
@@ -1200,7 +1200,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 56,
+  "volgnummer_teller": 57,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1310,6 +1310,21 @@
       "kleur": "#50C878",
       "status": "wel_inplannen",
       "notitie": "Master Psycholoog\nRB = Hester\n\nWel weer inplannen, Ziet 5 per dag, werkzaam in Meerstad\n\n15-10 4 CL's\n20-10 5 CL's\n21-10 5 CL's \n22-10 5 CL's"
+    },
+    "Gillat Burkhardt-Bartov": {
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "wel_inplannen",
+      "notitie": ""
     },
     "Hanneke Anker Smit": {
       "locatie": "Radesingel 6",
@@ -1732,8 +1747,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-10-29",
-  "opgeslagen_op": "2026-10-29T10:51:44",
+  "laatst_bijgewerkt": "2026-10-30",
+  "opgeslagen_op": "2026-10-30T10:10:00",
   "wijzigingen": [
     {
       "id": 1,
@@ -2024,6 +2039,14 @@
       "regels": [
         "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\" → \"Master Psycholoog\nRB = Hester\n\nWel weer inplannen,…\"",
         "Standaardlocatie van Fleur van Harmelen: HW Mesdagstraat 64a → Waterviolier 1 in Meerstad"
+      ]
+    },
+    {
+      "id": 57,
+      "tijdstip": "2026-10-30T10:10:00",
+      "regels": [
+        "Gillat Burkhardt-Bartov is weer actief",
+        "Twan van Duyn is niet meer actief"
       ]
     }
   ]
