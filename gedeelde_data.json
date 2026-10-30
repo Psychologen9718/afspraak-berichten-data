@@ -882,7 +882,21 @@
     "m054": {
       "naam": "Ids Bootsma",
       "functie": "overig",
-      "actief": true
+      "actief": true,
+      "inplannen": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": ""
     },
     "m055": {
       "naam": "Lienka Plat",
@@ -1750,7 +1764,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-30",
-  "opgeslagen_op": "2026-10-30T13:27:29",
+  "opgeslagen_op": "2026-10-30T13:51:49",
   "wijzigingen": [
     {
       "id": 1,
