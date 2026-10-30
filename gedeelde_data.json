@@ -629,7 +629,8 @@
       },
       "kleur": "#50C878",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen",
+      "inplannen": true
     },
     "m036": {
       "naam": "Corien Gosker",
@@ -1201,7 +1202,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 59,
+  "volgnummer_teller": 60,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1745,11 +1746,11 @@
       },
       "kleur": "#50C878",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29-9 3 dagen en 3 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
   "laatst_bijgewerkt": "2026-10-30",
-  "opgeslagen_op": "2026-10-30T11:47:16",
+  "opgeslagen_op": "2026-10-30T13:12:04",
   "wijzigingen": [
     {
       "id": 1,
@@ -2062,6 +2063,13 @@
       "tijdstip": "2026-10-30T11:47:16",
       "regels": [
         "Nieuwe app-versie beschikbaar: v1.2.0"
+      ]
+    },
+    {
+      "id": 60,
+      "tijdstip": "2026-10-30T13:12:04",
+      "regels": [
+        "Notitie bij Ytsje Van Stiphout-Oosterhaven: \"Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29…\" → \"Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30…\""
       ]
     }
   ]
