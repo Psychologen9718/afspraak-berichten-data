@@ -485,7 +485,8 @@
       },
       "kleur": "#FF69B4",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst",
+      "inplannen": true
     },
     "m028": {
       "naam": "Sammy Peter",
@@ -569,13 +570,14 @@
         "di": null,
         "wo": null,
         "do": null,
-        "vr": null,
+        "vr": "Waterviolier 1 in Meerstad",
         "za": null,
         "zo": null
       },
       "kleur": "#4A90D9",
       "status": "bijzonder_inplannen",
-      "notitie": "RB = Sammy Peter\n\nOp het moment geen normale intakes inplannen, Tommy Moet voor de GZ opleiding 50% normale trajecten en 50% Psychodiagnostiek uitvoeren. Hierom worden de komende tijd alleen psychodiagnostiek trajecten bij hem ingepland.\n\nTraject inplannen is:\n1ste week: 1 uur (intake/kennismaking)\n2de week: 2 uur (Testen)\n3de week: 2 uur (Testen) \n4de week: Niks (uitwerktijd)\n5de week: 1 uur (Terugkoppeling)"
+      "notitie": "RB = Sammy Peter\n\nOp het moment geen normale intakes inplannen, Tommy Moet voor de GZ opleiding 50% normale trajecten en 50% Psychodiagnostiek uitvoeren. Hierom worden de komende tijd alleen psychodiagnostiek trajecten bij hem ingepland.\n\nTraject inplannen is:\n1ste week: 1 uur (intake/kennismaking)\n2de week: 2 uur (Testen)\n3de week: 2 uur (Testen) \n4de week: Niks (uitwerktijd)\n5de week: 1 uur (Terugkoppeling)",
+      "inplannen": true
     },
     "m033": {
       "naam": "Valerie Seiffers",
@@ -653,7 +655,7 @@
     "m037": {
       "naam": "Evelyn Guichelaar",
       "functie": "behandelaar",
-      "actief": false,
+      "actief": true,
       "locatie": "HW Mesdagstraat 64a",
       "locaties_per_dag": {
         "ma": null,
@@ -666,7 +668,8 @@
       },
       "kleur": "#888888",
       "status": "wel_inplannen",
-      "notitie": ""
+      "notitie": "",
+      "inplannen": false
     },
     "m038": {
       "naam": "Gillat Burkhardt-Bartov",
@@ -690,8 +693,8 @@
     "m039": {
       "naam": "Leeuwe Oostra",
       "functie": "behandelaar",
-      "actief": false,
-      "locatie": "HW Mesdagstraat 64a",
+      "actief": true,
+      "locatie": "Geen vaste locatie",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -702,8 +705,9 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
-      "notitie": ""
+      "status": "niet_inplannen",
+      "notitie": "Zzper, Heeft eigen locatie in Zuidlaren",
+      "inplannen": false
     },
     "m040": {
       "naam": "Leonie Nijboer",
@@ -726,8 +730,8 @@
     "m041": {
       "naam": "Lianne Grisnich- van Dijke",
       "functie": "behandelaar",
-      "actief": false,
-      "locatie": "HW Mesdagstraat 64a",
+      "actief": true,
+      "locatie": "Geen vaste locatie",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -738,14 +742,15 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
-      "notitie": ""
+      "status": "niet_inplannen",
+      "notitie": "ZZPer",
+      "inplannen": false
     },
     "m042": {
       "naam": "Linda Smit",
       "functie": "behandelaar",
-      "actief": false,
-      "locatie": "HW Mesdagstraat 64a",
+      "actief": true,
+      "locatie": "Geen vaste locatie",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -756,8 +761,9 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
-      "notitie": ""
+      "status": "niet_inplannen",
+      "notitie": "Onderaannemer in Amesfoort",
+      "inplannen": false
     },
     "m043": {
       "naam": "Michiel Eebes",
@@ -780,7 +786,7 @@
     "m044": {
       "naam": "Moenja Bouaoud",
       "functie": "behandelaar",
-      "actief": false,
+      "actief": true,
       "locatie": "HW Mesdagstraat 64a",
       "locaties_per_dag": {
         "ma": null,
@@ -792,8 +798,9 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
-      "notitie": ""
+      "status": "niet_inplannen",
+      "notitie": "Psychotherapeut, Niet inplannen",
+      "inplannen": false
     },
     "m045": {
       "naam": "Renate Reker",
@@ -816,8 +823,8 @@
     "m046": {
       "naam": "Ria Bosgraaf",
       "functie": "behandelaar",
-      "actief": false,
-      "locatie": "HW Mesdagstraat 64a",
+      "actief": true,
+      "locatie": "Geen vaste locatie",
       "locaties_per_dag": {
         "ma": null,
         "di": null,
@@ -828,8 +835,9 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
-      "notitie": ""
+      "status": "niet_inplannen",
+      "notitie": "Seksuloog en Systeemtherapeut. Werkt voor eigen praktijk, als zzper bij ons in dienst",
+      "inplannen": true
     },
     "m047": {
       "naam": "Yancy Backer Leegstra",
@@ -861,18 +869,47 @@
     },
     "m050": {
       "naam": "Joyce Deurman",
-      "functie": "overig",
-      "actief": true
+      "functie": "behandelaar",
+      "actief": false,
+      "inplannen": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": ""
     },
     "m051": {
       "naam": "Roanne van der Aa",
-      "functie": "overig",
-      "actief": true
+      "functie": "behandelaar",
+      "actief": false,
+      "inplannen": true,
+      "locatie": "HW Mesdagstraat 64a",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#4A90D9",
+      "status": "wel_inplannen",
+      "notitie": "Ziek, nog wel officeel in dienst"
     },
     "m052": {
       "naam": "Twan van Duyn",
       "functie": "overig",
-      "actief": false
+      "actief": true,
+      "inplannen": true
     },
     "m053": {
       "naam": "Melike Gücün",
@@ -1216,7 +1253,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 60,
+  "volgnummer_teller": 61,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1612,6 +1649,21 @@
       "status": "wel_inplannen",
       "notitie": "Masterpsycholoog\nRB = Johan Mostertman\n\nIndien problemen over de mail, Ids telefonisch contact laten zoeken met Peter"
     },
+    "Ria Bosgraaf": {
+      "locatie": "Geen vaste locatie",
+      "locaties_per_dag": {
+        "ma": null,
+        "di": null,
+        "wo": null,
+        "do": null,
+        "vr": null,
+        "za": null,
+        "zo": null
+      },
+      "kleur": "#888888",
+      "status": "niet_inplannen",
+      "notitie": "Seksuloog en Systeemtherapeut. Werkt voor eigen praktijk, als zzper bij ons in dienst"
+    },
     "Romee van der vlies": {
       "locatie": "Jan Tooropstraat 44",
       "locaties_per_dag": {
@@ -1640,7 +1692,7 @@
       },
       "kleur": "#FF69B4",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali"
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst"
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
@@ -1709,7 +1761,7 @@
         "di": null,
         "wo": null,
         "do": null,
-        "vr": null,
+        "vr": "Waterviolier 1 in Meerstad",
         "za": null,
         "zo": null
       },
@@ -1764,7 +1816,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-30",
-  "opgeslagen_op": "2026-10-30T13:51:49",
+  "opgeslagen_op": "2026-10-30T14:00:22",
   "wijzigingen": [
     {
       "id": 1,
@@ -2084,6 +2136,30 @@
       "tijdstip": "2026-10-30T13:12:04",
       "regels": [
         "Notitie bij Ytsje Van Stiphout-Oosterhaven: \"Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 29…\" → \"Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30…\""
+      ]
+    },
+    {
+      "id": 61,
+      "tijdstip": "2026-10-30T14:00:22",
+      "regels": [
+        "Evelyn Guichelaar is weer actief",
+        "Evelyn Guichelaar wordt niet meer getoond bij inplannen",
+        "Leeuwe Oostra is weer actief",
+        "Leeuwe Oostra wordt niet meer getoond bij inplannen",
+        "Lianne Grisnich- van Dijke is weer actief",
+        "Lianne Grisnich- van Dijke wordt niet meer getoond bij inplannen",
+        "Linda Smit is weer actief",
+        "Linda Smit wordt niet meer getoond bij inplannen",
+        "Moenja Bouaoud is weer actief",
+        "Moenja Bouaoud wordt niet meer getoond bij inplannen",
+        "Ria Bosgraaf is weer actief",
+        "Joyce Deurman is niet meer actief",
+        "Functie van Joyce Deurman: Overige medewerker → Behandelaar",
+        "Roanne van der Aa is niet meer actief",
+        "Functie van Roanne van der Aa: Overige medewerker → Behandelaar",
+        "Twan van Duyn is weer actief",
+        "Notitie bij Ruben Stam: \"Masterpsycholoog\nRB = Kawa Al Ali\" → \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\"",
+        "Locatie vr bij Tommy Rossen: (standaard) → Waterviolier 1 in Meerstad"
       ]
     }
   ]
