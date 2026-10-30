@@ -682,8 +682,9 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
-      "notitie": ""
+      "status": "niet_inplannen",
+      "notitie": "",
+      "inplannen": true
     },
     "m039": {
       "naam": "Leeuwe Oostra",
@@ -1200,7 +1201,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 57,
+  "volgnummer_teller": 58,
   "app_update": {
     "versie": "1.1.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1323,7 +1324,7 @@
         "zo": null
       },
       "kleur": "#888888",
-      "status": "wel_inplannen",
+      "status": "niet_inplannen",
       "notitie": ""
     },
     "Hanneke Anker Smit": {
@@ -1748,7 +1749,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-10-30",
-  "opgeslagen_op": "2026-10-30T10:10:00",
+  "opgeslagen_op": "2026-10-30T11:31:41",
   "wijzigingen": [
     {
       "id": 1,
@@ -2047,6 +2048,13 @@
       "regels": [
         "Gillat Burkhardt-Bartov is weer actief",
         "Twan van Duyn is niet meer actief"
+      ]
+    },
+    {
+      "id": 58,
+      "tijdstip": "2026-10-30T11:31:41",
+      "regels": [
+        "Status van Gillat Burkhardt-Bartov: Wel inplannen → Niet inplannen"
       ]
     }
   ]
