@@ -250,8 +250,9 @@
         "zo": null
       },
       "kleur": "#4A90D9",
-      "status": "niet_inplannen",
-      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
+      "status": "wel_inplannen",
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten",
+      "inplannen": true
     },
     "m015": {
       "naam": "Ko Schijndel",
@@ -1253,7 +1254,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 61,
+  "volgnummer_teller": 62,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1481,7 +1482,7 @@
         "zo": null
       },
       "kleur": "#4A90D9",
-      "status": "niet_inplannen",
+      "status": "wel_inplannen",
       "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
     },
     "Ko Schijndel": {
@@ -1815,8 +1816,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-10-30",
-  "opgeslagen_op": "2026-10-30T14:00:22",
+  "laatst_bijgewerkt": "2026-11-02",
+  "opgeslagen_op": "2026-11-02T15:05:21",
   "wijzigingen": [
     {
       "id": 1,
@@ -2160,6 +2161,13 @@
         "Twan van Duyn is weer actief",
         "Notitie bij Ruben Stam: \"Masterpsycholoog\nRB = Kawa Al Ali\" → \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\"",
         "Locatie vr bij Tommy Rossen: (standaard) → Waterviolier 1 in Meerstad"
+      ]
+    },
+    {
+      "id": 62,
+      "tijdstip": "2026-11-02T15:05:21",
+      "regels": [
+        "Status van Kirsten Eikmans: Niet inplannen → Wel inplannen"
       ]
     }
   ]
