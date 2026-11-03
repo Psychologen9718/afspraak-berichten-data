@@ -487,7 +487,7 @@
       },
       "kleur": "#FF69B4",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst\n\nRuben gaat uit dienst per 1 December. Dit betekent dat hij intakes doet en deze vervolgens overdraagt aan andere behandelaren. Ook werkt hij nu op donderdag als psycholoog. Hij heeft niet meer zijn POH dag. Deze dag werkt hij op krimpertplein 32. Houd hier dus rekening mee!",
       "inplannen": true
     },
     "m028": {
@@ -1255,7 +1255,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 66,
+  "volgnummer_teller": 67,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1694,7 +1694,7 @@
       },
       "kleur": "#FF69B4",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst"
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst\n\nRuben gaat uit dienst per 1 December. Dit betekent dat hij intakes doet en deze vervolgens overdraagt aan andere behandelaren. Ook werkt hij nu op donderdag als psycholoog. Hij heeft niet meer zijn POH dag. Deze dag werkt hij op krimpertplein 32. Houd hier dus rekening mee!"
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
@@ -1818,7 +1818,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-03",
-  "opgeslagen_op": "2026-11-03T16:39:32",
+  "opgeslagen_op": "2026-11-03T16:39:51",
   "wijzigingen": [
     {
       "id": 1,
@@ -2184,6 +2184,13 @@
       "regels": [
         "Notitie bij Menzis: \"Nu even veel inplannen\nHieronder Vallen\n- Anderzor…\" → \"LET OP! Stel je volgt Intakeplanning Q4 2026 en je…\"",
         "Notitie bij VGZ: \"Hieronder vallen\n- IZA\n- UMC\n- Unive\n- ZEKUR\" → \"LET OP! Stel je volgt Intakeplanning Q4 2026 en je…\""
+      ]
+    },
+    {
+      "id": 67,
+      "tijdstip": "2026-11-03T16:39:51",
+      "regels": [
+        "Notitie bij Ruben Stam: \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\" → \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\""
       ]
     }
   ]
