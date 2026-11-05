@@ -480,7 +480,7 @@
         "ma": null,
         "di": null,
         "wo": null,
-        "do": "Krimpertplein 32",
+        "do": null,
         "vr": null,
         "za": null,
         "zo": null
@@ -1133,6 +1133,12 @@
       "type": "online_vervolg",
       "inhoud_nl": "Wij hebben uw afspraak succesvol ingepland op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}, u krijgt een link toegestuurd naar een beveiligde beelbel omgeving voor de afspraak (Let op! Deze link kan op het laatste moment op de afspraak zelf nog binnenkomen, schrik hier niet van)\n\nAls u verder nog vragen heeft beantwoorden wij deze graag.\n\nVerder wensen wij u een fijne dag toe en alvast veel succes op uw afspraak!\n\nVriendelijke groet,\nSecretariaat Psychologen.nl",
       "inhoud_en": "We have successfully scheduled your appointment on {datum_lang} at {tijd} with our practitioner {behandelaar}, you will be sent a link to a secure video calling environment for the appointment (Please note! This link may only arrive at the last moment, at the time of the appointment itself, so please do not be alarmed by this)\n\nIf you have any further questions, we will be happy to answer them.\n\nWe also wish you a pleasant day and the best of luck with your appointment!\n\nKind regards,\nSecretariat Psychologen.nl"
+    },
+    {
+      "naam": "Intensief Traject Ingepland zonder overleg",
+      "type": "geen",
+      "inhoud_nl": "{aanhef},\n\nU bent naar ons doorverwezen door de bedrijfsarts voor een psychologisch traject. Wij hebben uw online intake ingepland bij {behandelaar}. Het gaat om het volgende moment:\n{momenten}\n\nMocht dit moment u niet uitkomen, dan horen wij dit graag zo spoedig mogelijk. Ook ontvangen wij graag van u een bericht als u dit bericht in goede orde heeft ontvangen!\n\nDeze afspraak zal digitaal plaatsvinden. U zult een link ontvangen via de mail naar een beveiligde beeldbelomgeving (Let op! Deze link kan op het laatste moment voor de afspraak nog binnenkomen, schrik dus niet als u op de dag zelf nog geen link heeft ontvangen). Indien u verder nog vragen heeft, horen wij het graag!\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
+      "inhoud_en": ""
     }
   ],
   "wachttijden": [
@@ -1255,7 +1261,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 67,
+  "volgnummer_teller": 68,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1687,7 +1693,7 @@
         "ma": null,
         "di": null,
         "wo": null,
-        "do": "Krimpertplein 32",
+        "do": null,
         "vr": null,
         "za": null,
         "zo": null
@@ -1817,8 +1823,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-11-03",
-  "opgeslagen_op": "2026-11-03T16:39:51",
+  "laatst_bijgewerkt": "2026-11-05",
+  "opgeslagen_op": "2026-11-05T13:46:12",
   "wijzigingen": [
     {
       "id": 1,
@@ -2191,6 +2197,14 @@
       "tijdstip": "2026-11-03T16:39:51",
       "regels": [
         "Notitie bij Ruben Stam: \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\" → \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\""
+      ]
+    },
+    {
+      "id": 68,
+      "tijdstip": "2026-11-05T13:46:12",
+      "regels": [
+        "Locatie do bij Ruben Stam: Krimpertplein 32 → (standaard)",
+        "Template toegevoegd: \"Intensief Traject Ingepland zonder overleg\""
       ]
     }
   ]
