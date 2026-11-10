@@ -252,7 +252,7 @@
       },
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten",
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag",
       "inplannen": true
     },
     "m015": {
@@ -1267,7 +1267,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 69,
+  "volgnummer_teller": 70,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1496,7 +1496,7 @@
       },
       "kleur": "#4A90D9",
       "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag\n\nNiet inplannen. Zij gaat veel cliënten van Marieke overnemen en wij willen haar niet overbelasten"
+      "notitie": "GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag \n\n6 Clienten per dag"
     },
     "Ko Schijndel": {
       "locatie": "Pretoriusstraat 73-H",
@@ -1829,8 +1829,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-11-06",
-  "opgeslagen_op": "2026-11-06T07:38:09",
+  "laatst_bijgewerkt": "2026-11-10",
+  "opgeslagen_op": "2026-11-10T10:12:10",
   "wijzigingen": [
     {
       "id": 1,
@@ -2218,6 +2218,13 @@
       "tijdstip": "2026-11-06T07:38:09",
       "regels": [
         "Template toegevoegd: \"Afwijzing Diagnostiek\""
+      ]
+    },
+    {
+      "id": 70,
+      "tijdstip": "2026-11-10T10:12:10",
+      "regels": [
+        "Notitie bij Kirsten Eikmans: \"GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag …\" → \"GZ-Psycholoog\nWerkt: \n-Maandag\n-Dinsdag\n-Woensdag …\""
       ]
     }
   ]
