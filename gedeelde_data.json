@@ -1286,9 +1286,19 @@
       "titel": "CZ ALLEEN BIJ MASTER PSYCHOLOGEN",
       "tekst": "CZ Cliënten kunnen inverband met de kosten alleen bij Master Psychologen.nl worden ingepland!",
       "belangrijk": true
+    },
+    {
+      "id": 76,
+      "datum": "2026-11-13",
+      "titel": "Annemarie Vertragen",
+      "tekst": "Annemarie haar caseload kan vertraagd worden. Hoeft voor komende week (week van 16-11) Niet extra cliënten te worden ingepland.",
+      "belangrijk": true,
+      "medewerkers": [
+        "m003"
+      ]
     }
   ],
-  "volgnummer_teller": 75,
+  "volgnummer_teller": 76,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1851,7 +1861,7 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T15:03:22",
+  "opgeslagen_op": "2026-11-13T15:04:26",
   "wijzigingen": [
     {
       "id": 7,
