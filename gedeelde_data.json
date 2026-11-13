@@ -488,7 +488,7 @@
       },
       "kleur": "#FF69B4",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst\n\nRuben gaat uit dienst per 1 December. Dit betekent dat hij intakes doet en deze vervolgens overdraagt aan andere behandelaren. Ook werkt hij nu op donderdag als psycholoog. Hij heeft niet meer zijn POH dag. Deze dag werkt hij op krimpertplein 32. Houd hier dus rekening mee!",
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst\n\nRuben gaat uit dienst per 1 December. Dit betekent dat hij intakes doet en deze vervolgens overdraagt aan andere behandelaren. Ook werkt hij nu op donderdag als psycholoog. Hij heeft niet meer zijn POH dag. Hij werkt alle dagen op Florijn 5a",
       "inplannen": true
     },
     "m028": {
@@ -1299,7 +1299,7 @@
       ]
     }
   ],
-  "volgnummer_teller": 78,
+  "volgnummer_teller": 79,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1738,7 +1738,7 @@
       },
       "kleur": "#FF69B4",
       "status": "wel_inplannen",
-      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst\n\nRuben gaat uit dienst per 1 December. Dit betekent dat hij intakes doet en deze vervolgens overdraagt aan andere behandelaren. Ook werkt hij nu op donderdag als psycholoog. Hij heeft niet meer zijn POH dag. Deze dag werkt hij op krimpertplein 32. Houd hier dus rekening mee!"
+      "notitie": "Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind November uit dienst\n\nRuben gaat uit dienst per 1 December. Dit betekent dat hij intakes doet en deze vervolgens overdraagt aan andere behandelaren. Ook werkt hij nu op donderdag als psycholoog. Hij heeft niet meer zijn POH dag. Hij werkt alle dagen op Florijn 5a"
     },
     "Sammy Peter": {
       "locatie": "Geen vaste locatie",
@@ -1862,15 +1862,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T15:08:45",
+  "opgeslagen_op": "2026-11-13T15:09:12",
   "wijzigingen": [
-    {
-      "id": 14,
-      "tijdstip": "2026-09-17T12:02:42",
-      "regels": [
-        "Template verwijderd: \"Kawa Regiebehandelaar Consult\""
-      ]
-    },
     {
       "id": 18,
       "tijdstip": "2026-09-22T09:13:17",
@@ -2265,6 +2258,13 @@
       "tijdstip": "2026-11-13T15:08:45",
       "regels": [
         "Notitie bij Annemarie Speel: \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\" → \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\""
+      ]
+    },
+    {
+      "id": 79,
+      "tijdstip": "2026-11-13T15:09:12",
+      "regels": [
+        "Notitie bij Ruben Stam: \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\" → \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\""
       ]
     }
   ]
