@@ -944,6 +944,12 @@
       "naam": "Lienka Plat",
       "functie": "overig",
       "actief": true
+    },
+    "m056": {
+      "naam": "Nienke Kroeze",
+      "functie": "overig",
+      "actief": true,
+      "inplannen": true
     }
   },
   "locaties": [
@@ -1302,7 +1308,7 @@
       ]
     }
   ],
-  "volgnummer_teller": 83,
+  "volgnummer_teller": 84,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1865,16 +1871,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T16:43:25",
+  "opgeslagen_op": "2026-11-13T16:52:15",
   "wijzigingen": [
-    {
-      "id": 21,
-      "tijdstip": "2026-09-23T09:18:27",
-      "regels": [
-        "Status van Fleur van Harmelen: Bijzonder inplannen → Niet inplannen",
-        "Notitie bij Fleur van Harmelen: \"Master Psycholoog\nRB = Hester\n\nMag maximaal 1 inta…\" → \"Master Psycholoog\nRB = Hester\n\nOP HET MOMENT NIET …\""
-      ]
-    },
     {
       "id": 22,
       "tijdstip": "2026-09-23T09:27:55",
@@ -2269,6 +2267,13 @@
       "regels": [
         "Status van Annemarie Speel: Wel inplannen → Niet inplannen",
         "Notitie bij Annemarie Speel: \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\" → \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\""
+      ]
+    },
+    {
+      "id": 84,
+      "tijdstip": "2026-11-13T16:52:15",
+      "regels": [
+        "Medewerker toegevoegd: Nienke Kroeze"
       ]
     }
   ]
