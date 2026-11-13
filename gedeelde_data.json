@@ -1138,7 +1138,8 @@
       "naam": "Intensief Traject Ingepland zonder overleg",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nU bent naar ons doorverwezen door de bedrijfsarts voor een psychologisch traject. Wij hebben uw online intake ingepland bij {behandelaar}. Het gaat om het volgende moment:\n{momenten}\n\nMocht dit moment u niet uitkomen, dan horen wij dit graag zo spoedig mogelijk. Ook ontvangen wij graag van u een bericht als u dit bericht in goede orde heeft ontvangen!\n\nDeze afspraak zal digitaal plaatsvinden. U zult een link ontvangen via de mail naar een beveiligde beeldbelomgeving (Let op! Deze link kan op het laatste moment voor de afspraak nog binnenkomen, schrik dus niet als u op de dag zelf nog geen link heeft ontvangen). Indien u verder nog vragen heeft, horen wij het graag!\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
-      "inhoud_en": ""
+      "inhoud_en": "",
+      "categorie": "Arbogezondheid"
     },
     {
       "naam": "Afwijzing Diagnostiek",
@@ -1275,7 +1276,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 73,
+  "volgnummer_teller": 74,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1838,16 +1839,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T15:01:30",
+  "opgeslagen_op": "2026-11-13T15:01:55",
   "wijzigingen": [
-    {
-      "id": 3,
-      "tijdstip": "2026-08-22T10:10:23",
-      "regels": [
-        "Standaardlocatie van AAAA Test van der Testen: Krimpertplein 32 → Radesingel 6",
-        "Locatie vr bij AAAA Test van der Testen: Jan Tooropstraat 44 → (standaard)"
-      ]
-    },
     {
       "id": 4,
       "tijdstip": "2026-08-22T10:12:18",
@@ -2232,6 +2225,13 @@
       "tijdstip": "2026-11-13T15:01:30",
       "regels": [
         "Template \"Afwijzing Diagnostiek\" gewijzigd"
+      ]
+    },
+    {
+      "id": 74,
+      "tijdstip": "2026-11-13T15:01:55",
+      "regels": [
+        "Template \"Intensief Traject Ingepland zonder overleg\" gewijzigd"
       ]
     }
   ]
