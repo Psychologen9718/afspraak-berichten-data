@@ -130,7 +130,7 @@
       "inplannen": true
     },
     "m008": {
-      "naam": "Hanneke Anker Smit",
+      "naam": "Hanneke Ankersmit",
       "functie": "behandelaar",
       "actief": true,
       "locatie": "Radesingel 6",
@@ -145,7 +145,8 @@
       },
       "kleur": "#7B68EE",
       "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog\nMaandag 3 CL\nDinsdag en donderdag 5 CL"
+      "notitie": "GZ-Psycholoog\nMaandag 3 CL\nDinsdag en donderdag 5 CL",
+      "inplannen": true
     },
     "m009": {
       "naam": "Hanriette visser",
@@ -1299,7 +1300,7 @@
       ]
     }
   ],
-  "volgnummer_teller": 79,
+  "volgnummer_teller": 80,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1425,7 +1426,7 @@
       "status": "niet_inplannen",
       "notitie": ""
     },
-    "Hanneke Anker Smit": {
+    "Hanneke Ankersmit": {
       "locatie": "Radesingel 6",
       "locaties_per_dag": {
         "ma": null,
@@ -1862,16 +1863,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T15:09:12",
+  "opgeslagen_op": "2026-11-13T15:09:51",
   "wijzigingen": [
-    {
-      "id": 18,
-      "tijdstip": "2026-09-22T09:13:17",
-      "regels": [
-        "Status van Monique Spakman: Niet inplannen → Wel inplannen",
-        "Notitie bij Monique Spakman: \"GZ-psycholoog in opleiding tot Psychotherpeut - ZZ…\" → \"GZ-psycholoog\""
-      ]
-    },
     {
       "id": 19,
       "tijdstip": "2026-09-22T13:36:34",
@@ -2265,6 +2258,13 @@
       "tijdstip": "2026-11-13T15:09:12",
       "regels": [
         "Notitie bij Ruben Stam: \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\" → \"Masterpsycholoog\nRB = Kawa Al Ali\n\nGaat eind Novem…\""
+      ]
+    },
+    {
+      "id": 80,
+      "tijdstip": "2026-11-13T15:09:51",
+      "regels": [
+        "Naam gewijzigd: Hanneke Anker Smit → Hanneke Ankersmit"
       ]
     }
   ]
