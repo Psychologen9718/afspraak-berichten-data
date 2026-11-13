@@ -1024,55 +1024,64 @@
       "naam": "Wachttijd",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht.\n\nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. Wij horen graag bij welke zorgverzekeraar u bent aan gesloten zodat wij een accuratere inschatting kunnen geven. \n\nZodra u aan de beurt bent, nemen wij contact met u op via telefoon of e-mail. Wij bellen anoniem, dus schrik niet van een onbekend nummer. U hoeft zelf niets te doen. Houd er nogmaals rekening mee dat deze wachttijden slechts een indicatie zijn en dus nog kunnen wijzigen. Wij danken u voor uw geduld.",
-      "inhoud_en": "{aanhef},\n\nThank you for your message.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.We would like to know which health insurance provider you are with so that we can give you a more accurate estimate.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nThank you for your message.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.We would like to know which health insurance provider you are with so that we can give you a more accurate estimate.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Administratief"
     },
     {
       "naam": "Aanmelding Status",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nHartelijk dank voor uw contact met onze instelling.\n\nWij hebben de verwijzing van uw arts in goede orde ontvangen. Zodra u aan de beurt bent, nemen wij telefonisch contact met u op (let op: wij bellen anoniem) om een week later een afspraak voor een intake in te plannen. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}, afhankelijk van uw zorgverzekeraar. De actuele wachttijden kunt u ook op onze website bekijken: https://psychologen.nl/onze-locaties.\n\nIk hoop u hiermee voldoende te hebben geïnformeerd. Mocht u nog vragen hebben, neem dan gerust contact met ons op.",
-      "inhoud_en": "{aanhef},\n\nThank you very much for contacting our clinic.\n\nWe have received your GP’s referral letter in good order. As soon as it is your turn, we will contact you by phone (please note: we call from a withheld number) to schedule an intake appointment for the following week. On average, the current waiting time is between {wachttijd}, depending on your health insurance provider. You can also view our current waiting times on our website: https://psychologen.nl/onze-locaties.\n\nI hope this information is helpful. Should you have any further questions, please do not hesitate to contact us."
+      "inhoud_en": "{aanhef},\n\nThank you very much for contacting our clinic.\n\nWe have received your GP’s referral letter in good order. As soon as it is your turn, we will contact you by phone (please note: we call from a withheld number) to schedule an intake appointment for the following week. On average, the current waiting time is between {wachttijd}, depending on your health insurance provider. You can also view our current waiting times on our website: https://psychologen.nl/onze-locaties.\n\nI hope this information is helpful. Should you have any further questions, please do not hesitate to contact us.",
+      "categorie": "Administratief"
     },
     {
       "naam": "Accepteren Informatieverstrekking",
       "type": "geen",
       "inhoud_nl": "{aanhef},\r\nHartelijk dank voor het verstrekken van het informatie verzoek. Wij zullen deze delen met de desbetreffende behandelaar. Wij bedanken u voor uw geduld. Als u verder vragen heeft dan horen wij dit graag.",
-      "inhoud_en": ""
+      "inhoud_en": "",
+      "categorie": "Administratief"
     },
     {
       "naam": "Aanvraag Psychologische hulp",
       "type": "geen",
       "inhoud_nl": "{aanhef},    \n\nVriendelijk bedankt voor het contact opnemen met onze instelling.  \n\nHet is mogelijk om bij ons in behandeling te komen. Indien u wenst dat deze behandelingen gedekt worden door uw zorgverzekering hebben wij een doorverwijzing nodig van uw huisarts.   \n\nKijk op onze website https://psychologen.nl/tarieven of wij gecontracteerd zijn met uw zorgverzekering. U zult eerst uw eigen risico zelf betalen, daarna zal de rest vergoed worden door uw zorgverzekeraar.  \n\nU zult de rekeningen die binnen uw eigen risico vallen, ontvangen van uw zorgverzekeraar.  \n\nHoud er rekening mee dat wij een wachttijd hanteren. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \nWij nemen contact met u op zodra wij uw verwijzing binnen hebben en een afspraak kunnen inplannen.  (Let op: wij bellen anoniem) \n\nHierbij hoop ik u voldoende te hebben geïnformeerd. Mocht u vragen hebben, twijfelt u niet om contact op te nemen.  \n\nMet vriendelijke groet, \n\nSecretariaat Psychologen.nl",
-      "inhoud_en": "{aanhef},\n\nThank you for contacting our clinic.\n\nIt is possible to receive treatment with us. If you would like these sessions to be covered by your health insurance, we require a referral letter from your GP (general practitioner).\n\nPlease check our website https://psychologen.nl/tarieven to see whether we have a contract with your health insurance provider. You will first have to pay your deductible (eigen risico) yourself, after which the remainder will be covered by your insurer.\n\nYou will receive the invoices that fall within your deductible directly from your health insurance provider.\n\nPlease keep in mind that we have a waiting list. On average, the current waiting time is between {wachttijd}. We will contact you as soon as we have received your referral and are able to schedule an appointment. (Please note: we call from a withheld number).\n\nI hope this information is helpful. Should you have any questions, please do not hesitate to contact us.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nThank you for contacting our clinic.\n\nIt is possible to receive treatment with us. If you would like these sessions to be covered by your health insurance, we require a referral letter from your GP (general practitioner).\n\nPlease check our website https://psychologen.nl/tarieven to see whether we have a contract with your health insurance provider. You will first have to pay your deductible (eigen risico) yourself, after which the remainder will be covered by your insurer.\n\nYou will receive the invoices that fall within your deductible directly from your health insurance provider.\n\nPlease keep in mind that we have a waiting list. On average, the current waiting time is between {wachttijd}. We will contact you as soon as we have received your referral and are able to schedule an appointment. (Please note: we call from a withheld number).\n\nI hope this information is helpful. Should you have any questions, please do not hesitate to contact us.\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Administratief"
     },
     {
       "naam": "Aanvraag Stage",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nHartelijk dank voor je interesse in onze organisatie. Momenteel hebben wij helaas geen directe stageplek beschikbaar en ontvangen wij veel aanvragen van geïnteresseerde stagiairs. Desondanks willen wij graag iedereen een eerlijke kans bieden. Hierom ontvangen wij graag naast uw CV ook uw motivatiebrief zodat wij deze kunnen doornemen. Mochten wij de mogelijkheid hebben om u iets te bieden dan nemen wij contact met u op.",
-      "inhoud_en": ""
+      "inhoud_en": "",
+      "categorie": "Administratief"
     },
     {
       "naam": "Online consult Sanne Verzoek",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij een plek vrij bij onze psychiater Sanne Vink voor een online consult. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt, het consult duurt 90 minuten. \n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
-      "inhoud_en": "{aanhef},\n\nWe currently have availability with our psychiatrist, Sanne Vink, for an online consultation. This concerns the following time slot(s):\n{momenten}\n\nPlease let us know if this time suits you. The consultation will last 90 minutes.\n\nPlease note: The availability of these options is subject to change. If we do not receive a timely response, the slot may have been reserved by someone else in the meantime.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nWe currently have availability with our psychiatrist, Sanne Vink, for an online consultation. This concerns the following time slot(s):\n{momenten}\n\nPlease let us know if this time suits you. The consultation will last 90 minutes.\n\nPlease note: The availability of these options is subject to change. If we do not receive a timely response, the slot may have been reserved by someone else in the meantime.\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Sanne Vink Psychiater"
     },
     {
       "naam": "Online Consult Sanne Bevestiging",
       "type": "geen",
       "inhoud_nl": "Bedankt voor uw reactie.\n\nDan is uw afspraak gepland op {datum_lang} om {tijd} bij {behandelaar}. Deze afspraak zal online plaatsvinden via een beveiligde beeldbelverbinding.\n\nU ontvangt vóór aanvang van de afspraak een e-mail met de link om deel te nemen aan de beeldbelsessie (dit kan vlak voor de afspraak zijn). \nHoud er rekening mee dat de afspraak 90 minuten duurt. Als u verder vragen heeft dan horen wij het graag. \n\nMet vriendelijke groet, \n\nSecretariaat Psychologen.nl",
-      "inhoud_en": "Thank you for your response.\n\nYour appointment is scheduled for {datum_lang} at {tijd} with {behandelaar}. This appointment will take place online via a secure video connection.\n\nPrior to the start of the appointment, you will receive an email containing the link to join the video session (this may be sent shortly before the scheduled time).\n\nPlease take into account that the appointment will last 90 minutes. Should you have any further questions, please let us know.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "Thank you for your response.\n\nYour appointment is scheduled for {datum_lang} at {tijd} with {behandelaar}. This appointment will take place online via a secure video connection.\n\nPrior to the start of the appointment, you will receive an email containing the link to join the video session (this may be sent shortly before the scheduled time).\n\nPlease take into account that the appointment will last 90 minutes. Should you have any further questions, please let us know.\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Sanne Vink Psychiater"
     },
     {
       "naam": "Fysiek Consult Sanne Vink Bevestiging",
       "type": "geen",
       "inhoud_nl": "Bedankt voor uw reactie.\n\nWij hebben uw afspraak succesvol ingepland op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}, u wordt verwacht op {locatie}. Houd er rekening mee dat de afspraak 90 minuten duurt. U kunt direct de trap oplopen en plaats nemen in de wachtkamer van Psychologen.nl \n\nAls u verder nog vragen heeft beantwoorden wij deze graag.\n\nVerder wensen wij u een fijne dag toe en alvast veel succes op uw afspraak!\n\nVriendelijke groet,\nSecretariaat Psychologen.nl",
-      "inhoud_en": "Thank you for your response.\n\nWe have successfully scheduled your appointment for {datum_lang} at {tijd} with our practitioner {behandelaar}. You are expected at {locatie}. Please take into account that the appointment will last 90 minutes. You may walk directly up the stairs and take a seat in the waiting room of Psychologen.nl.\n\nShould you have any further questions, we would be happy to answer them.\n\nFurthermore, we wish you a nice day and the best of luck with your appointment!\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "Thank you for your response.\n\nWe have successfully scheduled your appointment for {datum_lang} at {tijd} with our practitioner {behandelaar}. You are expected at {locatie}. Please take into account that the appointment will last 90 minutes. You may walk directly up the stairs and take a seat in the waiting room of Psychologen.nl.\n\nShould you have any further questions, we would be happy to answer them.\n\nFurthermore, we wish you a nice day and the best of luck with your appointment!\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Sanne Vink Psychiater"
     },
     {
       "naam": "Fysiek Consult Sanne Verzoek",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nMomenteel hebben wij een plek vrij bij onze psychiater Sanne Vink voor fysiek consult. Het gaat om het volgende moment:\n{momenten}\n\nGraag horen wij van u of dit moment u schikt, het consult duurt 90 minuten en zal plaats vinden op {locatie}.\n\nLet op: de beschikbaarheid van deze opties is onder voorbehoud. Indien u niet tijdig reageert, kan de plaats inmiddels door een ander gereserveerd zijn.\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
-      "inhoud_en": "{aanhef},\n\nWe currently have availability with our psychiatrist, Sanne Vink, for an in-person consultation. This concerns the following time slot(s):\n{momenten}\n\nPlease let us know if this time suits you. The consultation will last 90 minutes and will take place at {locatie}.\n\nPlease note: The availability of these options is subject to change. If we do not receive a timely response, the slot may have been reserved by someone else in the meantime.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nWe currently have availability with our psychiatrist, Sanne Vink, for an in-person consultation. This concerns the following time slot(s):\n{momenten}\n\nPlease let us know if this time suits you. The consultation will last 90 minutes and will take place at {locatie}.\n\nPlease note: The availability of these options is subject to change. If we do not receive a timely response, the slot may have been reserved by someone else in the meantime.\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Sanne Vink Psychiater"
     },
     {
       "naam": "Intercollegiaal Overleg",
@@ -1102,7 +1111,8 @@
       "naam": "Arbogezondheidscentrum Intensief Traject ingepland",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nWij hebben een intake ingepland met [CLIENT NAAM] op {datum_lang} om {tijd} bij onze behandelaar {behandelaar}. Als er verder vragen zijn dan horen wij dit graag. \n\nMet vriendelijke groet,\nIds\nSecretariaat Psychologen.nl",
-      "inhoud_en": ""
+      "inhoud_en": "",
+      "categorie": "Arbogezondheid"
     },
     {
       "naam": "Regiebehandelaar Consult Kawa",
@@ -1114,13 +1124,15 @@
       "naam": "Wachttijd Zorgplafond Nog niet verwezen",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht.\n\nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \n\nWij zijn gecontracteerd met uw zorgverzekeraar. Echter is het belangrijk om te weten dat wij voor uw zorgverzekeraar dicht bij het zorgplafond zitten. Dit is een financiële beperking voor ons vanuit de zorgverzekeraar. Hierdoor kan de wachttijd afwijken. Als u naar ons word verwezen zullen wij hier meer informatie over delen zodra wij deze beschikbaar hebben.\n\nAls u nu verder nog vragen heeft dan beantwoorden wij deze graag!\n\nMet vriendelijke groet,\nSecretariaat Psychologen.nl",
-      "inhoud_en": "{aanhef},\n\nThank you for your message.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nWe are contracted with your health insurer. However, it is important to know that we are close to reaching the care ceiling (zorgplafond) set by your health insurance provider. This is a financial limitation imposed on us by the insurer, which may cause the waiting time to differ. If you are referred to us, we will share more information regarding this as soon as it becomes available.\n\nShould you have any further questions at this stage, we would be happy to answer them!\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nThank you for your message.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nWe are contracted with your health insurer. However, it is important to know that we are close to reaching the care ceiling (zorgplafond) set by your health insurance provider. This is a financial limitation imposed on us by the insurer, which may cause the waiting time to differ. If you are referred to us, we will share more information regarding this as soon as it becomes available.\n\nShould you have any further questions at this stage, we would be happy to answer them!\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Zorgplafond"
     },
     {
       "naam": "Wachttijd Zorgplafond Aanmelding",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nBedankt voor uw bericht. Wij hebben uw verwijzing in goede orde ontvangen en u staat bij ons op de wachtlijst. \nOp onze website kunt u de actuele wachttijden zien: https://psychologen.nl/onze-locaties. Deze verschillen per locatie en per zorgverzekering. Gemiddeld bedraagt de wachttijd momenteel tussen de {wachttijd}. \n\nWij zijn gecontracteerd met uw zorgverzekeraar. Echter, is het belangrijk om te weten dat wij voor uw zorgverzekeraar dicht bij het zorgplafond zitten. Dit is een financiële beperking voor ons vanuit de zorgverzekeraar. Hierdoor kan de wachttijd afwijken. Wij zullen u verder informeren wanneer wij meer informatie hebben over de wachttijd.\n\nZodra u aan de beurt bent, nemen wij contact met u op via telefoon of e-mail. Wij bellen anoniem, dus schrik niet van een onbekend nummer. U hoeft zelf niets te doen. Houd er nogmaals rekening mee dat deze wachttijden slechts een indicatie zijn en dus nog kunnen wijzigen. Wij danken u voor uw geduld.\n\nMet vriendelijke groet,\n\nSecretariaat Psychologen.nl",
-      "inhoud_en": "{aanhef},\n\nThank you for your message. We have received your referral letter in good order and you have been placed on our waiting list.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nWe are contracted with your health insurer. However, it is important to know that we are close to reaching the care ceiling (zorgplafond) set by your health insurance provider. This is a financial limitation imposed on us by the insurer, which may cause the waiting time to differ. We will inform you further as soon as we have more information regarding the waiting time.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nKind regards,\n\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nThank you for your message. We have received your referral letter in good order and you have been placed on our waiting list.\n\nYou can find our current waiting times on our website: https://psychologen.nl/onze-locaties. These vary depending on the location and your health insurance provider. On average, the current waiting time is between {wachttijd}.\n\nWe are contracted with your health insurer. However, it is important to know that we are close to reaching the care ceiling (zorgplafond) set by your health insurance provider. This is a financial limitation imposed on us by the insurer, which may cause the waiting time to differ. We will inform you further as soon as we have more information regarding the waiting time.\n\nAs soon as it is your turn, we will contact you by phone or email. We call from a withheld number, so please do not be alarmed by an unknown number. There is nothing you need to do at this time. Please keep in mind that these waiting times are only an indication and are subject to change. Thank you for your patience.\n\nKind regards,\n\nSecretariat Psychologen.nl",
+      "categorie": "Zorgplafond"
     },
     {
       "naam": "Geen Klik Gesprek Aanvraag",
@@ -1146,7 +1158,7 @@
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nDank voor uw bericht. Via deze mail lichten wij de huidige situatie graag toe.\nDe wachttijd voor een intake voor diagnostiek naar ADHD en autisme bedraagt op dit moment ongeveer zes maanden. Daarmee kunnen wij u helaas geen startdatum bieden binnen de landelijke norm van maximaal 14 weken wachttijd.\n\nWij adviseren u daarom contact op te nemen met de afdeling Zorgbemiddeling (ook wel wachtlijstbemiddeling genoemd) van uw zorgverzekeraar. Uw zorgverzekeraar kan samen met u bekijken welke mogelijkheden er zijn om tijdig passende zorg te ontvangen, bijvoorbeeld bij een andere zorgaanbieder met een kortere wachttijd. De contactgegevens vindt u op de website van uw zorgverzekeraar of op uw zorgpas.\n\nUw zorgverzekeraar beoordeelt welke mogelijkheden er zijn. Wij kunnen vooraf helaas niet garanderen wat de uitkomst daarvan is.\n\nHeeft u contact gehad met Zorgbemiddeling? Dan ontvangen wij graag per e-mail een korte terugkoppeling over de uitkomst van het gesprek. Wij kunnen vervolgens beoordelen of er vanuit onze kant nog verdere actie mogelijk of nodig is.\n\nWilt u liever bij ons op de wachtlijst blijven staan? Dan hoeft u niets te doen. Zodra wij u kunnen inplannen, nemen wij contact met u op. Mocht u via uw zorgverzekeraar of een andere zorgaanbieder eerder een passende plek vinden, dan horen wij dat graag, zodat wij uw aanmelding kunnen afsluiten.\n\nWij vinden het vervelend dat wij u op dit moment niet sneller kunnen helpen en hopen dat uw zorgverzekeraar samen met u tot een passende oplossing kan komen.\n\nMet vriendelijke groet, \nSecretariaat Psychologen.nl",
       "inhoud_en": "{aanhef},\n\nThank you for your message. In this email, we would like to explain the current situation.\nThe waiting time for an intake for ADHD and autism assessment is currently approximately six months. Unfortunately, this means we are unable to offer you a start date within the national standard of a maximum waiting time of 14 weeks.\n\nWe therefore advise you to contact the Care Mediation department (Zorgbemiddeling, also known as waiting list mediation) of your health insurer. Your health insurer can explore with you what options are available for receiving appropriate care in good time, for example with another care provider with a shorter waiting time. You can find the contact details on your health insurer’s website or on your health insurance card.\n\nYour health insurer will assess which options are available. Unfortunately, we cannot guarantee the outcome of this in advance.\n\nHave you been in contact with Care Mediation? If so, we would appreciate a brief update by email on the outcome of the conversation. We can then assess whether any further action is possible or necessary on our part.\n\nWould you prefer to remain on our waiting list? Then you do not need to do anything. As soon as we are able to schedule you in, we will contact you. Should you find a suitable place sooner via your health insurer or another care provider, we would be grateful if you could let us know, so that we can close your registration.\n\nWe regret that we are currently unable to help you more quickly and hope that your health insurer can work with you to find a suitable solution.\n\nKind regards,\nSecretariat Psychologen.nl",
-      "categorie": "Administratief"
+      "categorie": "Zorgplafond"
     }
   ],
   "wachttijden": [
@@ -1276,7 +1288,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 74,
+  "volgnummer_teller": 75,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1839,16 +1851,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T15:01:55",
+  "opgeslagen_op": "2026-11-13T15:03:22",
   "wijzigingen": [
-    {
-      "id": 4,
-      "tijdstip": "2026-08-22T10:12:18",
-      "regels": [
-        "Standaardlocatie van AAAA Test van der Testen: Radesingel 6 → Geen vaste locatie",
-        "Zorgverzekeraar toegevoegd: CZ"
-      ]
-    },
     {
       "id": 7,
       "tijdstip": "2026-08-23T15:14:39",
@@ -2232,6 +2236,25 @@
       "tijdstip": "2026-11-13T15:01:55",
       "regels": [
         "Template \"Intensief Traject Ingepland zonder overleg\" gewijzigd"
+      ]
+    },
+    {
+      "id": 75,
+      "tijdstip": "2026-11-13T15:03:22",
+      "regels": [
+        "Template \"Aanmelding Status\" gewijzigd",
+        "Template \"Aanvraag Psychologische hulp\" gewijzigd",
+        "Template \"Aanvraag Stage\" gewijzigd",
+        "Template \"Accepteren Informatieverstrekking\" gewijzigd",
+        "Template \"Afwijzing Diagnostiek\" gewijzigd",
+        "Template \"Arbogezondheidscentrum Intensief Traject ingepland\" gewijzigd",
+        "Template \"Fysiek Consult Sanne Verzoek\" gewijzigd",
+        "Template \"Fysiek Consult Sanne Vink Bevestiging\" gewijzigd",
+        "Template \"Online Consult Sanne Bevestiging\" gewijzigd",
+        "Template \"Online consult Sanne Verzoek\" gewijzigd",
+        "Template \"Wachttijd\" gewijzigd",
+        "Template \"Wachttijd Zorgplafond Aanmelding\" gewijzigd",
+        "Template \"Wachttijd Zorgplafond Nog niet verwezen\" gewijzigd"
       ]
     }
   ]
