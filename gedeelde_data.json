@@ -1144,7 +1144,8 @@
       "naam": "Afwijzing Diagnostiek",
       "type": "geen",
       "inhoud_nl": "{aanhef},\n\nDank voor uw bericht. Via deze mail lichten wij de huidige situatie graag toe.\nDe wachttijd voor een intake voor diagnostiek naar ADHD en autisme bedraagt op dit moment ongeveer zes maanden. Daarmee kunnen wij u helaas geen startdatum bieden binnen de landelijke norm van maximaal 14 weken wachttijd.\n\nWij adviseren u daarom contact op te nemen met de afdeling Zorgbemiddeling (ook wel wachtlijstbemiddeling genoemd) van uw zorgverzekeraar. Uw zorgverzekeraar kan samen met u bekijken welke mogelijkheden er zijn om tijdig passende zorg te ontvangen, bijvoorbeeld bij een andere zorgaanbieder met een kortere wachttijd. De contactgegevens vindt u op de website van uw zorgverzekeraar of op uw zorgpas.\n\nUw zorgverzekeraar beoordeelt welke mogelijkheden er zijn. Wij kunnen vooraf helaas niet garanderen wat de uitkomst daarvan is.\n\nHeeft u contact gehad met Zorgbemiddeling? Dan ontvangen wij graag per e-mail een korte terugkoppeling over de uitkomst van het gesprek. Wij kunnen vervolgens beoordelen of er vanuit onze kant nog verdere actie mogelijk of nodig is.\n\nWilt u liever bij ons op de wachtlijst blijven staan? Dan hoeft u niets te doen. Zodra wij u kunnen inplannen, nemen wij contact met u op. Mocht u via uw zorgverzekeraar of een andere zorgaanbieder eerder een passende plek vinden, dan horen wij dat graag, zodat wij uw aanmelding kunnen afsluiten.\n\nWij vinden het vervelend dat wij u op dit moment niet sneller kunnen helpen en hopen dat uw zorgverzekeraar samen met u tot een passende oplossing kan komen.\n\nMet vriendelijke groet, \nSecretariaat Psychologen.nl",
-      "inhoud_en": "{aanhef},\n\nThank you for your message. In this email, we would like to explain the current situation.\nThe waiting time for an intake for ADHD and autism assessment is currently approximately six months. Unfortunately, this means we are unable to offer you a start date within the national standard of a maximum waiting time of 14 weeks.\n\nWe therefore advise you to contact the Care Mediation department (Zorgbemiddeling, also known as waiting list mediation) of your health insurer. Your health insurer can explore with you what options are available for receiving appropriate care in good time, for example with another care provider with a shorter waiting time. You can find the contact details on your health insurer’s website or on your health insurance card.\n\nYour health insurer will assess which options are available. Unfortunately, we cannot guarantee the outcome of this in advance.\n\nHave you been in contact with Care Mediation? If so, we would appreciate a brief update by email on the outcome of the conversation. We can then assess whether any further action is possible or necessary on our part.\n\nWould you prefer to remain on our waiting list? Then you do not need to do anything. As soon as we are able to schedule you in, we will contact you. Should you find a suitable place sooner via your health insurer or another care provider, we would be grateful if you could let us know, so that we can close your registration.\n\nWe regret that we are currently unable to help you more quickly and hope that your health insurer can work with you to find a suitable solution.\n\nKind regards,\nSecretariat Psychologen.nl"
+      "inhoud_en": "{aanhef},\n\nThank you for your message. In this email, we would like to explain the current situation.\nThe waiting time for an intake for ADHD and autism assessment is currently approximately six months. Unfortunately, this means we are unable to offer you a start date within the national standard of a maximum waiting time of 14 weeks.\n\nWe therefore advise you to contact the Care Mediation department (Zorgbemiddeling, also known as waiting list mediation) of your health insurer. Your health insurer can explore with you what options are available for receiving appropriate care in good time, for example with another care provider with a shorter waiting time. You can find the contact details on your health insurer’s website or on your health insurance card.\n\nYour health insurer will assess which options are available. Unfortunately, we cannot guarantee the outcome of this in advance.\n\nHave you been in contact with Care Mediation? If so, we would appreciate a brief update by email on the outcome of the conversation. We can then assess whether any further action is possible or necessary on our part.\n\nWould you prefer to remain on our waiting list? Then you do not need to do anything. As soon as we are able to schedule you in, we will contact you. Should you find a suitable place sooner via your health insurer or another care provider, we would be grateful if you could let us know, so that we can close your registration.\n\nWe regret that we are currently unable to help you more quickly and hope that your health insurer can work with you to find a suitable solution.\n\nKind regards,\nSecretariat Psychologen.nl",
+      "categorie": "Administratief"
     }
   ],
   "wachttijden": [
@@ -1274,7 +1275,7 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 72,
+  "volgnummer_teller": 73,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1836,17 +1837,9 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-11-10",
-  "opgeslagen_op": "2026-11-10T11:09:38",
+  "laatst_bijgewerkt": "2026-11-13",
+  "opgeslagen_op": "2026-11-13T15:01:30",
   "wijzigingen": [
-    {
-      "id": 2,
-      "tijdstip": "2026-08-22T10:02:06",
-      "regels": [
-        "Standaardlocatie van AAAA Test van der Testen gewijzigd",
-        "Locatie per dag gewijzigd bij AAAA Test van der Testen"
-      ]
-    },
     {
       "id": 3,
       "tijdstip": "2026-08-22T10:10:23",
@@ -2232,6 +2225,13 @@
       "tijdstip": "2026-11-10T11:08:53",
       "regels": [
         "Notitie bij CZ: \"INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE H…\" → \"INPLANNEN AAN DE HAND VAN SCHEMAINPLANNEN AAN DE H…\""
+      ]
+    },
+    {
+      "id": 73,
+      "tijdstip": "2026-11-13T15:01:30",
+      "regels": [
+        "Template \"Afwijzing Diagnostiek\" gewijzigd"
       ]
     }
   ]
