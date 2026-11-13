@@ -362,8 +362,9 @@
         "zo": null
       },
       "kleur": "#4A90D9",
-      "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
+      "status": "niet_inplannen",
+      "notitie": "GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nEven adem pauze nodig voor intakes. Niet inplannen voor komende week daarna weer in de lucht komen bij Ids",
+      "inplannen": true
     },
     "m021": {
       "naam": "Maxime van Eck",
@@ -1300,7 +1301,7 @@
       ]
     }
   ],
-  "volgnummer_teller": 80,
+  "volgnummer_teller": 81,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1618,8 +1619,8 @@
         "zo": null
       },
       "kleur": "#4A90D9",
-      "status": "wel_inplannen",
-      "notitie": "GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 November. Kan volgens schema ingepland worden\nWeek 45 - 3 CL's\nWeek 46 - 4 CL's\nWeek 47 - 5 CL's\nWeek 48 - 6 CL's"
+      "status": "niet_inplannen",
+      "notitie": "GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nEven adem pauze nodig voor intakes. Niet inplannen voor komende week daarna weer in de lucht komen bij Ids"
     },
     "Maxime van Eck": {
       "locatie": "Krimpertplein 32",
@@ -1863,15 +1864,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T15:10:06",
+  "opgeslagen_op": "2026-11-13T16:18:15",
   "wijzigingen": [
-    {
-      "id": 19,
-      "tijdstip": "2026-09-22T13:36:34",
-      "regels": [
-        "Template toegevoegd: \"Wachttijd Zorgplafond\""
-      ]
-    },
     {
       "id": 20,
       "tijdstip": "2026-09-23T08:51:15",
@@ -2265,6 +2259,14 @@
       "tijdstip": "2026-11-13T15:09:51",
       "regels": [
         "Naam gewijzigd: Hanneke Anker Smit → Hanneke Ankersmit"
+      ]
+    },
+    {
+      "id": 81,
+      "tijdstip": "2026-11-13T16:18:15",
+      "regels": [
+        "Status van Marlous Westra: Wel inplannen → Niet inplannen",
+        "Notitie bij Marlous Westra: \"GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 …\" → \"GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nEven adem…\""
       ]
     }
   ]
