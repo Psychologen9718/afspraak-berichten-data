@@ -52,8 +52,8 @@
         "zo": null
       },
       "kleur": "#E8A838",
-      "status": "wel_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg.",
+      "status": "niet_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg.\n\neven adem pauze nodig voor intakes. Niet inplannen voor komende week daarna weer in de lucht komen bij Ids",
       "inplannen": true
     },
     "m004": {
@@ -1302,7 +1302,7 @@
       ]
     }
   ],
-  "volgnummer_teller": 82,
+  "volgnummer_teller": 83,
   "app_update": {
     "versie": "1.2.0",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1350,8 +1350,8 @@
         "zo": null
       },
       "kleur": "#E8A838",
-      "status": "wel_inplannen",
-      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg."
+      "status": "niet_inplannen",
+      "notitie": "GZ-psycholoog in opleiding tot Psychotherapeut. \nWerkt tot 1-1-2026 op Bimre, in 2027 aan de Willemparksweg.\n\neven adem pauze nodig voor intakes. Niet inplannen voor komende week daarna weer in de lucht komen bij Ids"
     },
     "Barbara Loomans": {
       "locatie": "Radesingel 6",
@@ -1865,15 +1865,8 @@
     }
   },
   "laatst_bijgewerkt": "2026-11-13",
-  "opgeslagen_op": "2026-11-13T16:19:14",
+  "opgeslagen_op": "2026-11-13T16:43:25",
   "wijzigingen": [
-    {
-      "id": 20,
-      "tijdstip": "2026-09-23T08:51:15",
-      "regels": [
-        "Template \"Wachttijd Zorgplafond\" gewijzigd"
-      ]
-    },
     {
       "id": 21,
       "tijdstip": "2026-09-23T09:18:27",
@@ -2268,6 +2261,14 @@
       "regels": [
         "Status van Marlous Westra: Wel inplannen → Niet inplannen",
         "Notitie bij Marlous Westra: \"GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nBegint 1 …\" → \"GZ-Psycholoog.\nRegiebehandelaar van Eva\n\nEven adem…\""
+      ]
+    },
+    {
+      "id": 83,
+      "tijdstip": "2026-11-13T16:43:25",
+      "regels": [
+        "Status van Annemarie Speel: Wel inplannen → Niet inplannen",
+        "Notitie bij Annemarie Speel: \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\" → \"GZ-psycholoog in opleiding tot Psychotherapeut. \nW…\""
       ]
     }
   ]
