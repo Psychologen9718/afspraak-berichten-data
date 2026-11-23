@@ -1315,9 +1315,16 @@
         "m003",
         "m020"
       ]
+    },
+    {
+      "id": 89,
+      "datum": "2026-11-23",
+      "titel": "Extra aandacht graag! Declaratie Fouten",
+      "tekst": "Ik loop tegen veel declaratie fouten aan dus vandaar dat ik graag even aandacht wil vragen voor het volgende. \n•⁠  ⁠Controleer altijd of de juiste Huisarts OF Psycholoog of andere type verwijzer genoteerd staat bij contacten. Als een GZ psycholoog verwijst kan je deze neerzetten bij Arts/Specialist\n•⁠  ⁠⁠Als je een adreswijziging doorvoert doe dit op basis van Postcode en huisnummer, nooit via straat. Dan krijg ik een foutmelding. \n•⁠  ⁠⁠Bij het zorgtraject aanmaken moet er altijd “Verwijzing aanwezig\" Geselecteerd worden, en daaronder moet de huisarts komen te staan. Als die er niet komt te staan moet je zelf de huisarts (of overige verwijzer opzoeken) Zonder dat veld kunnen afspraken niet gedeclareerd worden. \nIk loop tegen veel declaratie fouten aan dus vandaar dat ik graag even aandacht wil vragen voor het volgende. \n•⁠  ⁠Controleer altijd of de juiste Huisarts OF Psycholoog of andere type verwijzer genoteerd staat bij contacten. Als een GZ psycholoog verwijst kan je deze neerzetten bij Arts/Specialist\n•⁠  ⁠⁠Als je een adreswijziging doorvoert doe dit op basis van Postcode en huisnummer, nooit via straat. Dan krijg ik een foutmelding. \n•⁠  ⁠⁠Bij het zorgtraject aanmaken moet er altijd “Verwijzing aanwezig\" Geselecteerd worden, en daaronder moet de huisarts komen te staan. Als die er niet komt te staan moet je zelf de huisarts (of overige verwijzer opzoeken) Zonder dat veld kunnen afspraken niet gedeclareerd worden.",
+      "belangrijk": true
     }
   ],
-  "volgnummer_teller": 88,
+  "volgnummer_teller": 89,
   "app_update": {
     "versie": "1.2.1",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
@@ -1864,8 +1871,8 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-11-16",
-  "opgeslagen_op": "2026-11-16T11:01:48",
+  "laatst_bijgewerkt": "2026-11-23",
+  "opgeslagen_op": "2026-11-23T11:32:08",
   "wijzigingen": [
     {
       "id": 26,
