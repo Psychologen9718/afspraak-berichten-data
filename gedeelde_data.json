@@ -1324,9 +1324,9 @@
       "belangrijk": true
     }
   ],
-  "volgnummer_teller": 89,
+  "volgnummer_teller": 90,
   "app_update": {
-    "versie": "1.2.1",
+    "versie": "1.2.2",
     "link": "https://bimreggz.sharepoint.com/sites/Secretariaat2/Gedeelde%20documenten/Forms/AllItems.aspx?id=%2Fsites%2FSecretariaat2%2FGedeelde%20documenten%2FWerkwijzen%2FInplannen%2FAfspraak%20Berichten%20Tool&viewid=7cbe840c%2D59cf%2D4aba%2Da404%2D0125500be9d1&FolderCTID=0x012000ECA9F7D0FD74544E9E6CEFE18409EBD8"
   },
   "behandelaars": {
@@ -1871,16 +1871,9 @@
       "notitie": "Masterpsycholoog\nRB = Kawa Al Ali \n\nWerkt vanaf 30-10 3 dagen en 4 cliënten per dan. Dinsdag komterbij\nWil liever geen Cliënten die in Meerstad zelf wonen"
     }
   },
-  "laatst_bijgewerkt": "2026-11-23",
-  "opgeslagen_op": "2026-11-23T15:21:37",
+  "laatst_bijgewerkt": "2026-11-25",
+  "opgeslagen_op": "2026-11-25T09:10:01",
   "wijzigingen": [
-    {
-      "id": 26,
-      "tijdstip": "2026-09-29T09:58:31",
-      "regels": [
-        "Template toegevoegd: \"Online Vervolg\""
-      ]
-    },
     {
       "id": 27,
       "tijdstip": "2026-09-30T08:47:40",
@@ -2275,6 +2268,13 @@
       "tijdstip": "2026-11-16T11:01:48",
       "regels": [
         "Nieuwe app-versie beschikbaar: v1.2.1"
+      ]
+    },
+    {
+      "id": 90,
+      "tijdstip": "2026-11-25T09:10:01",
+      "regels": [
+        "Nieuwe app-versie beschikbaar: v1.2.2"
       ]
     }
   ]
